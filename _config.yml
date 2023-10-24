@@ -49,14 +49,7 @@ author: "The FoSIL-Team" # a default to place when author field is not specified
 
 defaults:
   -
-    scope:
-      path: ""
-      type: "Test #1"
-    values:
-      layout: "page"
-      background: "/assets/images/backgrounds/jans-steps-background.jpg"
-      -
-    scope:
+     scope:
       path: ""
       type: "pages"
     values:
