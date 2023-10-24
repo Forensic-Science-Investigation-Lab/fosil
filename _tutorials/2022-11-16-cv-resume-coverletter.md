@@ -68,10 +68,10 @@ themes: professional, applications, career, service, education, job, hiring
 #
 sort-weight: ##
 #
-# LEARNING OUTCOMES
-# List all the learning outcomes for the resource.
+# Studieninhalte
+# List all the Studieninhalte for the resource.
 #
-learning-outcomes:
+Studieninhalte:
     - The fundamentals of a resume
     - Components of a resume
     - Specific sets of skills to highlight in your resume

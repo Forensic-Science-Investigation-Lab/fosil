@@ -68,10 +68,10 @@ themes: sources, citing, research
 #
 sort-weight: ##
 #
-# LEARNING OUTCOMES
-# List all the learning outcomes for the resource.
+# Studieninhalte
+# List all the Studieninhalte for the resource.
 #
-learning-outcomes:
+Studieninhalte:
 - Differentiate scholarly sources from popular sources and primary sources from secondary sources. 
 - Describe the value of different types of popular, scholarly, primary, and secondary sources. 
 - Identify and categorize your research materials, according to the categories and types of information covered.

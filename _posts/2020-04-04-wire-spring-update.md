@@ -89,7 +89,7 @@ WI+RE recently launched three new workshops as part of the new [Entering Researc
 
 The three new workshops include essential tips on [Beginning Your Research Journey](https://uclalibrary.github.io/research-tips/workshops/beginning-your-research-journey/), getting to know [Research Logistics](https://uclalibrary.github.io/research-tips/workshops/research-logistics/) at UCLA, as well as a [Finding a Research Mentor](https://uclalibrary.github.io/research-tips/workshops/finding-a-mentor-or-project/), which addresses what can be one of the biggest challenges with undergraduate research!
 
-Many thanks to our co-authors on these workshops: Giselle Burns, Kian Ravaei, and Xinyi Yan!!! Thanks also to Janet Goins, Kelly Kistner, Tama Hasson, Renee Romero, Doug Worsham for extensive contributions - from the initial learning outcomes to the published workshops!
+Many thanks to our co-authors on these workshops: Giselle Burns, Kian Ravaei, and Xinyi Yan!!! Thanks also to Janet Goins, Kelly Kistner, Tama Hasson, Renee Romero, Doug Worsham for extensive contributions - from the initial Studieninhalte to the published workshops!
 
 Please take a look and let us know your feedback! We are currently looking for instructors and programs that would like to integrate these workshops!
 
@@ -183,7 +183,7 @@ We are very excited about our ongoing collaboration with the Writing Center Peer
 
 ### New project ideas from Library staff
 
-Library staff from across UCLA have shared a large set of ideas for future projects on everything from using images as evidence, to finding open data sources, to navigating finding aids and searching for primary sources. We're thrilled with this big collection of new ideas and looking forward to next steps! Get ready to empathy map and make learning outcomes!
+Library staff from across UCLA have shared a large set of ideas for future projects on everything from using images as evidence, to finding open data sources, to navigating finding aids and searching for primary sources. We're thrilled with this big collection of new ideas and looking forward to next steps! Get ready to empathy map and make Studieninhalte!
 
 <a name="your-ideas"></a>
 ### Your ideas

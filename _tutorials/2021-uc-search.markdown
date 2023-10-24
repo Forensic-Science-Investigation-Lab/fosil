@@ -73,10 +73,10 @@ themes: Finding and Citing Sources
 #
 sort-weight:
 #
-# LEARNING OUTCOMES
-# List all the learning outcomes for the resource.
+# Studieninhalte
+# List all the Studieninhalte for the resource.
 #
-learning-outcomes:
+Studieninhalte:
     - Articulate the resources and locations that the UC Library Search is capable of searching
     - Identify the location of the UC Library Search bar
     - Differentiate between the UC Library Search search scopes

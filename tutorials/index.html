@@ -81,13 +81,13 @@ background:
                                     </p>
                                 <!--learning outcome tool tip-->
 <!--
-                                {% if tutorial.learning-outcomes %}
+                                {% if tutorial.Studieninhalte %}
                                 {% assign outcomeoutput = "" %}
-                                {% for outcome in tutorial.learning-outcomes %}
+                                {% for outcome in tutorial.Studieninhalte %}
                                     {% assign outcomeoutput = outcomeoutput | append: "&#8226;" | append: outcome | append: "&#13;" %}
                                 {% endfor %}
-                                <div class="btn-group btn-group-sm float-left mb-3" role="group" aria-label="Learning Outcomes">
-                                    <a href="" data-html="true" class="btn btn-secondary" data-toggle="tooltip" text-align="left" data-placement="top" title="{{ outcomeoutput }}">Learning Outcomes</a>
+                                <div class="btn-group btn-group-sm float-left mb-3" role="group" aria-label="Studieninhalte">
+                                    <a href="" data-html="true" class="btn btn-secondary" data-toggle="tooltip" text-align="left" data-placement="top" title="{{ outcomeoutput }}">Studieninhalte</a>
                                 </div>
                                 {% endif %}
 -->

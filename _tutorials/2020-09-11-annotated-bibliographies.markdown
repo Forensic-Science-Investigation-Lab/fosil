@@ -23,7 +23,7 @@ sort-weight: 15
 # - { text: 'Transcript Available in Tutorial' }
 # ######
 accessibility-info:
-learning-outcomes:
+Studieninhalte:
     - Identify components of an annotated bibliography
     - List reasons for making an annotated bibliography
     - Define four types of annotations

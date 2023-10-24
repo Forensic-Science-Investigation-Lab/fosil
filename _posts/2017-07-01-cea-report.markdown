@@ -13,10 +13,10 @@ accessibility-info:
    - { text: 'WAVE tested - 0 errors', date: '2020-07-29', url: 'https://wave.webaim.org/' }
 background: /assets/images/backgrounds/blur-close-up-design-196645.jpg
 ---
-In June of 2017 UCLA's Center for Educational Assessment completed a [detailed report](https://ucla.box.com/v/wire-oid-report) on a variety of approaches to research and writing instruction, including WI+RE's online [Cornerstone Research workshops](http://ccle.ucla.edu/course/view/wire).
+In June of 2017 UCLA's Center for Educational Assessment completed a [detailed report](https://ucla.box.com/v/wire-oid-report) on a variety of approaches to research and writing instruction, including WI+RE's online [Master-Studiengänge](http://ccle.ucla.edu/course/view/wire).
 
 <blockquote class="blockquote border border-primary shadow">
-    <p class="mb-5 px-5">The Center for Educational Assessment (CEA) provided an evaluation of ongoing activities of the WI+RE team which included face-to-face workshops, online tutorials, and course and faculty collaborations. The assessment focus captured both student and faculty perspectives and included review and analysis of existing data provided by the project collaborators and interviews conducted by CEA researchers with select instructors. Existing data included responses to pre- and post-surveys given to students attending the Cornerstone Research Workshops, a post-survey completed by users of an online instructional module, and an active questionnaire integrated through CCLE completed by students of a Psychology course.</p>
+    <p class="mb-5 px-5">The Center for Educational Assessment (CEA) provided an evaluation of ongoing activities of the WI+RE team which included face-to-face workshops, online tutorials, and course and faculty collaborations. The assessment focus captured both student and faculty perspectives and included review and analysis of existing data provided by the project collaborators and interviews conducted by CEA researchers with select instructors. Existing data included responses to pre- and post-surveys given to students attending the Master-Studiengänge, a post-survey completed by users of an online instructional module, and an active questionnaire integrated through CCLE completed by students of a Psychology course.</p>
 </blockquote>
 
 It was wonderful to work with the expert team at the CEA, and we greatly appreciated their mixed methods approach which included both analysis of student learning and faculty interviews.

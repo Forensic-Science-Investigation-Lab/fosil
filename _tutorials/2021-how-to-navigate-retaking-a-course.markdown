@@ -48,7 +48,7 @@ themes: academic advising, mental health, grades, retaking a course, emotional h
 # This number determines where the resource will appear within the category. Larger numbers appear later within the category, and higher numbers appear earlier.
 #
 sort-weight: 01
-learning-outcomes:
+Studieninhalte:
     - Recognize you're not alone and this happens more often than you think
     - Recognize that self-worth is separate from academic success
     - Determine whether they have a fixed or growth mindset

@@ -26,7 +26,7 @@ accessibility-info:
     - { text: 'Closed Captioning Available' }
     - { text: 'WAVE tested - 0 errors', date: '2020-07-15', url: 'https://wave.webaim.org/' }
     - { text: 'Issues filed for two accessibility improvements - headers and more descriptive alt text', date: '2020-07-15', url: 'https://github.com/UCLALibrary/research-tips/issues' }
-learning-outcomes:
+Studieninhalte:
    - Develop a general topic or idea into a set of exploratory research questions
    - Narrow (and broaden) research questions using a variety of strategies (e.g., geographic area, cultural aspects, groups of people, time spans, or other strategies)
 # ACRL FRAMES

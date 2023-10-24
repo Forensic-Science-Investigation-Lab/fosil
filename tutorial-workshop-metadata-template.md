@@ -66,10 +66,10 @@ themes:
 #
 sort-weight: ##
 #
-# LEARNING OUTCOMES
-# List all the learning outcomes for the resource.
+# Studieninhalte
+# List all the Studieninhalte for the resource.
 #
-learning-outcomes:
+Studieninhalte:
     - a list
     - of learning outcome
     - statements

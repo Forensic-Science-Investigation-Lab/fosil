@@ -65,7 +65,7 @@ authors:
                     {% endif %}
                   {% endfor %}
             {% if maxRelatedCounter != 0 %}
-            <a class="btn btn-primary" data-toggle="collapse" href="#{{ hrefname }}Resources" role="button" aria-expanded="false" aria-controls="{{ hrefname }}Resources">Related Resources</a>
+            <a class="btn btn-primary" data-toggle="collapse" href="#{{ hrefname }}Resources" role="button" aria-expanded="false" aria-controls="{{ hrefname }}Resources">Verknüpfte Inhalte</a>
             {% endif %}
             {% if entry.reference %}
                 <a class="btn btn-primary" data-toggle="collapse" href="#{{ hrefname }}Reference" role="button" aria-expanded="false" aria-controls="{{ hrefname }}Reference">Reference</a>

@@ -13,7 +13,7 @@
     <table class="table table-sm table-responsive-sm">
         <thead>
             <th scope="col">Title</th>
-            <th scope="col">Learning Outcomes</th>
+            <th scope="col">Studieninhalte</th>
             <th scope="col" style="display: none;">Tags</th> <!-- use tags for common search terms, e.g., "lit review" - column is hidden but matching results will still display -->
         </thead>
         <tbody id="myTable">
@@ -30,9 +30,9 @@
                             {% endfor %}
                         </td>
                         <td>
-                            {% if item.learning-outcomes %}
+                            {% if item.Studieninhalte %}
                                 <ul>
-                                    {% for outcome in item.learning-outcomes %}
+                                    {% for outcome in item.Studieninhalte %}
                                         <li>{{ outcome }}</li>
                                     {% endfor %}
                                 </ul>

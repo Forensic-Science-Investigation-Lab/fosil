@@ -55,10 +55,10 @@ themes:
 #
 sort-weight: ##
 #
-# LEARNING OUTCOMES
-# List all the learning outcomes for the resource.
+# Studieninhalte
+# List all the Studieninhalte for the resource.
 #
-learning-outcomes:
+Studieninhalte:
     - Articulate the publications and research conducted in the labs you are interested in working in with your own words.
     - Craft a successful email that will make you stand out from the other individuals that send out emails to the same faculty member. 
 #

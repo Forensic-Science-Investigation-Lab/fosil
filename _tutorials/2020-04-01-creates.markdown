@@ -70,10 +70,10 @@ themes:
 #
 sort-weight: 12
 #
-# LEARNING OUTCOMES
-# List all the learning outcomes for the resource.
+# Studieninhalte
+# List all the Studieninhalte for the resource.
 #
-learning-outcomes:
+Studieninhalte:
     - critically read and analyze scientific literature
     - create a concept map based on a scientific article
     - sketch the methods and annotate the figures of a scientific article

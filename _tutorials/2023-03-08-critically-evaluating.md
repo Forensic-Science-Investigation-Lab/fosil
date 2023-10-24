@@ -68,10 +68,10 @@ themes: sources, citing, research, positionality
 #
 sort-weight: ##
 #
-# LEARNING OUTCOMES
-# List all the learning outcomes for the resource.
+# Studieninhalte
+# List all the Studieninhalte for the resource.
 #
-learning-outcomes:
+Studieninhalte:
 - Define positionality in relation to the research process.
 - Discuss the role your positionalities play when doing academic research.
 - Practice quickly identifying the reliability and validity of a given source given its type, methodology, publication, date, accuracy of sources cited, and other factors.

@@ -23,7 +23,7 @@ sort-weight: 15
 # ACCESSIBILITY INFO
 # - { text: 'WAVE tested - 0 errors', date: '2020-09-18', url: 'https://wave.webaim.org/' }
 # ######
-learning-outcomes:
+Studieninhalte:
     - Explain what positionality refers to in the research process
     - Discuss the role your positionality plays when doing academic research
     - Begin to identify what biases and insights come with the social identities you embody

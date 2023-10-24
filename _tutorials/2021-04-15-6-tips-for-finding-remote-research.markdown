@@ -76,10 +76,10 @@ themes:
 #
 sort-weight: ##
 #
-# LEARNING OUTCOMES
-# List all the learning outcomes for the resource.
+# Studieninhalte
+# List all the Studieninhalte for the resource.
 #
-learning-outcomes:
+Studieninhalte:
     - List six tips for finding remote research opportunities at UCLA
 #
 # ACCESSIBILITY INFO

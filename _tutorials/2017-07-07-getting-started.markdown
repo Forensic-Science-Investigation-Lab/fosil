@@ -36,7 +36,7 @@ sort-weight: 3
 accessibility-info:
     - { text: 'Closed Captioning Available' }
     - { text: 'WAVE tested - 0 errors', date: '2020-10-02', url: 'https://wave.webaim.org/' }
-learning-outcomes:
+Studieninhalte:
     - Brainstorm research projects
     - Articulate the benefits of research 
     - Identify undergraduate research opportunities and resources at UCLA 

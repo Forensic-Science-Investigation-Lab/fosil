@@ -71,10 +71,10 @@ themes:
 #
 sort-weight: 
 #
-# LEARNING OUTCOMES
-# List all the learning outcomes for the resource.
+# Studieninhalte
+# List all the Studieninhalte for the resource.
 #
-learning-outcomes:
+Studieninhalte:
     - List at least 3 ways to brainstorm their research interests
     - Brainstorm at least 3 research interests
 #
@@ -117,7 +117,7 @@ tags:
     - Entering Research
 ---
 
-<i class="text-muted">This tutorial is excerpted from the <a href="{{ '/workshops/beginning-your-research-journey/' | relative_url }}">Beginning Your Research Journey</a> workshop. Check out the <a href="{{ '/workshops/#entering-research-workshops' | relative_url }}">Entering Research Workshops</a> for more tips on getting started with research!</i>
+<i class="text-muted">This tutorial is excerpted from the <a href="{{ '/workshops/beginning-your-research-journey/' | relative_url }}">Beginning Your Research Journey</a> workshop. Check out the <a href="{{ '/workshops/#entering-research-workshops' | relative_url }}">Bachelor-Studiengänge</a> for more tips on getting started with research!</i>
 
 ## Ways to Brainstorm Your Research Interests
 
@@ -127,9 +127,9 @@ It can be daunting to realize that you may not know what you are interested in, 
 
 ## What's next?
 
-Congratulations! You’ve completed one of the most important steps on your research journey. A good next step is to find a research mentor or project related to your interests. You can learn how to do that (and much more) in the <a href="{{ '/workshops/#entering-research-workshops' | relative_url }}">Entering Research Workshops</a>! What are you waiting for? Go out and research!
+Congratulations! You’ve completed one of the most important steps on your research journey. A good next step is to find a research mentor or project related to your interests. You can learn how to do that (and much more) in the <a href="{{ '/workshops/#entering-research-workshops' | relative_url }}">Bachelor-Studiengänge</a>! What are you waiting for? Go out and research!
 
 ## Resources
 
-- <a href="{{ '/workshops/#entering-research-workshops' | relative_url }}"><u>Entering Research Workshops</u></a>
-- <a href="{{ '/workshops/#cornerstone-research-workshops' | relative_url }}"><u>Cornerstone Research Workshops</u></a>
+- <a href="{{ '/workshops/#entering-research-workshops' | relative_url }}"><u>Bachelor-Studiengänge</u></a>
+- <a href="{{ '/workshops/#cornerstone-research-workshops' | relative_url }}"><u>Master-Studiengänge</u></a>

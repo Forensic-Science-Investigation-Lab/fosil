@@ -64,10 +64,10 @@ category: Writing Strategies
 #
 sort-weight:
 #
-# LEARNING OUTCOMES
-# List all the learning outcomes for the resource.
+# Studieninhalte
+# List all the Studieninhalte for the resource.
 #
-learning-outcomes:
+Studieninhalte:
     - Break down a prompt into the main tasks and requirements
     - List resources and readings that will be helpful for answering the prompt
     - Brainstorm ideas for the answering the prompt

@@ -11,7 +11,7 @@ contributors:
 thumbnail: /assets/tutorials/thumbnails/Virtual_consultation.png
 category: Getting Started with Research
 sort-weight: 5
-learning-outcomes:
+Studieninhalte:
     - Learn how to schedule a remote virtual reseach consultation 
 # ACRL FRAMES
 acrl-frames:

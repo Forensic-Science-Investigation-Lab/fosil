@@ -11,7 +11,7 @@ description: An elevator speech is a great way to introduce yourself and your re
 thumbnail: /assets/tutorials/thumbnails/ElevatorSpeechThumbnail.jpg
 category: Sharing Your Research
 sort-weight: 53
-learning-outcomes:
+Studieninhalte:
     - Describe the elements of an effective elevator speech
     - Sketch an elevator speech
     - Distinguish elevator speech from research abstract

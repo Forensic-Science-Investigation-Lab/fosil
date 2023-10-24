@@ -68,10 +68,10 @@ themes:
 #
 sort-weight:
 #
-# LEARNING OUTCOMES
-# List all the learning outcomes for the resource.
+# Studieninhalte
+# List all the Studieninhalte for the resource.
 #
-learning-outcomes:
+Studieninhalte:
     - Develop a plan for taking real-life and virtual timed tests
     - Identify strategies for answering multiple-choice and free response questions
 #

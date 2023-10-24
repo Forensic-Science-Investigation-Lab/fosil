@@ -17,7 +17,7 @@ category: Literature Reviews
 sort-weight: 43
 accessibility-info:
    - { text: 'WAVE tested - 0 errors', date: '2020-10-02', url: 'https://wave.webaim.org/' }
-learning-outcomes:
+Studieninhalte:
     - Summarize a review article and its purpose
     - Find review articles in various databases
     - Identify signifcant filter terms for searching review articles

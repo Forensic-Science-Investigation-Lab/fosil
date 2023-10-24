@@ -21,7 +21,7 @@
         <thead>
             <th scope="col" style="display: none;">Thumbnail</th>
             <th scope="col" style="display: none;">Title</th>
-            <th scope="col" style="display: none;">Learning Outcomes</th>
+            <th scope="col" style="display: none;">Studieninhalte</th>
             <th scope="col" style="display: none;">Tags</th> <!-- use tags for common search terms, e.g., "lit review" - column is hidden but matching results will still display -->
         </thead>
         <tbody id="myTable">
@@ -40,9 +40,9 @@
                             <p><strong><a href="{{ item.url | relative_url }}">{{ item.title }}</a> {% if item.awards %}{% for award in item.awards %}{% include award-namify.html %} <i aria-hidden="true" class="fas fa-award" data-toggle="tooltip" data-placement="right" title="{{ awardName }}"></i><span class="sr-only">{{ awardName }}</span>{% endfor %}{% endif %}<small><em> ({{ item.layout | capitalize }})</em></small></strong></p>
                         </td>
                         <td style="display: none;">
-                                {% if item.learning-outcomes %}
+                                {% if item.Studieninhalte %}
                                     <ul>
-                                        {% for outcome in item.learning-outcomes %}
+                                        {% for outcome in item.Studieninhalte %}
                                             <li>{{ outcome }}</li>
                                         {% endfor %}
                                     </ul>

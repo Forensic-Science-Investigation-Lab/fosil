@@ -60,10 +60,10 @@ category: Finding and Citing Sources
 #
 sort-weight: 33.25
 #
-# LEARNING OUTCOMES
-# List all the learning outcomes for the resource.
+# Studieninhalte
+# List all the Studieninhalte for the resource.
 #
-learning-outcomes:
+Studieninhalte:
     - Understand that terminology and scholarly language is contextual, temporal, and fluid
     - Identify alternate terms for a term in dated literature
     - Identify when a term is introduced in the literature

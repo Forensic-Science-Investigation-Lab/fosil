@@ -38,7 +38,7 @@ thumbnail: /assets/tutorials/thumbnails/ZoteroThumbnail.png
 handout: 
 category: Finding and Citing Sources
 sort-weight: 37
-learning-outcomes:
+Studieninhalte:
    - Create Zotero Account
    - Organize your Library
    - Generate a bibliography in a chosen citation style (e.g. MLA, APA, Chicago, etc.)

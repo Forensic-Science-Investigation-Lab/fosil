@@ -69,10 +69,10 @@ themes:
 #
 sort-weight:
 #
-# LEARNING OUTCOMES
-# List all the learning outcomes for the resource.
+# Studieninhalte
+# List all the Studieninhalte for the resource.
 #
-learning-outcomes:
+Studieninhalte:
     - List replisome components that act before, during, and after DNA replication.
     - Identify the major modules of DNA polymerase III and their roles in replication  
 # ACCESSIBILITY INFO

@@ -51,10 +51,10 @@ themes:
 #
 sort-weight: 20
 #
-# LEARNING OUTCOMES
-# List all the learning outcomes for the resource.
+# Studieninhalte
+# List all the Studieninhalte for the resource.
 #
-learning-outcomes:
+Studieninhalte:
     - identify the requisite steps to writing a thesis statement 
     - recognize examples of effective and ineffective thesis statements
     - identify the components of a well structured thesis statement 

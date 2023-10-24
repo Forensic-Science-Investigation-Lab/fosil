@@ -19,7 +19,7 @@ thumbnail: /assets/tutorials/thumbnails/readingpedigreesthumbnail.png
 handout: 
 category: STEM Tutorials
 themes: stem, biology, Life Sciences, genetics, pedigrees
-learning-outcomes:
+Studieninhalte:
     - Differentiate between recessive and dominant genotypes
     - Recognize how heterozygous traits are shown on a pedigree
     - Identify the different genotype possibilities and/or modes of inheritance given an individual's parents/offspring

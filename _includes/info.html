@@ -56,10 +56,10 @@
               <h3 class="card-title">Link</h3>
                 <p class="card-text"><a href="{{ page.url | absolute_url }}">{{ page.url | absolute_url }}</a></p>
         -->
-      {% if page.learning-outcomes %}
-        <h3 class="card-title">Learning Outcomes</h3>
+      {% if page.Studieninhalte %}
+        <h3 class="card-title">Studieninhalte</h3>
         <ul>
-            {% for outcome in page.learning-outcomes %}
+            {% for outcome in page.Studieninhalte %}
                 <li>
                     {{ outcome }}
                 </li>

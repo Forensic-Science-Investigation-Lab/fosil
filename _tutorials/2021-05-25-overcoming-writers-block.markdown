@@ -66,10 +66,10 @@ category: Writing Strategies
 #
 sort-weight: 
 #
-# LEARNING OUTCOMES
-# List all the learning outcomes for the resource.
+# Studieninhalte
+# List all the Studieninhalte for the resource.
 #
-learning-outcomes:
+Studieninhalte:
     - Identify writer's block and explain the different ways one might experience it
     - Discuss various strategies for overcoming writer's block
     - Assess your own writing situation and employ the most relevant strategy/solution

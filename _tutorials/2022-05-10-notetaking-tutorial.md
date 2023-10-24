@@ -66,10 +66,10 @@ category: Student Success
 #
 sort-weight: ##
 #
-# LEARNING OUTCOMES
-# List all the learning outcomes for the resource.
+# Studieninhalte
+# List all the Studieninhalte for the resource.
 #
-learning-outcomes:
+Studieninhalte:
     - Identify strategies to take notes effectively
     - Understand how various methods of taking notes work best in specific situations
     - Recognize common pitfalls of note-taking

@@ -1,29 +1,16 @@
 ---
-title:  "Beginning Your Research Journey"
-description: "Anyone can get started with research—all it takes is some curiosity and persistence! This quick workshop will help you get started."
+title:  "Allgemeine und Digitale Forensik B.Sc."
+description: "Bachlor-Studiengang Allgemeine und Digitale Foresnik"
 # todo:: determine publication date
 date:   2019-12-01
 last-updated: 2020-05-22
 authors:
-    - giselle-burns
-    - kian-ravaei
-    - xinyi-yan
 contributors:
-    - Janet Goins
-    - Kelly Kistner
-    - Tama Hasson
-    - renee-romero
-    - doug-worsham
 awards:
-    - primo2020
-    - merlot-5-star-editor-review
 references:
-    - { text: 'CIMER - Center for the Improvement of Mentored Experiences in Research', url: 'https://cimerproject.org/' }
-    - { text: 'UCLA Undergraduate Research Center - Humanities, Arts, and Social Sciences', url: 'http://sciences.ugresearch.ucla.edu/' }
-    - { text: 'UCLA Undergraduate Research Center Sciences', url: 'http://hass.ugresearch.ucla.edu/' }
 thumbnail: /assets/workshops/thumbnails/ResearchJourneyThumbnail.png
 sort-weight: 1
-learning-outcomes:
+Studieninhalte:
     - Identify your areas of interest for a research project
     - Find campus resources that match your needs and interests
     - Create a concrete plan with the first steps for getting involved in research
@@ -49,7 +36,7 @@ tags:
     - Entering Research
     - stem
     - science
-category: Entering Research Workshops
+category: Bachelor-Studiengänge
 ---
 <!--H5P-->
 <iframe src="https://uclabruinlearn.h5p.com/content/1291709895268950078/embed" width="100%" height="505" frameborder="0" allowfullscreen="allowfullscreen" class="mb-3"></iframe><script src="https://uclalibrary.github.io/research-tips/assets/js/resizer.js" charset="UTF-8"></script>

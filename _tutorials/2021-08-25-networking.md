@@ -66,10 +66,10 @@ themes:
 #
 sort-weight: ##
 #
-# LEARNING OUTCOMES
-# List all the learning outcomes for the resource.
+# Studieninhalte
+# List all the Studieninhalte for the resource.
 #
-learning-outcomes:
+Studieninhalte:
     - Articulate the benefits of networking
     - Identify effective strategies for networking in multiple contexts
     - Identify strategies for maintaining connections with your network

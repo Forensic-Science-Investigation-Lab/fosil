@@ -17,7 +17,7 @@ thumbnail: /assets/tutorials/thumbnails/HWETutorial.png
 category: STEM Tutorials
 themes: stem, biology, Life Sciences, Hardy-Weinberg, Hardy-Weinberg Equilibrium, allele frequency, genotype frequency, evolution
 sort-weight: 4
-learning-outcomes:
+Studieninhalte:
     - Recall the five assumptions of Hardy-Weinberg Equilibrium
     - Examine whether or not a population has undergone evolution
     - Determine allele frequencies in a population given phenotypic or genotypic data

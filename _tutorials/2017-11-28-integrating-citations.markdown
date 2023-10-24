@@ -24,7 +24,7 @@ sort-weight: 23
 # ######
 accessibility-info:
     - { text: 'WAVE tested - 0 errors', date: '2020-09-22', url: 'https://wave.webaim.org/' }
-learning-outcomes:
+Studieninhalte:
     - Summarize citation structures for sources in research
     - Recognize the purpose of each listed citation strategy
     - Locate appropriate spaces for citation structures and strategies in research

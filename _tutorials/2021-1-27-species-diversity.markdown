@@ -66,10 +66,10 @@ themes:
 #
 sort-weight:
 #
-# LEARNING OUTCOMES
-# List all the learning outcomes for the resource.
+# Studieninhalte
+# List all the Studieninhalte for the resource.
 #
-learning-outcomes:
+Studieninhalte:
     - Define the different types of biodiversity
     - Calculate the alpha, beta, and gamma diversity of a model ecosystem
     - Assess how human interactions can affect ecosystem biodiversity

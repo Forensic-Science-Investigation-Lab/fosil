@@ -10,12 +10,12 @@ contributors:
     - Powell Library
 description: "Navigate your research with ease and pick out the best sources for your project! In this module, you'll explore the library research guides, learn strategies for finding the information you need, and find out about research consultations."
 thumbnail: /assets/workshops/thumbnails/Source-Seeker.png
-category: Cornerstone Research Workshops
+category: Master-Studiengänge
 #
-# LEARNING OUTCOMES
-# List all the learning outcomes for the resource.
+# Studieninhalte
+# List all the Studieninhalte for the resource.
 #
-learning-outcomes:
+Studieninhalte:
     - Find research guides related to your project
     - Find sources using the UCLA Library catalog
     - Find scholarly articles using online databases
@@ -35,7 +35,7 @@ tags:
 - searching for books
 - searching for articles
 - research at UCLA
-- Cornerstone Research Workshops
+- Master-Studiengänge
 - finding books
 - finding articles
 featured: yes

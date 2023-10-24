@@ -29,7 +29,7 @@ sort-weight: 15
 # ######
 accessibility-info:
     - { text: 'Transcript Available in Tutorial' }
-learning-outcomes:
+Studieninhalte:
     - Use the UCLA Library website to find and cite image resources
     - Explain the difference between copyright and creative commons licensing
 # ACRL FRAMES

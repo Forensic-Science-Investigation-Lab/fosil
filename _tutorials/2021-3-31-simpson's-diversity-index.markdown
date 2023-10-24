@@ -65,10 +65,10 @@ themes:
 #
 sort-weight:
 #
-# LEARNING OUTCOMES
-# List all the learning outcomes for the resource.
+# Studieninhalte
+# List all the Studieninhalte for the resource.
 #
-learning-outcomes:
+Studieninhalte:
     - Articulate the meaning behind the Simpson’s diversity equation
     - Calculate a Simpson’s index
     - Articulate how population dynamics can shift the Index value

@@ -71,10 +71,10 @@ themes:
 #
 sort-weight: 
 #
-# LEARNING OUTCOMES
-# List all the learning outcomes for the resource.
+# Studieninhalte
+# List all the Studieninhalte for the resource.
 #
-learning-outcomes:
+Studieninhalte:
     - Identify three strategies for finding research opportunities.
 #
 # ACCESSIBILITY INFO
@@ -119,7 +119,7 @@ tags:
     - Entering Research
 ---
 
-<i class="text-muted">This tutorial is excerpted from the <a href="{{ '/workshops/finding-a-mentor-or-project/' | relative_url }}">Finding a Research Mentor or Project</a> workshop. Check out the <a href="{{ '/workshops/#entering-research-workshops' | relative_url }}">Entering Research Workshops</a> for more tips on getting started with research!</i>
+<i class="text-muted">This tutorial is excerpted from the <a href="{{ '/workshops/finding-a-mentor-or-project/' | relative_url }}">Finding a Research Mentor or Project</a> workshop. Check out the <a href="{{ '/workshops/#entering-research-workshops' | relative_url }}">Bachelor-Studiengänge</a> for more tips on getting started with research!</i>
 
 ## Identify Your Research Interests
 
@@ -163,8 +163,8 @@ Now that you know how to find research opportunities, **make a list of at least 
 
 - <a href="http://hass.ugresearch.ucla.edu/" target="_blank"><u>URC Humanities, Arts, and Social Sciences</u></a>
 - <a href="http://sciences.ugresearch.ucla.edu/" target="_blank"><u>URC Sciences</u></a>
-- <a href="{{ '/workshops/#entering-research-workshops' | relative_url }}"><u>Entering Research Workshops</u></a>
-- <a href="{{ '/workshops/#cornerstone-research-workshops' | relative_url }}"><u>Cornerstone Research Workshops</u></a>
+- <a href="{{ '/workshops/#entering-research-workshops' | relative_url }}"><u>Bachelor-Studiengänge</u></a>
+- <a href="{{ '/workshops/#cornerstone-research-workshops' | relative_url }}"><u>Master-Studiengänge</u></a>
 
 Have questions? <a href="{{ '/contact/' | relative_url }}">Click here to get in touch with WI+RE</a>!
 

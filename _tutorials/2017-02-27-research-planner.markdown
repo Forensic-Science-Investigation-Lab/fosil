@@ -24,7 +24,7 @@ handout: /assets/handouts/research-paper-planner-d2.pdf
 handout-thumbail: /assets/handouts/thumbnails/research-paper-planner-2-tn.png
 category: Getting Started with Research
 sort-weight: 5
-learning-outcomes:
+Studieninhalte:
    - Break down assignments into manageable deadlines
    - Track progress on assignments
    - Identify campus resources

@@ -22,7 +22,7 @@ sort-weight: 13
 accessibility-info:
    - { text: 'Closed Captioning Available' }
    - { text: 'WAVE tested - 0 errors', date: '2020-10-02', url: 'https://wave.webaim.org/' }
-learning-outcomes:
+Studieninhalte:
    - Identify various reading strategies (e.g. paraphrase as you read, make an annotation legend, prioritize new vocabulary, etc.)
    - Select personal reading strategies based on your experiences, preferences, and needs.
 # ACRL FRAMES

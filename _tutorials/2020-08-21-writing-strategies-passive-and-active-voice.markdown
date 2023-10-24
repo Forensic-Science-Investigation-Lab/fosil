@@ -58,10 +58,10 @@ sort-weight: 27
 # ######
 accessibility-info:
    - { text: 'Closed Captioning Available' }
-# LEARNING OUTCOMES
-# List all the learning outcomes for the resource.
+# Studieninhalte
+# List all the Studieninhalte for the resource.
 #
-learning-outcomes:
+Studieninhalte:
     - Identify differences between passive and active sentences
     - List reasons to use passive voice
     - Use passive and active voice to emphasize the doer or receiver

@@ -69,10 +69,10 @@ themes:
 #
 sort-weight: 
 #
-# LEARNING OUTCOMES
-# List all the learning outcomes for the resource.
+# Studieninhalte
+# List all the Studieninhalte for the resource.
 #
-learning-outcomes:
+Studieninhalte:
     - List the parts of a SMART goal
     - Identify at least three personal long-term academic SMART goals
     - Recognize the benefit of breaking down large goals into manageable tasks
@@ -116,7 +116,7 @@ tags:
     - Entering Research
 ---
 
-<i class="text-muted">This tutorial is excerpted from the <a href="{{ '/workshops/your-research-plan/' | relative_url }}">Your Research Plan</a> workshop. Check out the <a href="{{ '/workshops/#entering-research-workshops' | relative_url }}">Entering Research Workshops</a> for more tips on getting started with research!</i>
+<i class="text-muted">This tutorial is excerpted from the <a href="{{ '/workshops/your-research-plan/' | relative_url }}">Your Research Plan</a> workshop. Check out the <a href="{{ '/workshops/#entering-research-workshops' | relative_url }}">Bachelor-Studiengänge</a> for more tips on getting started with research!</i>
 
 ## SMART Goals
 
@@ -138,5 +138,5 @@ Need to break down a research paper project into manageable tasks? <b>Try using 
 
 ## Resources
 
-- <a href="{{ '/workshops/#entering-research-workshops' | relative_url }}"><u>Entering Research Workshops</u></a>
-- <a href="{{ '/workshops/#cornerstone-research-workshops' | relative_url }}"><u>Cornerstone Research Workshops</u></a>
+- <a href="{{ '/workshops/#entering-research-workshops' | relative_url }}"><u>Bachelor-Studiengänge</u></a>
+- <a href="{{ '/workshops/#cornerstone-research-workshops' | relative_url }}"><u>Master-Studiengänge</u></a>

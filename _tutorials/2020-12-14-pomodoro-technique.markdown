@@ -68,10 +68,10 @@ themes:
 #
 sort-weight:
 #
-# LEARNING OUTCOMES
-# List all the learning outcomes for the resource.
+# Studieninhalte
+# List all the Studieninhalte for the resource.
 #
-learning-outcomes:
+Studieninhalte:
     - Confidently complete work using the Pomodoro Technique
     - Develop a personalized study plan that works for you
     - Assess if the Pomodoro technique is right for you
