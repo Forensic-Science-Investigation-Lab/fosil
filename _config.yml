@@ -16,7 +16,7 @@
 title: FoSIL
 email: fosil@hs-mittweida.de
 description: >- # this means to ignore newlines until "baseurl:"
-  Kaffee, Snacks und Stress - FoSIL LIVE
+  Stress, Kaffee und Snacks
 baseurl: "/research-tips" # the subpath of your site, e.g. /blog
 url: "https://uclalibrary.github.io/research-tips" # the base hostname & protocol for your site, e.g. http://example.com
 instagram_username: forensik.studyweida
@@ -49,7 +49,7 @@ author: "The FoSIL-Team" # a default to place when author field is not specified
 
 defaults:
   -
-     scope:
+    scope:
       path: ""
       type: "pages"
     values:
