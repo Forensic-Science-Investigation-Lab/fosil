@@ -16,7 +16,7 @@
 title: FoSIL
 email: fosil@hs-mittweida.de
 description: >- # this means to ignore newlines until "baseurl:"
-  Stress, Kaffee und Snacks
+  Forensic Science Investigation Lab
 baseurl: "/fosil" # the subpath of your site, e.g. /blog
 url: "https://forensic-science-investigation-lab.github.io/fosil/" # the base hostname & protocol for your site, e.g. http://example.com
 instagram_username: forensik.studyweida
