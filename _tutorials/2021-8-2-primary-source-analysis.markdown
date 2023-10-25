@@ -68,10 +68,10 @@ themes:
 #
 sort-weight:
 #
-# Studieninhalte
-# List all the Studieninhalte for the resource.
+# Studienziel
+# List all the Studienziel for the resource.
 #
-Studieninhalte:
+Studienziel:
     - List 5 examples of questions to ask when analyzing primary sources
     - Identify the 5 basic steps of primary source analysis
     - Articulate how primary source content relates to research question in academic language 

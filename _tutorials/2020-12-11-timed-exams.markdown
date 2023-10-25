@@ -68,10 +68,10 @@ themes:
 #
 sort-weight:
 #
-# Studieninhalte
-# List all the Studieninhalte for the resource.
+# Studienziel
+# List all the Studienziel for the resource.
 #
-Studieninhalte:
+Studienziel:
     - Develop a plan for taking real-life and virtual timed tests
     - Identify strategies for answering multiple-choice and free response questions
 #

@@ -65,10 +65,10 @@ themes:
 #
 sort-weight:
 #
-# Studieninhalte
-# List all the Studieninhalte for the resource.
+# Studienziel
+# List all the Studienziel for the resource.
 #
-Studieninhalte:
+Studienziel:
     - Articulate the meaning behind the Simpson’s diversity equation
     - Calculate a Simpson’s index
     - Articulate how population dynamics can shift the Index value

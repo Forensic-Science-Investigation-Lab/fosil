@@ -69,10 +69,10 @@ themes:
 #
 sort-weight:
 #
-# Studieninhalte
-# List all the Studieninhalte for the resource.
+# Studienziel
+# List all the Studienziel for the resource.
 #
-Studieninhalte:
+Studienziel:
     - List replisome components that act before, during, and after DNA replication.
     - Identify the major modules of DNA polymerase III and their roles in replication  
 # ACCESSIBILITY INFO

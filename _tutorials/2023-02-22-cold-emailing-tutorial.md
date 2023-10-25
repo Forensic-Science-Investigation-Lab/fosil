@@ -55,10 +55,10 @@ themes:
 #
 sort-weight: ##
 #
-# Studieninhalte
-# List all the Studieninhalte for the resource.
+# Studienziel
+# List all the Studienziel for the resource.
 #
-Studieninhalte:
+Studienziel:
     - Articulate the publications and research conducted in the labs you are interested in working in with your own words.
     - Craft a successful email that will make you stand out from the other individuals that send out emails to the same faculty member. 
 #

@@ -2,7 +2,7 @@
 {% capture member-name-list %}{{ site.team-members | map: 'username' | split: ',' }}{% endcapture %}
 <div class="card">
   <div class="card-header">
-      <h2>About this {{ page.layout }}</h2>
+      <h2>Studieninhalte</h2>
   </div>
   <div class="card-body">
         {% if page.awards %}
@@ -56,10 +56,21 @@
               <h3 class="card-title">Link</h3>
                 <p class="card-text"><a href="{{ page.url | absolute_url }}">{{ page.url | absolute_url }}</a></p>
         -->
-      {% if page.Studieninhalte %}
-        <h3 class="card-title">Studieninhalte</h3>
+        {% if page.Studienziel %}
+        <h3 class="card-title">Studienziel</h3>
         <ul>
-            {% for outcome in page.Studieninhalte %}
+            {% for outcome in page.Studienziel %}
+                <li>
+                    {{ outcome }}
+                </li>
+            {% endfor %}
+        </ul>
+      {% endif %}
+
+        {% if page.Karriereperpektiven  %}
+        <h3 class="card-title">Karriereperpektiven </h3>
+        <ul>
+            {% for outcome in page.Karriereperpektiven  %}
                 <li>
                     {{ outcome }}
                 </li>
@@ -68,7 +79,7 @@
       {% endif %}
 
       {% if page.accessibility-info %}
-        <h3 class="card-title">Accessibility Information</h3>
+        <h3 class="card-title">Zugangsvorraussetzungen</h3>
         <ul>
             {% for info in page.accessibility-info %}
                 <li>

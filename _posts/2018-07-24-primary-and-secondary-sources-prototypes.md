@@ -10,7 +10,7 @@ background: /assets/images/backgrounds/blur-close-up-design-196645.jpg
 
 Here are some early prototypes for [Wheel of Sources](https://uclalibrary.github.io/research-tips/primary-secondary/), our activity on primary and secondary sources.
 
-### Studieninhalte
+### Studienziel
 
 Learners will be able to...
 1. Identify a source as primary or secondary given a specific research topic or discipline.
@@ -31,4 +31,4 @@ This prototype was made using Scratch, a simple coding interface developed at MI
 
 If the activity doesn't work, [click here to play the prototype!](https://marvelapp.com/182a540g)
 
-This paper prototype tries to get at the second of the three Studieninhalte. With this one, we focused on fleshing out the content with six researchers and three artifcacts. We  incorporated descriptions of a variety of researchers (some real, some fictional) to show that researchers come from many different educational levels and disciplinary backgrounds.
+This paper prototype tries to get at the second of the three Studienziel. With this one, we focused on fleshing out the content with six researchers and three artifcacts. We  incorporated descriptions of a variety of researchers (some real, some fictional) to show that researchers come from many different educational levels and disciplinary backgrounds.

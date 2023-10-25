@@ -59,10 +59,10 @@ sort-weight: 25
 accessibility-info:
    - { text: 'Closed Captioning Available' }
    - { text: 'WAVE tested - 0 errors', date: '2020-10-02', url: 'https://wave.webaim.org/' }
-# Studieninhalte
-# List all the Studieninhalte for the resource.
+# Studienziel
+# List all the Studienziel for the resource.
 #
-Studieninhalte:
+Studienziel:
     - Articulate two ways to come up with topic sentences (before or after writing a body paragraph)
     - Articulate qualities of a successful topic sentences
 #

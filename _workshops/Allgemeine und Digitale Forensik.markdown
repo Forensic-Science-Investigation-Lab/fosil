@@ -4,16 +4,18 @@ description: "Bachlor-Studiengang Allgemeine und Digitale Foresnik"
 # todo:: determine publication date
 date:   2019-12-01
 last-updated: 2020-05-22
-authors:
 contributors:
 awards:
 references:
 thumbnail: /assets/workshops/thumbnails/ResearchJourneyThumbnail.png
 sort-weight: 1
-Studieninhalte:
+Studienziel:
     - Identify your areas of interest for a research project
     - Find campus resources that match your needs and interests
     - Create a concrete plan with the first steps for getting involved in research
+Karriereperpektiven:
+    - Test
+    - 
 accessibility-info:
     - { text: 'WAVE tested - 0 errors', date: '2020-05-22', url: 'https://wave.webaim.org/' }
     - { text: 'Closed Captioning Available' }

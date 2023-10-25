@@ -73,10 +73,10 @@ themes: Finding and Citing Sources
 #
 sort-weight:
 #
-# Studieninhalte
-# List all the Studieninhalte for the resource.
+# Studienziel
+# List all the Studienziel for the resource.
 #
-Studieninhalte:
+Studienziel:
     - Articulate the resources and locations that the UC Library Search is capable of searching
     - Identify the location of the UC Library Search bar
     - Differentiate between the UC Library Search search scopes

@@ -1,21 +1,16 @@
 ---
-title:  "Finding Sources with the UCLA Library"
+title:  "Cybercrime/Cybersecurity M.Sc."
 date:   2018-12-12
 authors:
-    - renee-romero
-    - shannon-roux
-    - taylor-harper
-    - kian-ravaei
 contributors:
-    - Powell Library
-description: "Navigate your research with ease and pick out the best sources for your project! In this module, you'll explore the library research guides, learn strategies for finding the information you need, and find out about research consultations."
+description: "Beschreibung folgt"
 thumbnail: /assets/workshops/thumbnails/Source-Seeker.png
 category: Master-Studiengänge
 #
-# Studieninhalte
-# List all the Studieninhalte for the resource.
+# Studienziel
+# List all the Studienziel for the resource.
 #
-Studieninhalte:
+Studienziel:
     - Find research guides related to your project
     - Find sources using the UCLA Library catalog
     - Find scholarly articles using online databases

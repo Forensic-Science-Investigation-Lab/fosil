@@ -66,10 +66,10 @@ category: Student Success
 #
 sort-weight: ##
 #
-# Studieninhalte
-# List all the Studieninhalte for the resource.
+# Studienziel
+# List all the Studienziel for the resource.
 #
-Studieninhalte:
+Studienziel:
     - Identify strategies to take notes effectively
     - Understand how various methods of taking notes work best in specific situations
     - Recognize common pitfalls of note-taking

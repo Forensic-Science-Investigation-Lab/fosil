@@ -25,7 +25,7 @@ We made an enormous list of potential writing tips which we shared with the UWC.
 
 We sat down with each PLF in an endearingly musty underground office to chat about their topic of choice. It was inspiring to see how each PLF had their own communication style and method of giving writing advice.
 
-Based on that conversation, we created and revised a list of Studieninhalte for each Writing Strategies video. Then, we wrote a first draft of the scripts and sent them to the respective PLFs, who revised and reworded each script to make sure it sounded like them. After several rounds of feedback from PLFs and stakeholders, we were ready to film!
+Based on that conversation, we created and revised a list of Studienziel for each Writing Strategies video. Then, we wrote a first draft of the scripts and sent them to the respective PLFs, who revised and reworded each script to make sure it sounded like them. After several rounds of feedback from PLFs and stakeholders, we were ready to film!
 
 <figure class="figure border border-primary shadow mt-3">
   <img src="{{ '/assets/images/WS-script.png' | relative_url }}" class="figure-img img-fluid rounded" alt="Screenshot of script for Conclusion Paragraphs video.">

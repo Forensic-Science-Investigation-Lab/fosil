@@ -68,10 +68,10 @@ themes:
 #
 sort-weight:
 #
-# Studieninhalte
-# List all the Studieninhalte for the resource.
+# Studienziel
+# List all the Studienziel for the resource.
 #
-Studieninhalte:
+Studienziel:
     - Confidently complete work using the Pomodoro Technique
     - Develop a personalized study plan that works for you
     - Assess if the Pomodoro technique is right for you

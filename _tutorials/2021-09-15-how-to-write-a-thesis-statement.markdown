@@ -51,10 +51,10 @@ themes:
 #
 sort-weight: 20
 #
-# Studieninhalte
-# List all the Studieninhalte for the resource.
+# Studienziel
+# List all the Studienziel for the resource.
 #
-Studieninhalte:
+Studienziel:
     - identify the requisite steps to writing a thesis statement 
     - recognize examples of effective and ineffective thesis statements
     - identify the components of a well structured thesis statement 

@@ -71,10 +71,10 @@ themes:
 #
 sort-weight: 
 #
-# Studieninhalte
-# List all the Studieninhalte for the resource.
+# Studienziel
+# List all the Studienziel for the resource.
 #
-Studieninhalte:
+Studienziel:
     - List at least 3 ways to brainstorm their research interests
     - Brainstorm at least 3 research interests
 #

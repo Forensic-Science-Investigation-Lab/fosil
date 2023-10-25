@@ -66,10 +66,10 @@ category: Writing Strategies
 #
 sort-weight: 
 #
-# Studieninhalte
-# List all the Studieninhalte for the resource.
+# Studienziel
+# List all the Studienziel for the resource.
 #
-Studieninhalte:
+Studienziel:
     - Identify writer's block and explain the different ways one might experience it
     - Discuss various strategies for overcoming writer's block
     - Assess your own writing situation and employ the most relevant strategy/solution

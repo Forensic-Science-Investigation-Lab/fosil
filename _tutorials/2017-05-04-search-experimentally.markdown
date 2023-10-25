@@ -11,7 +11,7 @@ sort-weight: 34
 # ######
 accessibility-info:
    - { text: 'WAVE tested - 0 errors', date: '2020-10-02', url: 'https://wave.webaim.org/' }
-Studieninhalte:
+Studienziel:
    - Use a variety of keywords to search for sources
    - Broaden and narrow search results (using tools such as Boolean Operators, etc.) 
    - Refine your search using database filtering tools 

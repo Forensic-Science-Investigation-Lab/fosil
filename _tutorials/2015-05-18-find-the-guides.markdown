@@ -12,7 +12,7 @@ thumbnail: /assets/tutorials/thumbnails/FindTheRightResearchGuide.png
 handout: 
 category: Finding and Citing Sources
 sort-weight: 31
-Studieninhalte: 
+Studienziel: 
    - Find library research guides 
    - Choose the best databases for your topic
 # ACRL FRAMES

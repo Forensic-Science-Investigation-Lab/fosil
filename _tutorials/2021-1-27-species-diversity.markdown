@@ -66,10 +66,10 @@ themes:
 #
 sort-weight:
 #
-# Studieninhalte
-# List all the Studieninhalte for the resource.
+# Studienziel
+# List all the Studienziel for the resource.
 #
-Studieninhalte:
+Studienziel:
     - Define the different types of biodiversity
     - Calculate the alpha, beta, and gamma diversity of a model ecosystem
     - Assess how human interactions can affect ecosystem biodiversity

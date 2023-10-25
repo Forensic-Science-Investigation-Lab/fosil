@@ -62,13 +62,13 @@ At the end of each week, we tallied up the results and created a video that goes
 <blockquote class="twitter-tweet tw-align-center" data-lang="en"><p lang="en" dir="ltr">Thank you all for participating in our first week of the interactive poster series! Here&#39;s what you all shared about your favorite strategies for choosing a research topic. Stay tuned for a summary of week 4 soon!<a href="https://twitter.com/hashtag/WIREresources?src=hash&amp;ref_src=twsrc%5Etfw">#WIREresources</a> <a href="https://twitter.com/hashtag/research?src=hash&amp;ref_src=twsrc%5Etfw">#research</a> <a href="https://t.co/kHV33QnsFj">pic.twitter.com/kHV33QnsFj</a></p>&mdash; UCLA WI+RE (@WIREbruin) <a href="https://twitter.com/WIREbruin/status/1057364574695878656?ref_src=twsrc%5Etfw">October 30, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<h2 class="mt-5">Redefining Studieninhalte</h2>
+<h2 class="mt-5">Redefining Studienziel</h2>
 
 When we began this project, our primary goal was to help students understand the role of subject librarians. After some deliberation, we realized that this learning outcome was too library-centered — we needed a learning outcome that would be more beneficial to a wider group of learners. So we changed the focus of our project to when, why, and how to get research help at the library.
 
-Then we took it one step further. We thought, "What if we could frame this project as a dialogue with students? What if we could learn about _their_ research strategies, and provide some helpful tips at the same time?" We wanted to engage with students about their research experience, and reframe the library as a place where learners can authentically share their educational experiences. The flow chart below shows the evolution of Studieninhalte.
+Then we took it one step further. We thought, "What if we could frame this project as a dialogue with students? What if we could learn about _their_ research strategies, and provide some helpful tips at the same time?" We wanted to engage with students about their research experience, and reframe the library as a place where learners can authentically share their educational experiences. The flow chart below shows the evolution of Studienziel.
 
-<img src="{{ '/assets/images/poster-Studieninhalte.png' | relative_url }}" class="img-fluid mt-2" alt="Our learning outcome evolved from understanding the role of subject librarians, to when, why, and how to get research help at the library, to engaging with students about their research process.">
+<img src="{{ '/assets/images/poster-Studienziel.png' | relative_url }}" class="img-fluid mt-2" alt="Our learning outcome evolved from understanding the role of subject librarians, to when, why, and how to get research help at the library, to engaging with students about their research process.">
 
 This next graphic shows the twofold goal of the interactive poster series.
 

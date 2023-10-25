@@ -38,7 +38,7 @@ accessibility-info:
    # FOR HANDOUT CONTENT TYPE
 # { text: 'PDF Accessibility checked with Adobe Acrobat', date: 'YYYY-MM-DD' }
 # { text: 'PDF Accessibility needs review', date: 'YYYY-MM-DD', link-text: 'Issue reported', url: 'link to issue' } 
-Studieninhalte:
+Studienziel:
     - Find articles on a topic or by subject in PubMed
     - Access full text versions of articles through PubMed
     - View your PubMed search history, including key words

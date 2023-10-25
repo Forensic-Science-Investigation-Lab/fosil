@@ -68,10 +68,10 @@ themes: professional, applications, career, service, education, job, hiring
 #
 sort-weight: ##
 #
-# Studieninhalte
-# List all the Studieninhalte for the resource.
+# Studienziel
+# List all the Studienziel for the resource.
 #
-Studieninhalte:
+Studienziel:
     - The fundamentals of a resume
     - Components of a resume
     - Specific sets of skills to highlight in your resume

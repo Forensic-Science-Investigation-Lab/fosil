@@ -66,10 +66,10 @@ themes:
 #
 sort-weight:
 #
-# Studieninhalte
-# List all the Studieninhalte for the resource.
+# Studienziel
+# List all the Studienziel for the resource.
 #
-Studieninhalte:
+Studienziel:
     - Articulate what orbitals are and what they mean
     - Construct an electron configuration for an element 
 #

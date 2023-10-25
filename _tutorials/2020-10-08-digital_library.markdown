@@ -28,7 +28,7 @@ sort-weight: 32
 # Accessibility info
 # ######
 accessibility-info:
-Studieninhalte:
+Studienziel:
     - Understand how to access and find resources on the Digital Library website
 acrl-frames:
     - Research as Inquiry

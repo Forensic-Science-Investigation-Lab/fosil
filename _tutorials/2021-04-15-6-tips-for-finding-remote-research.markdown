@@ -76,10 +76,10 @@ themes:
 #
 sort-weight: ##
 #
-# Studieninhalte
-# List all the Studieninhalte for the resource.
+# Studienziel
+# List all the Studienziel for the resource.
 #
-Studieninhalte:
+Studienziel:
     - List six tips for finding remote research opportunities at UCLA
 #
 # ACCESSIBILITY INFO

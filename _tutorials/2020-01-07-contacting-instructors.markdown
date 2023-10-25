@@ -35,8 +35,8 @@ thumbnail: /assets/tutorials/thumbnails/ContactingInstructorsThumbnail.png
 handout: /assets/handouts/contacting-faculty-combined.pdf
 category: Writing Strategies
 sort-weight: 28
-# Studieninhalte
-Studieninhalte:
+# Studienziel
+Studienziel:
     - Send effective emails to instructors and faculty.
     - Include a clear subject, appropriate greeting, concise information, and a professional signature in instructor and faculty emails.
     - Prepare for and make the most of office hours and meetings with instructors and faculty.

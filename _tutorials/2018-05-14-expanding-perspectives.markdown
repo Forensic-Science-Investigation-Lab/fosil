@@ -26,7 +26,7 @@ merlot-url: https://www.merlot.org/merlot/viewMaterial.htm?id=1379137
 thumbnail: /assets/tutorials/thumbnails/ExpandingPerspectivesThumbnail.png
 category: Finding and Citing Sources
 sort-weight: 35
-Studieninhalte:
+Studienziel:
     - Identify sources outside of starting perspective
     - Develop refined research questions
     - Prioritize what resources to include in assignment

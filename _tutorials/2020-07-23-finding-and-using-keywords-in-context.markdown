@@ -60,10 +60,10 @@ category: Finding and Citing Sources
 #
 sort-weight: 33.25
 #
-# Studieninhalte
-# List all the Studieninhalte for the resource.
+# Studienziel
+# List all the Studienziel for the resource.
 #
-Studieninhalte:
+Studienziel:
     - Understand that terminology and scholarly language is contextual, temporal, and fluid
     - Identify alternate terms for a term in dated literature
     - Identify when a term is introduced in the literature

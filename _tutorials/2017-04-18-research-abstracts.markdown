@@ -12,7 +12,7 @@ contributors:
 thumbnail: /assets/tutorials/thumbnails/ResearchAbstractsThumbnail.jpg
 category: Sharing Your Research
 sort-weight: 57
-Studieninhalte:
+Studienziel:
     - Explain what a research abstract is
     - Recognize differences between effective and ineffective research abstracts 
     - Design an effective abstract

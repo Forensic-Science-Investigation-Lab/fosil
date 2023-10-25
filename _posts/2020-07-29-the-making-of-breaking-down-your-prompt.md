@@ -26,7 +26,7 @@ The aim of this project was to adapt a previously created WI+RE resource on brea
 
 ## Process 
 
-We began by inferring Studieninhalte from the original resource. After making empathy and learning journey maps from the <a href="https://ucla.app.box.com/v/build-something-toolkit" target="_blank">Build Something Toolkit</a>, we decided to make a few revisions to the Studieninhalte. This is what we settled on:
+We began by inferring Studienziel from the original resource. After making empathy and learning journey maps from the <a href="https://ucla.app.box.com/v/build-something-toolkit" target="_blank">Build Something Toolkit</a>, we decided to make a few revisions to the Studienziel. This is what we settled on:
 
 * Break down a prompt into the main tasks and requirements
 * List resources and readings that will be helpful for answering the prompt

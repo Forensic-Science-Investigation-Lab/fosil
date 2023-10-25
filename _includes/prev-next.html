@@ -31,6 +31,21 @@
                         <a class="btn btn-primary btn-block my-1" href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{ page.next.title }}">Next<span class="d-none d-md-inline"> {{ page.layout | capitalize }}</span> &rarr;</a>
                     {% endif %}
                 </div>
+        <!-- workshop special prev-next -->
+        {% elsif page.layout == "workshop" %}
+                <div class="col-sm-4">
+                    {% if page.previous.url %}
+                         <a class="btn btn-primary btn-block my-1" href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{ page.previous.title }}">&larr; Vorheriger Studiengang</a>
+                    {% endif %}
+                </div>
+                <div class="col-sm-4">
+                    <a class="btn btn-primary btn-block my-1" href="{{ site.baseurl }}/sandbox/">Alle <span class="d-none d-md-inline">Studiengänge</span></a>
+                </div>
+                <div class="col-sm-4">
+                    {% if page.next.url %}
+                        <a class="btn btn-primary btn-block my-1" href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{ page.next.title }}">Nächster Studiengang &rarr;</a>
+                    {% endif %}
+                </div>
         <!-- standard prev-next -->
         {% else %} 
             <div class="col-sm-4">

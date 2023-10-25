@@ -58,10 +58,10 @@ sort-weight: 27
 # ######
 accessibility-info:
    - { text: 'Closed Captioning Available' }
-# Studieninhalte
-# List all the Studieninhalte for the resource.
+# Studienziel
+# List all the Studienziel for the resource.
 #
-Studieninhalte:
+Studienziel:
     - Identify differences between passive and active sentences
     - List reasons to use passive voice
     - Use passive and active voice to emphasize the doer or receiver

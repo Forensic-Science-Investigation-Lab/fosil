@@ -68,10 +68,10 @@ themes: sources, citing, research
 #
 sort-weight: ##
 #
-# Studieninhalte
-# List all the Studieninhalte for the resource.
+# Studienziel
+# List all the Studienziel for the resource.
 #
-Studieninhalte:
+Studienziel:
 - Differentiate scholarly sources from popular sources and primary sources from secondary sources. 
 - Describe the value of different types of popular, scholarly, primary, and secondary sources. 
 - Identify and categorize your research materials, according to the categories and types of information covered.

@@ -57,7 +57,7 @@ sort-weight: 26
 accessibility-info:
    - { text: 'Closed Captioning Available' }
    - { text: 'WAVE tested - 0 errors', date: '2021-09-03', url: 'https://wave.webaim.org/' }
-Studieninhalte:
+Studienziel:
     - Explain how the definition of data is shaped by multiple factors within the data research process.
     - Describe examples of data research across various disciplines.
 

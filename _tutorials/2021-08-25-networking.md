@@ -66,10 +66,10 @@ themes:
 #
 sort-weight: ##
 #
-# Studieninhalte
-# List all the Studieninhalte for the resource.
+# Studienziel
+# List all the Studienziel for the resource.
 #
-Studieninhalte:
+Studienziel:
     - Articulate the benefits of networking
     - Identify effective strategies for networking in multiple contexts
     - Identify strategies for maintaining connections with your network

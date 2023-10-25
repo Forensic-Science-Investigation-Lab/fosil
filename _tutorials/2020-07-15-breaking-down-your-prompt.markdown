@@ -64,10 +64,10 @@ category: Writing Strategies
 #
 sort-weight:
 #
-# Studieninhalte
-# List all the Studieninhalte for the resource.
+# Studienziel
+# List all the Studienziel for the resource.
 #
-Studieninhalte:
+Studienziel:
     - Break down a prompt into the main tasks and requirements
     - List resources and readings that will be helpful for answering the prompt
     - Brainstorm ideas for the answering the prompt

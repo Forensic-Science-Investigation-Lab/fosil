@@ -69,10 +69,10 @@ themes:
 #
 sort-weight: 
 #
-# Studieninhalte
-# List all the Studieninhalte for the resource.
+# Studienziel
+# List all the Studienziel for the resource.
 #
-Studieninhalte:
+Studienziel:
     - List the parts of a SMART goal
     - Identify at least three personal long-term academic SMART goals
     - Recognize the benefit of breaking down large goals into manageable tasks

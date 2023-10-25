@@ -29,7 +29,7 @@ it isn't always clear, when looking at a particular resource, what this means. I
 * what we aspire to do,
 * and what we need to learn to continue improving!
 
-So, to that end, we're adding an *Accessibility Information* metadata structure to the WI+RE site this week, and launching a project to document where we are now and where we hope to be with accessibility for each resource on the site.
+So, to that end, we're adding an *Zugangsvorraussetzungen* metadata structure to the WI+RE site this week, and launching a project to document where we are now and where we hope to be with accessibility for each resource on the site.
 
 It will be a work in progress, but it is exciting to get started!
 
@@ -50,7 +50,7 @@ And when displayed on an educational resource page, the resulting code might loo
     About this Resource - Example
   </div>
     <div class="card-body">
-        <h2 class="card-title">Accessibility Information</h2>
+        <h2 class="card-title">Zugangsvorraussetzungen</h2>
             <ul>
                 <li>WAVE - 0 errors May, 22, 2020 (<a href="https://wave.webaim.org/" style="text-decoration: underline;" target="_blank" >About WAVE - Web Accessibility Evaluation Tool</a>)</li>
                 <li>Closed Captioning Available</li>

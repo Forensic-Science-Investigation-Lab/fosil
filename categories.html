@@ -90,13 +90,13 @@ background:
                                     </p>
                                 <!--learning outcome tool tip-->
 <!--
-                                {% if tutorial.Studieninhalte %}
+                                {% if tutorial.Studienziel %}
                                 {% assign outcomeoutput = "" %}
-                                {% for outcome in tutorial.Studieninhalte %}
+                                {% for outcome in tutorial.Studienziel %}
                                     {% assign outcomeoutput = outcomeoutput | append: "&#8226;" | append: outcome | append: "&#13;" %}
                                 {% endfor %}
-                                <div class="btn-group btn-group-sm float-left mb-3" role="group" aria-label="Studieninhalte">
-                                    <a href="" data-html="true" class="btn btn-secondary" data-toggle="tooltip" text-align="left" data-placement="top" title="{{ outcomeoutput }}">Studieninhalte</a>
+                                <div class="btn-group btn-group-sm float-left mb-3" role="group" aria-label="Studienziel">
+                                    <a href="" data-html="true" class="btn btn-secondary" data-toggle="tooltip" text-align="left" data-placement="top" title="{{ outcomeoutput }}">Studienziel</a>
                                 </div>
                                 {% endif %}
 -->

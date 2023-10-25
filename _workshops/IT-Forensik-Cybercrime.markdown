@@ -10,7 +10,7 @@ awards:
 references:
 thumbnail: /assets/workshops/thumbnails/ResearchJourneyThumbnail.png
 sort-weight: 1
-Studieninhalte:
+Studienziel:
     - Identify your areas of interest for a research project
     - Find campus resources that match your needs and interests
     - Create a concrete plan with the first steps for getting involved in research

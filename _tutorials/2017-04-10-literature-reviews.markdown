@@ -19,7 +19,7 @@ contributors:
 thumbnail: /assets/tutorials/thumbnails/CreatingLiteratureReviewsThumbnail.png
 category: Literature Reviews
 sort-weight: 47
-Studieninhalte:
+Studienziel:
     - Summarize literature reviews and their function in research
     - Organize essential resources and data for literature review
     - Choose literature review type according to research needs

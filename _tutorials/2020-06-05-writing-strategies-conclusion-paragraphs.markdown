@@ -59,7 +59,7 @@ sort-weight: 26
 accessibility-info:
    - { text: 'Closed Captioning Available' }
    - { text: 'WAVE tested - 0 errors', date: '2020-10-02', url: 'https://wave.webaim.org/' }
-Studieninhalte:
+Studienziel:
     - Describe the general structure of a conclusion paragraph.
     - Describe the amount of detail that should go into the restatement of the thesis.
 #

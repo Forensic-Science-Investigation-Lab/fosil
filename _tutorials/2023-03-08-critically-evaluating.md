@@ -68,10 +68,10 @@ themes: sources, citing, research, positionality
 #
 sort-weight: ##
 #
-# Studieninhalte
-# List all the Studieninhalte for the resource.
+# Studienziel
+# List all the Studienziel for the resource.
 #
-Studieninhalte:
+Studienziel:
 - Define positionality in relation to the research process.
 - Discuss the role your positionalities play when doing academic research.
 - Practice quickly identifying the reliability and validity of a given source given its type, methodology, publication, date, accuracy of sources cited, and other factors.

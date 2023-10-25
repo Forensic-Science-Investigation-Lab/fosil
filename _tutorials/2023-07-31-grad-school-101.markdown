@@ -23,7 +23,7 @@ sort-weight: 15
 # ######
 accessibility-info:
     - {text: 'H5P Content Type - Branching Scenario. Accessible and maintained by H5P core development team', date: '2021-05-25', url: 'https://h5p.org/documentation/installation/content-type-accessibility'}
-Studieninhalte:
+Studienziel:
     - Part 1 Deciding Whether or Not to Go
         - Differentiate between different types of graduate and professional programs
         - Compare the various reasons why people choose to go to grad school and possible paths (straight through vs. gap)

@@ -28,7 +28,7 @@ sort-weight: 33.2
 accessibility-info:
     - { text: 'Closed Captioning Available' }
     - { text: 'WAVE tested - 0 errors', date: '2020-10-02', url: 'https://wave.webaim.org/' }
-Studieninhalte:
+Studienziel:
     - Navigate search filters
     - Construct effective searches
     - Locate full texts of articles

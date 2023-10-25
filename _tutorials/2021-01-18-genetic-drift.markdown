@@ -16,7 +16,7 @@ thumbnail: /assets/tutorials/thumbnails/GeneticDriftThumbnail.png
 category: STEM Tutorials
 themes: stem, biology, Life Sciences, genetics, genetic drift
 sort-weight: 2
-Studieninhalte:
+Studienziel:
     - Differentiate between the two modes of Genetic Drift
     - Identify how Bottleneck and Founder Effect impact populations
     - Recognize how a population has speciated given a description

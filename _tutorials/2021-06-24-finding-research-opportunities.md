@@ -71,10 +71,10 @@ themes:
 #
 sort-weight: 
 #
-# Studieninhalte
-# List all the Studieninhalte for the resource.
+# Studienziel
+# List all the Studienziel for the resource.
 #
-Studieninhalte:
+Studienziel:
     - Identify three strategies for finding research opportunities.
 #
 # ACCESSIBILITY INFO

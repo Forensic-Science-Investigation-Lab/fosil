@@ -18,7 +18,7 @@ handout:
 handout-thumbail: 
 category: Finding and Citing Sources
 sort-weight: 33.3
-Studieninhalte:
+Studienziel:
     - Adopt new strategies for improving a Google Scholar search
     - Use Google Scholar's Advanced Search
     - Use quotes in their search
