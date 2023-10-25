@@ -8,28 +8,35 @@
     </button>
     <div class="collapse navbar-collapse" id="navbarResponsive">
       <ul class="navbar-nav ml-auto">
+        <li class="nav-item">
+          <a class="nav-link" href="{{"/tutorials" | relative_url }}">Neuigkeiten</a>
+        </li>
         <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-          About
+          Forschung
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-          <a class="dropdown-item"  href="{{"/about" | relative_url }}">About WI+RE</a>
-          <a class="dropdown-item" href="{{"/about/creative-team/" | relative_url }}">The WI+RE Team</a>
-          <a class="dropdown-item" href="{{"/sandbox/" | relative_url }}">WI+RE's Sandbox</a>
-          <a class="dropdown-item" href="{{"/about/design-toolkit/" | relative_url }}">WI+RE's Design Toolkit</a>
-          <a class="dropdown-item" href="{{"/wire-way/" | relative_url }}">The WI+RE Way</a>
+          <a class="dropdown-item"  href="{{"/about" | relative_url }}">Digitalisierung der forensischen Fallarbeit</a>
+          <a class="dropdown-item" href="{{"/about/creative-team/" | relative_url }}">Forensische Biologie</a>
+          <a class="dropdown-item" href="{{"/sandbox/" | relative_url }}">Forensische Netzwerkforschung und inhaltsbasierte Informationsgewinnung</a>
         </div>
         </li>
 
         <li class="nav-item">
-          <a class="nav-link" href="{{"/workshops" | relative_url }}">Workshops</a>
+          <a class="nav-link" href="{{"/handouts" | relative_url }}">Fraunhofer Lernlabor</a>
         </li>
-        <li class="nav-item">
-          <a class="nav-link" href="{{"/tutorials" | relative_url }}">Tutorials</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="{{"/handouts" | relative_url }}">Handouts</a>
-        </li>
+
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Studium
+          </a>
+          <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+            <a class="dropdown-item" href="{{"/workshops" | relative_url }}">Für Studieninteressierte</a>
+            <a class="dropdown-item" href="{{"/about/design-toolkit/" | relative_url }}">Für Studierende</a>
+            <!--<a class="dropdown-item" href="{{"/wire-way/" | relative_url }}">The WI+RE Way</a>-->
+          </div>
+          </li>
+
         <!--<li class="nav-item">
           <a class="nav-link" href="{{"/stem" | relative_url }}">STEM</a>
         </li>-->
@@ -37,7 +44,7 @@
           <a class="nav-link" href="{{"/instructors" | relative_url }}">For Instructors</a>
         </li-->
         <li class="nav-item">
-          <a class="nav-link" href="{{"/contact" | relative_url }}">Contact</a>
+          <a class="nav-link" href="{{"/contact" | relative_url }}">Kontakt</a>
         </li>
           <li class="nav-item">
               <a class="nav-link" href="{{'search' | relative_url }}"><i class="fas fa-search" aria-label="Search"></i><span class="d-lg-none"> Search</span></a>
