@@ -2567,14 +2567,14 @@ fieldset:disabled a.btn {
 
 .btn-light {
   color: #212529;
-  background-color: #f8f9fa;
-  border-color: #f8f9fa;
+  background-color: #005587;
+  border-color: #005587;
 }
 
 .btn-light:hover {
   color: #212529;
-  background-color: #e2e6ea;
-  border-color: #dae0e5;
+  background-color: #005587;
+  border-color: #005587;
 }
 
 .btn-light:focus, .btn-light.focus {
