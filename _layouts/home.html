@@ -14,12 +14,12 @@ layout: default
         <div class="col-lg-8 col-md-10 mx-auto">
           <div class="page-heading">
               <div class="masthead-text-box heading-text-box">
-            <h1 class="mb-0">{{ site.title }}</h1>
-                  <span class="subheading" style="margin-top: 0px;"><small>Wir sind eine Forschungsgruppe der Hochschule Mittweida, die sich aus Sicht der Informationstechnologien im Bereich der allgemeinen sowie digitalen und computergestützten Forensik mit aktuellen Themen aus der sicherheitsrelevanten Forschung beschäftigt. Zusammen arbeiten Forschende in unterschiedlichen Themenkomplexen aus verschiedenen Gebieten der Naturwissenschaften gemeinsam an zukunftsweisenden sowie innovativen Lösungsansätzen für vielschichtigen Problemstellungen im Bereich der Forensik und Cybersicherheit.</small></span>
-            {% if site.description %}
-                  <p><span class="subheading">{{ site.description }}</span></p>
-            {% endif %}
-                  <p><span class="subheading"><img src="{{ '/assets/images/brand/fosil_landing.png' | relative_url }}" alt="FoSIL Logo" style="max-height: 200px;"></span></p>
+            <!-- <h1 class="mb-0">{{ site.title }}</h1> -->
+                {% if site.description %}
+                    <h2 class="mb-0">{{ site.description }}</h2>
+                {% endif %}
+                <p><span class="subheading"><img src="{{ '/assets/images/brand/fosil_landing.png' | relative_url }}" alt="FoSIL Logo" style="max-height: 250px;"></span></p>
+                <span class="subheading" style="margin-top: 0px;"><small>Die Entwicklungen des letzten Jahrzehnts bei der Bekämpfung von Kriminalitätsphänomenen haben gezeigt, dass die richtungsweisende Entwicklung und Kopplung von Methoden der Forensik und Informatik die Aufklärung von Straftaten erheblich steigern können sowie neue Möglichkeiten bieten, Hintergründe aufzuklären und Zusammenhänge aufzudecken. Der fortschreitende technologische Wandel sorgt für immer neue Herausforderungen die es notwendig machen, eine zeitgemäße Forschung und Entwicklung, Lehre und praxisbezogenen Anwendungen sowie die Aus- und Fortbildung im Bereich der Informationsverarbeitung und -sicherheit auf hohem Niveau voran zu treiben. <br> Diesen Aufgaben stellen wir uns.</small></span>
               </div>
           </div>
         </div>

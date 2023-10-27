@@ -1,21 +1,22 @@
 ---
 layout: page
 title: Forschung
-description: "FoSIL - Forschungsgruppe der Hochschule Mittweida..."
+description: "FoSIL - Eine Forschungsgruppe der Hochschule Mittweida"
 permalink: /about/
-background: '/assets/images/backgrounds/art-creative-flying-17679-3000.jpg'
+background: '/assets/images/backgrounds/network-4851079_1920.jpg'
 accessibility-info:
     - { text: 'WAVE tested - 0 errors', date: '2020-08-27', url: 'https://wave.webaim.org/' }
 ---
-<!--<h2>FoSIL - Forschungsgruppe der Hochschule Mittweida...</h2> -->
+<h2>Über uns</h2>
 <div class="row">
     <div class="col-md">
-        <p>... die sich aus Sicht der Informationstechnologien im Bereich der allgemeinen sowie digitalen und computergestützten Forensik mit aktuellen Themen aus der sicherheitsrelevanten Forschung beschäftigt. Zusammen arbeiten Forschende in unterschiedlichen Themenkomplexen aus verschiedenen Gebieten der Naturwissenschaften gemeinsam an zukunftsweisenden sowie innovativen Lösungsansätzen für vielschichtigen Problemstellungen im Bereich der Forensik und Cybersicherheit.</p>
+        <p>Unsere Forschungsgruppe beschäftigt sich aus Sicht der Informationstechnologien im Bereich der allgemeinen sowie digitalen und computergestützten Forensik mit aktuellen Themen aus der sicherheitsrelevanten Forschung. Zusammen arbeiten Forschende in unterschiedlichen Themenkomplexen aus verschiedenen Gebieten der Naturwissenschaften gemeinsam an zukunftsweisenden sowie innovativen Lösungsansätzen für vielschichtigen Problemstellungen im Bereich der Forensik und Cybersicherheit.</p>
     </div>
     
     <div class="col-md-5">
-            <a class="btn btn-outline-primary btn-block" href="{{ '/about/Studieninhalte/' | relative_url }}" role="button">Arbeitsgruppen &amp; Projekte &raquo;</a>
-            <a class="btn btn-outline-primary btn-block" href="{{ '/about/creative-team/' | relative_url }}" role="button">Mitglieder &raquo;</a>
+            <br>
+            <a class="btn btn-outline-primary btn-block" href="{{ '/about/projekte/' | relative_url }}" role="button">Schwerpunkte &amp; Projekte &raquo;</a>
+            <a class="btn btn-outline-primary btn-block" href="{{ '/about/creative-team/' | relative_url }}" role="button">Mitarbeitende &raquo;</a>
             <a class="btn btn-outline-primary btn-block" href="{{ '/contact/' | relative_url }}" role="button">Kontaktieren Sie uns &raquo;</a>
     </div>
 </div>
@@ -25,22 +26,22 @@ accessibility-info:
 <div class="card-deck">
     <div class="card">
     <div class="card-body">
-       <h4 class="card-title text-center">{{ site.data.stats.workshops.number}}+ <br><small class="text-muted">Publikationen</small></h4>
+       <h4 class="card-title text-center">{{ site.data.stats.publikationen.number}}+ <br><small class="text-muted">Publikationen</small></h4>
     </div>
   </div> 
   <div class="card">
     <div class="card-body">
-       <h4 class="card-title text-center">{{ site.data.stats.youtube.number}}+ <br><small class="text-muted">Projekte</small></h4>
+       <h4 class="card-title text-center">{{ site.data.stats.projekte.number}}+ <br><small class="text-muted">Projekte</small></h4>
     </div>
   </div>
   <div class="card">
     <div class="card-body">
-      <h4 class="card-title text-center">{{ site.data.stats.website.number}}+ <br><small class="text-muted">Mitglieder</small></h4>
+      <h4 class="card-title text-center">{{ site.data.stats.mitarbeitende.number}}+ <br><small class="text-muted">Mitglieder</small></h4>
     </div>
   </div>
 </div>
 
-<h4 class="mt-5">Award Winning and Peer Reviewed Open Educational Resources</h4>
+<!-- <h4 class="mt-5">Award Winning and Peer Reviewed Open Educational Resources</h4>
 {% assign awardWinners = site.documents | sort: "title" %}
 {% for item in awardWinners %}
     {% if item.awards %}
@@ -54,10 +55,12 @@ accessibility-info:
     {% endif %}
 {% endfor %}
 
+    -->
+
 <!-- this captures the list of team member names from site.team-members -->
 {% capture member-name-list %}{{ site.team-members | map: 'username' | split: ',' }}{% endcapture %}
 
-<h4 class="mt-5">Publications and Presentations</h4>
+<h4 class="mt-5">Publikationen und Präsentationen</h4>
 <!-- the content in this section comes from _data/publications.yml -->
 <!-- to edit content in this section, edit _data/publications.yml -->
 
@@ -115,6 +118,7 @@ accessibility-info:
     </div>
 </div>
 
+<!--
 <img src="{{ '/assets/images/team/WI+RE-Banner.png' | relative_url }}" alt="Five student designers on the WI+RE team collaborate on a video shoot. Text overlay: WI+RE." class="img-fluid mx-auto align-middle img-thumbnail" />
-
+-->
 
