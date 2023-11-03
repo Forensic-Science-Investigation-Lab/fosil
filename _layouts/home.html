@@ -14,13 +14,15 @@ layout: default
         <div class="col-lg-8 col-md-10 mx-auto">
           <div class="page-heading">
               <div class="masthead-text-box heading-text-box">
-            <!-- <h1 class="mb-0">{{ site.title }}</h1> -->
+                <span class="subheading" style="margin-top: 0px;"><small>Herzlich Willkommen auf der Homepage des</small></span>
                 {% if site.description %}
                     <h2 class="mb-0">{{ site.description }}</h2>
+                    <span class="subheading" style="margin-top: 0px;"><small>- Eine Forschungsgruppe der Hochschule Mittweida -</small></span>
                 {% endif %}
                 <p><span class="subheading"><img src="{{ '/assets/images/brand/fosil_landing.png' | relative_url }}" alt="FoSIL Logo" style="max-height: 250px;"></span></p>
-                <span class="subheading" style="margin-top: 0px;"><small>Die Entwicklungen des letzten Jahrzehnts bei der Bekämpfung von Kriminalitätsphänomenen haben gezeigt, dass die richtungsweisende Entwicklung und Kopplung von Methoden der Forensik und Informatik die Aufklärung von Straftaten erheblich steigern können sowie neue Möglichkeiten bieten, Hintergründe aufzuklären und Zusammenhänge aufzudecken. Der fortschreitende technologische Wandel sorgt für immer neue Herausforderungen die es notwendig machen, eine zeitgemäße Forschung und Entwicklung, Lehre und praxisbezogenen Anwendungen sowie die Aus- und Fortbildung im Bereich der Informationsverarbeitung und -sicherheit auf hohem Niveau voran zu treiben. <br> Diesen Aufgaben stellen wir uns.</small></span>
-              </div>
+                <!-- <span class="subheading" style="margin-top: 0px;"><small>Die Entwicklungen des letzten Jahrzehnts bei der Bekämpfung von Kriminalitätsphänomenen haben gezeigt, dass die richtungsweisende Entwicklung und Kopplung von Methoden der Forensik und Informatik die Aufklärung von Straftaten erheblich steigern können sowie neue Möglichkeiten bieten, Hintergründe aufzuklären und Zusammenhänge aufzudecken. Der fortschreitende technologische Wandel sorgt für immer neue Herausforderungen die es notwendig machen, eine zeitgemäße Forschung und Entwicklung, Lehre und praxisbezogenen Anwendungen sowie die Aus- und Fortbildung im Bereich der Informationsverarbeitung und -sicherheit auf hohem Niveau voran zu treiben. <br> Diesen Aufgaben stellen wir uns.</small></span>
+                -->
+                </div>
           </div>
         </div>
       </div>
@@ -41,6 +43,15 @@ layout: default
     <!-- Three columns -->
     <div class="row">
         <div class="col-lg-4">
+            <a href="{{ '/handouts' | relative_url }}">
+                <button class="btn btn-light h-100">
+                    <img src="{{ '/assets/images/icons/lupe.png' | relative_url }}" alt="Handouts and printable activities" class="w-50">
+                    <h2>Forschung</h2>
+                    <p>Fallarbeit, Lernlabor und der ganze Bumms</p>
+                </button>
+            </a>
+        </div><!-- /.col-lg-4 -->
+        <div class="col-lg-4">
             <a class="" href="{{ '/workshops' | relative_url }}">
                 <button class="btn btn-light h-100">
                     <img src="{{ '/assets/images/icons/pupil.png' | relative_url }}" alt="Master-Studiengänge Badge" class="w-50">
@@ -59,15 +70,6 @@ layout: default
                 </button>
             </a>
         </div><!-- /.col-lg-4 -->
-        <div class="col-lg-4">
-            <a href="{{ '/handouts' | relative_url }}">
-                <button class="btn btn-light h-100">
-                    <img src="{{ '/assets/images/icons/lupe.png' | relative_url }}" alt="Handouts and printable activities" class="w-50">
-                    <h2>Forschung</h2>
-                    <p>Fallarbeit, Lernlabor und der ganze Bumms</p>
-                </button>
-            </a>
-        </div><!-- /.col-lg-4 -->
     </div><!-- /.row -->
     </div>
 </div>
@@ -79,23 +81,22 @@ layout: default
         <hr class="featurette-divider">
 
         <div class="row featurette">
-          <div class="col-lg-5">
-            <h2 class="featurette-heading">Hi! <span class="text-muted">We're WI+RE.</span></h2>
-            <p class="lead">WI+RE is a learner-led community focused on helping everyone succeed in their writing and research projects.</p>
-          </div>
-          <div class="col-lg-7">
-              <span class="align-middle">
-                <img class="featurette-image img-fluid mx-auto align-middle img-thumbnail tilt-right-2" src="{{ '/assets/images/wire-creative-team-2.jpg' | relative_url }}" alt="WI+RE's creative team in the WI+RE studio">
-              </span>
+          <div class="row-lg-5">
+            <h2 class="featurette-heading">Willkommen! <span class="text-muted">Das ist unser Team.</span></h2>
+            <p class="lead text-center"><span class="subheading" style="margin-top: 0px;"><small>Die Entwicklungen des letzten Jahrzehnts bei der Bekämpfung von Kriminalitätsphänomenen haben gezeigt, dass die richtungsweisende Entwicklung und Kopplung von Methoden der Forensik und Informatik die Aufklärung von Straftaten erheblich steigern können sowie neue Möglichkeiten bieten, Hintergründe aufzuklären und Zusammenhänge aufzudecken. Der fortschreitende technologische Wandel sorgt für immer neue Herausforderungen die es notwendig machen, eine zeitgemäße Forschung und Entwicklung, Lehre und praxisbezogenen Anwendungen sowie die Aus- und Fortbildung im Bereich der Informationsverarbeitung und -sicherheit auf hohem Niveau voran zu treiben.<br><b>Diesen Aufgaben stellen wir uns.</b><br><br></small></span>
+                <span class="align-middle">
+                    <img class="featurette-image img-fluid mx-auto align-middle img-thumbnail" src="{{ '/assets/images/wire-creative-team-2.jpg' | relative_url }}" alt="Unser Team">
+                </span>
+            </p>
           </div>
                 <div class="col-lg-4 p-2 mt-3">
-                    <a class="btn btn-primary btn-block" href="{{ '/about/creative-team/' | relative_url }}" role="button">Meet the Creative Team &raquo;</a>
+                    <a class="btn btn-primary btn-block" href="{{ '/about/' | relative_url }}" role="button">Unsere Forschung &raquo;</a>
                 </div>
                 <div class="col-lg-4 p-2 mt-3">
-                    <a class="btn btn-primary btn-block" href="{{ '/sandbox/' | relative_url }}" role="button">Visit WI+RE's Sandbox &raquo;</a>
+                    <a class="btn btn-primary btn-block" href="{{ '/about/creative-team/' | relative_url }}" role="button">Unsere Mitglieder &raquo;</a>
                 </div>
                 <div class="col-lg-4 p-2 mt-3">
-                    <a class="btn btn-primary btn-block" href="{{ '/about/design-toolkit/' | relative_url }}" role="button">Our Design Tools and Process &raquo;</a>
+                    <a class="btn btn-primary btn-block" href="{{ '/contact/' | relative_url }}" role="button">Kontaktieren Sie uns! &raquo;</a>
                 </div>
         </div>
 
@@ -103,11 +104,12 @@ layout: default
 
         <div class="row featurette">
           <div class="col-md-7 order-md-2">
-            <h2 class="featurette-heading">We share!</span></h2>
-            <p class="lead">As strong believers in open educational resources, all of our work is open source, and our tips can be shared, re-used, and re-mixed under creative commons Attribution-NonCommercial-ShareAlike license.</p>
-            <p>Want to collaborate? We would too! Check out <a href="http://github.com/uclalibrary/research-tips" target="_blank">our code repository</a> and <a href="{{ '/contact' | relative_url }}">let us know your ideas!</a></p>
+            <h2 class="featurette-heading">Wir teilen unser Wissen!</h2>
+            <p class="lead"><span class="subheading" style="margin-top: 0px;"><small>Die Fachgruppe Forensik entlässt jährlich ca. 100 studierte Naturwissenschaftlicher auf den Arbeitsmarkt. Besonders gefragt sind unsere Absolventen bei behördlichen Stellen. Denn nicht nur die ausgezeichnete Lehre macht ein Studium an der Hochschule Mittweida lohnenswert, auch das gemeinschaftliche Miteinander und zahlreichen Möglichkeiten zusätzliche Qualifizierungen abzuschließen sorgen für unseren guten Ruf in Wirtschaft und in Behörden.</small></span></p>
+            <p class="text-center">Haben Sie Interesse? Entdecken Sie <a href="{{ '/workshops/' | relative_url }}" target="_blank">unsere Studiengänge</a>!</p>
           </div>
           <div class="col-md-5 order-md-1">
+            <h2 class="featurette-heading"></h2>
             <img class="featurette-image img-fluid mx-auto" src="{{ '/assets/images/icons/np_open-education_33913_1E4B88.png' | relative_url }}" alt="Open Educational Resources">
           </div>
         </div>
@@ -122,7 +124,7 @@ layout: default
 
       <div class="card shadow mt-2">
           <div class="card-header">
-              <h2>Featured Tutorials</h2>
+              <h2>Neuigkeiten</h2>
           </div>
           <div class="card-body">
     {% for tutorial in site.tutorials %}
@@ -159,7 +161,7 @@ layout: default
       </div>
 
           
-
+<!--
 <div class="card shadow mt-2">
           <div class="card-header">
               <h2>Featured Workshops</h2>
@@ -197,6 +199,7 @@ layout: default
     {%endfor%}
           </div>
       </div>
+-->
 
 
 </div>
