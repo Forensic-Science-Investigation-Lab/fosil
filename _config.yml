@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: FoSIL
-email: fosil@hs-mittweida.de
+email: # fosil@hs-mittweida.de
 description: >- # this means to ignore newlines until "baseurl:"
   Forensic Science Investigation Lab
 baseurl: "/fosil" # the subpath of your site, e.g. /blog
@@ -54,7 +54,7 @@ defaults:
       type: "pages"
     values:
       layout: "page"
-      background: "/assets/images/backgrounds/jans-steps-background.jpg"
+      background: "/assets/images/backgrounds/network-4851079_1920.jpg"
   -
     scope:
       path: ""
@@ -68,28 +68,28 @@ defaults:
         type: "workshops"
     values:
         layout: "workshop" 
-        background: "/assets/images/backgrounds/jans-steps-background.jpg"
+        background: "/assets/images/backgrounds/network-4851079_1920.jpg"
   -
     scope:
         path: ""
         type: "tutorials"
     values:
         layout: "tutorial" 
-        background: "/assets/images/backgrounds/jans-steps-background.jpg"
+        background: "/assets/images/backgrounds/network-4851079_1920.jpg"
   -
     scope:
         path: ""
         type: "handouts"
     values:
         layout: "handout" 
-        background: "/assets/images/backgrounds/jans-steps-background.jpg"
+        background: "/assets/images/backgrounds/network-4851079_1920.jpg"
   -
     scope:
         path: ""
         type: "team-members"
     values:
         layout: "team-member" 
-        background: "/assets/images/backgrounds/art-creative-flying-17679-3000.jpg"
+        background: "/assets/images/backgrounds/network-4851079_1920.jpg"
 
 # Build settings
 markdown: kramdown
