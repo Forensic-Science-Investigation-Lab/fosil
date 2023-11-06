@@ -1,12 +1,12 @@
 twentytwentythree:
 - title: "Automatische Klassifikation offensiver deutscher Sprache in sozialen Netzwerken"
   authors: 
-  - Christoph Demus 
-  - Dirk Labudde 
-  - Jonas Pitz 
-  - Nadine Probol
-  - Mina Schütz
-  - Melanie Schütz
+  - Demus, Christoph 
+  - Labudde, Dirk 
+  - Pitz, Jonas 
+  - Probol, Nadine 
+  - Schütz, Mina 
+  - Siegel, Melanie
   type: book chapter
   year: 2023
   place: Jaki, Steiger (Hg.) 2023 – Digitale Hate Speech
@@ -14,12 +14,12 @@ twentytwentythree:
 
 - title: "Hass im Netz – Aggressivität und Toxizität von Hasskommentaren und Postings, Detektion und Analyse"
   authors: 
-  - Christoph Demus
-  - Mina Schütz
-  - Nadine Probol
-  - Jonas Pitz
-  - Melanie Siegel
-  - Dirk Labudde
+  - Demus, Christoph 
+  - Schütz, Mina 
+  - Probol, Nadine 
+  - Pitz, Jonas 
+  - Siegel, Melanie 
+  - Labudde, Dirk
   type: book chapter
   year: 2023
   place: Rüdiger, Bayerl (Hg.) 2023 – Handbuch Cyberkriminologie 1
@@ -27,8 +27,8 @@ twentytwentythree:
 
 - title: "Vertrauen ist schlecht, Kontrolle ist besser"
   authors:  
-  - Johannes Fähndrich
-  - DirkLabudde
+  - Fähndrich, Johannes 
+  - Labudde, Dirk
   type: book chapter
   year: 2023
   place: Honekamp, Fähndrich (Hg.) 2023 – Polizei-Informatik 2023
@@ -36,9 +36,9 @@ twentytwentythree:
 
 - title: "Analysing Distributions of Feature Similarities in the Context of Digital Anthropometric Pattern Matching Probability"
   authors: 
-  - Florian Heinke
-  - Marie-Luise Heuschkel
-  - Dirk Labudde
+  - Heinke, Florian 
+  - Heuschkel, Marie-Luise 
+  - Labudde, Dirk
   type: article
   year: 2023
   place: Klein, Krupka et al. (Hg.) 2023 – INFORMATIK 2023
@@ -46,12 +46,12 @@ twentytwentythree:
 
 - title: "Technologiegetriebene Polizeiausbildung im Umgang mit Digitalen Spuren"
   authors: 
-  - Wilfried Honekamp
-  - Roman Povalej
-  - Heiko Rittelmeier
-  - Johannes Fähndrich
-  - Silvio Berner
-  - Dirk Labudde
+  - Honekamp, Wilfried 
+  - Povalej, Roman 
+  - Rittelmeier, Heiko 
+  - Fähndrich, Johannes 
+  - Berner, Silvio 
+  - Labudde, Dirk
   type: book chapter
   year: 2023
   place: Rüdiger, Bayerl (Hg.) 2023 – Handbuch Cyberkriminologie 2
@@ -59,8 +59,8 @@ twentytwentythree:
 
 - title: "Vorbetrachtung zur Entwicklung einer Analysesoftware zur Auswertung von videografierten Beschuldigtenvernehmungen im Strafermittlungsverfahren"
   authors: 
-  - Stefan Kellermann
-  - Dirk Labudde
+  - Kellermann, Stefan 
+  - Labudde, Dirk
   type: article
   year: 2023
   place: Klein, Krupka et al. (Hg.) 2023 – INFORMATIK 2023
@@ -68,9 +68,9 @@ twentytwentythree:
 
 - title: "The digital skeleton in modern video analysis - inter- and intraspecific comparsion of individual rigs"
   authors: 
-  - Elena Pistorius 
-  - Sabine Richter
-  - Dirk Labudde
+  - Pistorius, Elena 
+  - Richter, Sabine 
+  - Labudde, Dirk
   type: book chapter
   year: 2023
   place: Klein, Krupka et al. (Hg.) 2023 – INFORMATIK 2023
@@ -78,9 +78,9 @@ twentytwentythree:
 
 - title: "Abgefangene Kommunikation als Teil der Beweismittelkette"
   authors: 
-  - Pistorius, Laura 
-  - Fischer, Felix 
-  - Labudde, Dirk
+   - Pistorius, Laura 
+   - Fischer, Felix 
+   - Labudde, Dirk
   type: book chapter
   year: 2023
   place: Honekamp, Fähndrich (Hg.) 2023 – Polizei-Informatik 2023
@@ -88,8 +88,8 @@ twentytwentythree:
 
 - title: "Einsatz von Algorithmen zur Gesichtserkennung in Kipo-Verfahren"
   authors: 
-  - Svenja Preuß
-  - Dirk Labudde
+  - Preuß, Svenja 
+  - Labudde, Dirk
   type: book chapter
   year: 2023
   place: Honekamp, Fähndrich (Hg.) 2023 – Polizei-Informatik 2023
@@ -97,9 +97,9 @@ twentytwentythree:
 
 - title: "Möglichkeiten, Grenzen und Konzepte für eine digitalbasierte Täterbewertung im Bereich der §§ 174 – 184"
   authors: 
-  - Mirijam Steinert
-  - Sabrina Herchel
-  - Dirk Labudde
+  - Steinert, Mirijam 
+  - Herchel, Sabrina 
+  - Labudde, Dirk
   type: article
   year: 2023
   place: Klein, Krupka et al. (Hg.) 2023 – INFORMATIK 2023
@@ -107,10 +107,10 @@ twentytwentythree:
 
 - title: "Stature Estimation and Missing Data Imputation Using Bayesian Regression Model Averaging"
   authors: 
-  - Marie-Luise Heuschkel
-  - Florian Heinke
-  - Nadja Baumann
-  - Dirk Labudde
+  - Heuschkel, Marie-Luise 
+  - Heinke, Florian 
+  - Baumann, Nadja 
+  - Labudde, Dirk
   type: presentation
   year: 2023
   place: 14th Meeting of the Society of Anthropology
@@ -118,9 +118,9 @@ twentytwentythree:
 
 - title: "Forensische Gesichtsweichteilrekonstruktion einer historischen Person : So sahen unsere Vorfahren aus!"
   authors: 
-  - Sven Becker
-  - Jasmin Rosenfelder
-  - Dirk Labudde
+  - Becker, Sven 
+  - Rosenfelder, Jasmin 
+  - Labudde, Dirk
   type: article
   year: 2023
   place: NextGen Scientific Review - Annual Perspectives on Next Generation Science
@@ -128,10 +128,10 @@ twentytwentythree:
 
 - title: "FoSIL at PAN’23: Trigger Detection with a Two Stage Topic Classifier"
   authors: 
-  - Jenny Felser
-  - Christoph Demus
-  - Dirk Labudde
-  - Michael Spranger
+  - Felser, Jenny 
+  - Demus, Christoph 
+  - Labudde, Dirk 
+  - Spranger, Michael
   type: article
   year: 2023
   place: Working Notes of the Conference and Labs of the Evaluation Forum (CLEF 2023)
@@ -139,11 +139,11 @@ twentytwentythree:
 
 - title: "The ANthropological Notation Ontology (ANNO): A core ontology for annotating human bones and deriving phenotype:"
   authors: 
-  - Marie-Luise Heuschkel
-  - Konrad Höffner
-  - Fabian Schmiedel
-  - Dirk Labudde
-  - Alexandr Uciteli
+  - Heuschkel, Marie 
+  - Höffner, Konrad 
+  - Schmiedel, Fabian 
+  - Labudde, Dirk 
+  - Uciteli, Alexandr
   type: article
   year: 2023
   place: Semantic Web – Interoperability, Usability, Applicability
@@ -152,34 +152,25 @@ twentytwentythree:
 twentytwentytwo:
 - title: "FoSIL at CheckThat! 2022: Using Human Behaviour-Based Optimization for Text Classification"
   authors: 
-  - Andy Ludwig
-  - Jenny Felser
-  - Jian Xi
-  - Dirk Labudde
-  - Michael Spranger
+  - Ludwig, Andy 
+  - Felser, Jenny 
+  - Xi, Jian 
+  - Labudde, Dirk 
+  - Spranger, Michael
   type: article
   year: 2022
   place: Proceedings of the Working Notes of CLEF 2022 - Conference and Labs of the Evaluation Forum
   url: https://www.researchgate.net/publication/363272661_FoSIL_at_CheckThat_2022_Using_Human_Behaviour-Based_Optimization_for_Text_Classification
 
 - title: "Digitale Tathergangsanalyse im Rahmen eines Tötungsdeliktes"
-  authors: 
-  - Sven Becker, 
-  - Jasmin Rosenfelder
-  - Mareike Gienapp
-  - Steffen Grunert
-  - Christoph Burghardt 
-  - Dirk Labudde
+  authors: Becker, Sven - Rosenfelder, Jasmin - Gienapp, Mareike - Grunert, Steffen - Burghardt, Christoph - Labudde, Dirk
   type: book chapter
   year: 2022
   place: Honekamp, Rittelmeier (Hg.) 2022 – Polizei-Informatik 2022
   url: [Buch]
 
 - title: "Untersuchung der Eignung von Photogrammetrie und Laserscan zur Digitalisierung in der forensischen Blutspurenmusteranalyse"
-  authors: 
-  - Tommy Bergmann
-  - Sven  Becker
-  - Dirk Labudde
+  authors: Bergmann, Tommy - Becker, Sven - Labudde, Dirk
   type: book chapter
   year: 2022
   place: Honekamp, Rittelmeier (Hg.) 2022 – Polizei-Informatik 2022
@@ -187,12 +178,12 @@ twentytwentytwo:
 
 - title: "A Comprehensive Dataset for German Offensive Language and Conversation Analysis"
   authors: 
-  - Christoph Demus
-  - Jonas Pitz
-  - Mina Schütz
-  - Nadine Probol
-  - Melanie Siegel
-  - Dirk Labudde
+  - Demus, Christoph 
+  - Pitz, Jonas 
+  - Schütz, Mina 
+  - Probol, Nadine 
+  - Siegel, Melanie 
+  - Labudde, Dirk
   type: article
   year: 2022
   place: Narang, Mostafazadeh Davani et al. (Hg.) 2022 – Proceedings of the Sixth Workshop
@@ -200,11 +191,11 @@ twentytwentytwo:
 
 - title: "Recommendation of Query Terms for Colloquial Texts in Forensic Text Analysis"
   authors: 
-  - Jenny Felser
-  - Jian Xi
-  - Christoph Demus
-  - Dirk Labudde
-  - Michael Spranger
+  - Felser, Jenny 
+  - Xi, Jian 
+  - Demus, Christoph 
+  - Labudde, Dirk 
+  - Spranger, Michael
   type: article
   year: 2022
   place: INFORMATIK 2022
@@ -212,12 +203,12 @@ twentytwentytwo:
 
 - title: "Polizei-Informatik Quo Vadis"
   authors: 
-  - Wilfried Honekamp
-  - Heiko Rittelmeier
-  - Roman Povalej
-  - Johannes Fähndrich
-  - Silvio Berner
-  - Dirk Labudde
+  - Honekamp, Wilfried 
+  - Rittelmeier, Heiko 
+  - Povalej, Roman 
+  - Fähndrich, Johannes 
+  - Berner, Silvio 
+  - Labudde, Dirk
   type: book chapter
   year: 2022
   place: Honekamp, Rittelmeier (Hg.) 2022 – Polizei-Informatik 2022
@@ -225,8 +216,8 @@ twentytwentytwo:
 
 - title: "CAN Demonstrator with Intrusion Detection System"
   authors: 
-  - Dirk Labudde
-  - Heiko Polster
+  - Labudde, Dirk 
+  - Polster, Heiko
   type: article
   year: 2022
   place: Kriesten (Hg.) 2022 – VEHICULAR 2022
@@ -234,8 +225,8 @@ twentytwentytwo:
 
 - title: "Das Auto als forensischer Datenspeicher : Technische Hilfsmittel und Möglichkeiten einer forensischen Auswertung von Kfz-Elektroniksystemen"
   authors: 
-  - Heiko Polster
-  - Dirk Labudde
+  - Polster, Heiko 
+  - Labudde, Dirk
   type: article
   year: 2022
   place: Sucky, Biethahn et al. (Hg.) 2022 – Mobility in a Globalised World
@@ -243,9 +234,9 @@ twentytwentytwo:
 
 - title: "A frequentist estimation of duplicate probability as a baseline for person identification from image and video material using anthropometric measurements"
   authors: 
-  - Florian Heinke
-  - Marie-Luise Heuschkel
-  - Dirk Labudde
+  - Heinke, Florian 
+  - Heuschkel, Marie-Luise 
+  - Labudde, Dirk
   type: article
   year: 2022
   place: INFORMATIK 2022
@@ -253,8 +244,8 @@ twentytwentytwo:
 
 - title: "A pipeline for analysing image and video material in a forensic context with intelligent systems"
   authors: 
-  - Svenja Preuß
-  - Dirk Labudde
+  - Preuß, Svenja 
+  - Labudde, Dirk
   type: article
   year: 2022
   place: INFORMATIK 2023
@@ -262,11 +253,11 @@ twentytwentytwo:
 
 - title: "Iterative Named Entity Recognition with Conditional Random Fields"
   authors: 
-  - Ana Alves-Pinto
-  - Christoph Demus
-  - Michael Spranger
-  - Dirk Labudde
-  - Eleanor   - Hobley
+  - Alves-Pinto, Ana 
+  - Demus, Christoph 
+  - Spranger, Michael 
+  - Labudde, Dirk 
+  - Hobley, Eleanor
   type: article
   year: 2022
   place: Applied Sciences
@@ -274,10 +265,10 @@ twentytwentytwo:
 
 - title: "COMBI: Artificial Intelligence for Computer-Based Forensic Analysis of Persons"
   authors: 
-  - Sven Becker
-  - Marie Heuschkel
-  - Sabine Richter
-  - Dirk Labudde
+  - Becker, Sven 
+  - Heuschkel, Marie 
+  - Richter, Sabine 
+  - Labudde, Dirk
   type: article
   year: 2022
   place: KI - Künstliche Intelligenz
@@ -285,10 +276,10 @@ twentytwentytwo:
 
 - title: "Automatic Classification of Bloodstains with Deep Learning Methods"
   authors: 
-  - Tommy Bergman
-  - Martin Klöden
-  - Jan Dreßler
-  - Dirk Labudde
+  - Bergman, Tommy 
+  - Klöden, Martin 
+  - Dreßler, Jan 
+  - Labudde, Dirk
   type: article
   year: 2022
   place: KI - Künstliche Intelligenz
@@ -296,9 +287,9 @@ twentytwentytwo:
 
 - title: "A multiscale model of the regulation of aquaporin 2 recycling"
   authors: 
-  - Christoph Leberecht
-  - Michael Schroeder
-  - Dirk Labudde
+  - Leberecht, Christoph 
+  - Schroeder, Michael 
+  - Labudde, Dirk
   type: article
   year: 2022
   place: NPJ systems biology and applications
@@ -306,11 +297,11 @@ twentytwentytwo:
 
 - title: "MoNA: A Forensic Analysis Platform for Mobile Communication"
   authors: 
-  - Michael Spranger
-  - Jian Xi
-  - Lukas Jaeckel
-  - Jenny Felser
-  - Dirk Labudde
+  - Spranger, Michael 
+  - Xi, Jian 
+  - Jaeckel, Lukas 
+  - Felser, Jenny 
+  - Labudde, Dirk
   type: article
   year: 2022
   place: Künstl Intell (KI - Künstliche Intelligenz)
@@ -318,10 +309,10 @@ twentytwentytwo:
 
 - title: "Identifying the Impact of Online Tests in Learning Management Systems on Learning Success"
   authors: 
-  - Ruben T. Wittrin
-  - Viktoria Wüstenfeld
-  - Michael Spranger
-  - Volker   - Tolkmitt
+  - Wittrin, Ruben T. 
+  - Wüstenfeld, Viktoria 
+  - Spranger, Michael 
+  - Tolkmitt, Volker
   type: article
   year: 2022
   place: IJIET (International Journal of Information and Education Technology)
@@ -330,11 +321,11 @@ twentytwentytwo:
 twentytwentyone:
 - title: "Classification of Bots and Gender using Topic Unigrams"
   authors: 
-  - Astrid Fleig
-  - Lisa Geyersbach
-  - Melissa Göhler
-  - Patricia Kurz
-  - Michael Spranger
+  - Fleig, Astrid 
+  - Geyersbach, Lisa 
+  - Göhler, Melissa 
+  - Kurz, Patricia 
+  - Spranger, Michael
   type: article
   year: 2021
   place: The Tenth International Conference 2021
@@ -342,21 +333,16 @@ twentytwentyone:
 
 - title: "Hack The Automotive Simulator"
   authors: 
-  - Dirk Labudde
-  - Heiko Polster
-  - Markus Strassburg
+  - Labudde, Dirk 
+  - Polster, Heiko 
+  - Strassburg, Markus
   type: article
   year: 2021
   place: VEHICULAR 2021
   url: https://www.thinkmind.org/index.php?view=instance&instance=VEHICULAR+2021
 
 - title: "Classification of Bots and Gender using Topic Unigrams"
-  authors: 
-  - Astrid Fleig 
-  - Lisa Geyersbach 
-  - Melissa Göhler 
-  - Patricia Kurz 
-  - Michael Spranger
+  authors: Astrid Fleig - Lisa Geyersbach - Melissa Göhler - Patricia Kurz - Michael Spranger
   type: article
   year: 2021
   place: The Tenth International Conference 2021
@@ -364,10 +350,10 @@ twentytwentyone:
 
 - title: "Hypothesis-driven Case Analysis in 3D-Space as a Support for Forensic Casework"
   authors: 
-  - Sven Becker
-  - Tommy Bergmann
-  - Steffen Peldschuss
-  - Dirk Labudde
+  - Becker, Sven 
+  - Bergmann, Tommy 
+  - Peldschuss, Steffen 
+  - Labudde, Dirk
   type: article
   year: 2021
   place: INFORMATIK 2021
@@ -375,16 +361,15 @@ twentytwentyone:
 
 - title: "AnthroWorks3D: Digitalisierung von Skelettfundstücken und die virtuell osteologische Untersuchung"
   authors: 
-  - Hanjo Tim Fritzsch
-  - Fabian Schmiedel
-  - Marie-Luise Heuschkel
-  - Marleen Mohaupt
-  - Dirk Labudde
-  - Toralf Kirsten
-  - Birgit Grosskopf
-  - Anna Lena Flux
-  - Stefanie Meier
-  - Patricia van der Burgt
+  - Fritzsch, Hanjo Tim 
+  - Schmiedel, Fabian 
+  - Heuschkel, Marie 
+  - Mohaupt, Marleen - Labudde, Dirk 
+  - Kirsten, Toralf 
+  - Grosskopf, Birgit 
+  - Flux, Anna Lena 
+  - Meier, Stefanie 
+  - van der Burgt, Patricia
   type: article
   year: 2021
   place: Ökologische Transformation von Technik
@@ -392,14 +377,14 @@ twentytwentyone:
 
 - title: "Zur Spurensuche an menschlichen Skeletten"
   authors: 
-  - Marie-Luise Heuschkel
-  - Sven Becker
-  - Saskia Jeraufke
-  - Christina Lucas
-  - Marleen Mohaupt
-  - Dirk Labudde
-  - Toralf Kirsten
-  - Birgit Grosskopf
+  - Heuschkel, Marie 
+  - Becker, Sven 
+  - Jeraufke, Saskia 
+  - Lucas, Christina 
+  - Mohaupt, Marleen 
+  - Labudde, Dirk 
+  - Kirsten, Toralf 
+  - Grosskopf, Birgit
   type: book chapter
   year: 2021
   place: Spurenlesen
@@ -407,7 +392,7 @@ twentytwentyone:
 
 - title: "Künstliche Intelligenz und IT Sicherheit – eine Bestandsaufnahme"
   authors: 
-  - Dirk Labudde
+  - Labudde, Dirk
   type: book chapter
   year: 2021
   place: Ebers, Steinrötter (Hg.) 2021 – Künstliche Intelligenz und smarte Robotik
@@ -415,9 +400,9 @@ twentytwentyone:
 
 - title: "Emotionserkennung in Gesichtern – Eine Anwendung für kinderpornographische Schriften"
   authors: 
-  - Dirk Labudde
-  - Martin Klöden
-  - Nico Müller
+  - Labudde, Dirk 
+  - Klöden, Martin 
+  - Müller, Nico
   type: book chapter
   year: 2021
   place: Honekamp, Povalej et al. (Hg.) 2021 – Polizei-Informatik 2021
@@ -425,13 +410,13 @@ twentytwentyone:
 
 - title: "Ansätze für die Dunkelfeldforschung: Möglichkeiten von Simulationen auf Grundlage der PKS"
   authors: 
-  - Andy Ludwig
-  - René Lars Schmiedgen
-  - Sandro Martens
-  - Sarah Otto
-  - Kilian Heret
-  - Florian Meyer
-  - Dirk Labudde
+  - Ludwig, Andy 
+  - Schmiedgen René Lars 
+  - Martens, Sandro 
+  - Otto, Sarah 
+  - Heret, Kilian 
+  - Meyer, Florian 
+  - Labudde, Dirk
   type: book chapter
   year: 2021
   place: Honekamp, Povalej et al. (Hg.) 2021 – Polizei-Informatik 2021
@@ -439,9 +424,9 @@ twentytwentyone:
 
 - title: "Automated Determination of Fingerprint Ridge Density and Fingerprint Size to Detect Sex Differences"
   authors: 
-  - Marleen Mohaupt
-  - Sieke Stoeter
-  - Dirk Labudde
+  - Mohaupt, Marleen 
+  - Stoeter, Sieke 
+  - Labudde, Dirk
   type: article
   year: 2021
   place: INFORMATIK 2021
@@ -449,17 +434,17 @@ twentytwentyone:
 
 - title: "Automatically Identifying Online Grooming Chats Using CNN-based Feature Extraction"
   authors: 
-  - Svenja Preuß
-  - Luna Pia Bley
-  - Tabea Bayha
-  - Vivien Dehne
-  - Alessa Jordan
-  - Sophie Reimann
-  - Fina Roberto
-  - Josephine Romy Zahm
-  - Hanna Siewerts
-  - Dirk Labudde
-  - Michael Spranger
+  - Preuß, Svenja 
+  - Bley, Luna Pia 
+  - Bayha, Tabea 
+  - Dehne, Vivien 
+  - Jordan, Alessa 
+  - Reimann, Sophie 
+  - Roberto, Fina 
+  - Zahm, Josephine Romy 
+  - Siewerts, Hanna 
+  - Labudde, Dirk 
+  - Spranger, Michael
   type: article
   year: 2021
   place: Proceedings of the 17th Conference 2021
@@ -467,12 +452,12 @@ twentytwentyone:
 
 - title: "DeTox at GermEval 2021: Toxic Comment Classification"
   authors: 
-  - Mina Schütz
-  - Christoph Demus
-  - Jonas Pitz
-  - Nadine Probol
-  - Melanie Siegel
-  - Dirk Labudde
+  - Schütz, Mina 
+  - Demus, Christoph 
+  - Pitz, Jonas 
+  - Probol, Nadine 
+  - Siegel, Melanie 
+  - Labudde, Dirk
   type: article
   year: 2021
   place: Proceedings of the GermEval 2021
@@ -480,9 +465,9 @@ twentytwentyone:
 
 - title: "A Concept for a Comprehensive Understanding of Communication in Mobile Forensics"
   authors: 
-  - Jian Xi
-  - Michael Spranger
-  - Dirk Labudde
+  - Xi, Jian 
+  - Spranger, Michael 
+  - Labudde, Dirk
   type: article
   year: 2021
   place: DATA ANALYTICS 2021
@@ -490,22 +475,16 @@ twentytwentyone:
 
 - title: "Regulation of the Molecular Shuttle Service: A Multiscale Model of Aquaporin 2 Recycling"
   authors: 
-  - Christoph Leberecht
-  - Michael Schroeder
-  - Dirk Labudde
+  - Leberecht, Christoph 
+  - Schroeder, Michael 
+  - Labudde, Dirk
   type: book
   year: 2021
   place: npj Syst Biol Appl 8
   url: https://doi.org/10.1101/2021.06.22.449377
 
 - title: "Polizei-Informatik 2021"
-  authors: 
-  - Wilfried Honekamp - 
-  - Roman Povalej
-  - Heiko Rittelmeier
-  - Silvio Berner
-  - Johannes Fähndrich
-  - Dirk Labude
+  authors: Honekamp, Wilfried - Povalej, Roman - Rittelmeier, Heiko - Berner, Silvio - Fähndrich, Johannes - Labudde, Dirk
   type: book
   year: 2021
   place: Honekamp, Povalej, Rittelmeier, Berner, Fähndrich, Labudde (Hg.) 2021 – Polizei-Informatik 2021
@@ -513,9 +492,9 @@ twentytwentyone:
 
 - title: "Analysis of the influence of EDTA-treated reference samples on forensic bloodstain age estimation"
   authors: 
-  - Tommy Bergmann
-  - Christoph Leberecht
-  - Dirk Labudde
+  - Bergmann, Tommy 
+  - Leberecht, Christoph 
+  - Labudde, Dirk
   type: article
   year: 2021
   place: Forensic science international
@@ -523,12 +502,12 @@ twentytwentyone:
 
 - title: "Die Enkel von Locard"
   authors: 
-  - Roman Povalej
-  - Heiko Rittelmeier
-  - Johannes Fähndrich
-  - Silvio Berner
-  - Wilfried Honekamp
-  - Dirk Labudde
+  - Povalej, Roman 
+  - Rittelmeier, Heiko 
+  - Fähndrich, Johannes 
+  - Berner, Silvio 
+  - Honekamp, Wilfried 
+  - Labudde, Dirk
   type: article
   year: 2021
   place: Informatik Spektrum
@@ -537,8 +516,8 @@ twentytwentyone:
 twentytwenty:
 - title: "Entwicklung eines Werkzeugs zur automatisierten Berechnung der „Area of Origin“ im Rahmen forensischer Blutmusteranalysen"
   authors: 
-  - Tommy Bergmann
-  - Sven Becker
+  - Bergmann, Tommy 
+  - Becker, Sven
   type: article
   year: 2020
   place: Gesellschaft für Rechtsmedizin 2020 – 99. Jahrestagung der Deutschen Gesellschaft
@@ -546,11 +525,11 @@ twentytwenty:
 
 - title: "Development and empirical optimization of an electrochemical analysis cell for the visualization of latent fingerprints and their chemical adhesives"
   authors: 
-  - Tommy Bergmann
-  - Sebastian Gottschall
-  - Enrico Fuchs
-  - Oliver Berlipp
-  - Dirk Labudde
+  - Bergmann, Tommy 
+  - Gottschall, Sebastian 
+  - Fuchs, Enrico 
+  - Berlipp, Oliver 
+  - Labudde, Dirk
   type: article
   year: 2020
   place: Brömme, Busch et al. (Hg.) 2020 – BIOSIG 2020
@@ -558,10 +537,10 @@ twentytwenty:
 
 - title: "Towards Inter-Rater-Agreement-Learning"
   authors: 
-  - Kai-Jannis Hanke
-  - Andy Ludwig
-  - Dirk Labudde
-  - Michael Spranger
+  - Hanke, Kai-Jannis 
+  - Ludwig, Andy 
+  - Labudde, Dirk 
+  - Spranger, Michael
   type: article
   year: 2020
   place: IMMM 2020
@@ -569,10 +548,10 @@ twentytwenty:
 
 - title: "Bekämpfung von Cybercrime durch die Polizei"
   authors: 
-  - Wilfried Honekamp
-  - Roman Povalej
-  - Heiko Rittelmeier
-  - Dirk Labudde
+  - Honekamp, Wilfried 
+  - Povalej, Roman 
+  - Rittelmeier, Heiko 
+  - Labudde, Dirk
   type: article
   year: 2020
   place: Wollinger, Schulze (Hg.) 2020 – Handbuch Cybersecurity für die öffentliche
@@ -580,9 +559,9 @@ twentytwenty:
 
 - title: "KI-basierte Emotionserkennung in Videos"
   authors: 
-  - Viktoria Michael
-  - Martin Klöden
-  - Dirk Labudde
+  - Michael, Viktoria 
+  - Klöden, Martin 
+  - Labudde, Dirk
   type: book chapter
   year: 2020
   place: Honekamp, Rittelmeier et al. (Hg.) 2020 – Polizei-Informatik 2020
@@ -590,8 +569,8 @@ twentytwenty:
 
 - title: "Vorhersage von Gruppendynamiken auf der Grundlage von Daten aus Sozialen Netzwerken"
   authors: 
-  - Michael Spranger
-  - Dirk Labudde
+  - Spranger, Michael 
+  - Labudde, Dirk
   type: book chapter
   year: 2020
   place: Rüdiger, Bayerl (Hg.) 2020 – Cyberkriminologie
@@ -599,9 +578,9 @@ twentytwenty:
 
 - title: "Herstellung und Detektion von Videos und Bildern mit KI und deren Bezug zu Beweismitteln"
   authors: 
-  - Jennifer Woithe
-  - Sven Becker
-  - Dirk Labudde
+  - Woithe, Jennifer 
+  - Becker, Sven 
+  - Labudde, Dirk
   type: book chapter
   year: 2020
   place: FH 2020 – Kriminalistik und Kriminologie
@@ -609,9 +588,9 @@ twentytwenty:
 
 - title: "Music Event Detection Leveraging Feature Selection based on Ant Colony Optimization"
   authors: 
-  - Jian Xi
-  - Michael Spranger
-  - Dirk Labudde
+  - Xi, Jian 
+  - Spranger, Michael 
+  - Labudde, Dirk
   type: article
   year: 2020
   place: International Journal on Advances
@@ -619,10 +598,10 @@ twentytwenty:
 
 - title: "Polizei-Informatik 2020"
   authors: 
-  - Wilfried Honekamp
-  - Heiko Rittelmeier
-  - Roman Povalej
-  - Dirk Labudde
+  - Honekamp, Wilfried 
+  - Rittelmeier, Heiko 
+  - Povalej, Roman 
+  - Labudde, Dirk
   type: book
   year: 2020
   place: Honekamp, Rittelmeier, Povalej, Labudde (Hg.) 2021 – Polizei-Informatik 2021
@@ -630,47 +609,47 @@ twentytwenty:
 
 - title: "Entwicklung eines Blender-Addons zur automatisierten Berechnung der 'Area of Origin' im Rahmen forensischer Blutmusteranalysen"
   authors: 
-  - Tommy Bergmann
-  - Sven Becker
-  - Dan Sandig
-  - Dirk Labudde
+  - Bergmann, Tommy 
+  - Becker, Sven 
+  - Sandig, Dan 
+  - Labudde, Dirk
   type: presentation
   year: 2020
   place: DGRM Jahrestagung 2020
   url: https://www.researchgate.net/publication/361925654_Entwicklung_eines_Blender-Addons_zur_automatisierten_Berechnung_der_Area_of_Origin_im_Rahmen_forensischer_Blutmusteranalysen
-  
+
 - title: "AnthroWorks3D - A Digital Tool for Anthropological Analyses in Cultural Heritage Institutions and Beyond"
-  authors:
-  - Marie-Luise Heuschkel
-  - Hanjo Tim Fritzsch
-  - Fabian Schmiedel
-  - Stefanie Meier
-  - Patricia van der Burgt
-  - Birgit Grosskopf
-  - Anna Lena Flux
-  - Marleen Mohaupt
-  - Dirk Labudde
-  - Toralf Kirsten
+  authors: 
+  - Heuschkel, Marie-Luise 
+  - Fritzsch, Hanjo Tim 
+  - Schmiedel, Fabian 
+  - Meier, Stefanie 
+  - van der Burgt, Patricia 
+  - Grosskopf, Birgit 
+  - Flux, Anna Lena 
+  - Mohaupt, Marleen 
+  - Labudde, Dirk 
+  - Kirsten, Toralf
   type: presentation
   year: 2020
-  place: "CIDOC Conference Digital Transformation in Cultural Heritage Institutions 2020"
+  place: CIDOC Conference ""Digital Transformation in Cultural Heritage Institutions"" 2020
   url: https://www.youtube.com/watch?v=yeGwR80UpUI
 
 - title: "Gruppendynamik in Sozialen Netzwerken: Bestimmung und Vorhersage von Gruppendynamiken auf Grundlage von Daten aus Sozialen Netzwerken"
   authors: 
-  - Christoph Frenzel
-  - Dirk Labudde
+  - Frenzel, Christoph 
+  - Labudde, Dirk
   type: article
   year: 2020
   place: "Kriminalistik und Kriminologie in der VUCA-Welt  - Teil 2: Kriminalität und digitaler Raum, Gefahren für den Rechtsstaat"
   url: https://krimdok.uni-tuebingen.de/Record/1814579109
 
-- title: "Erstellung und Etablierung einer wissensbasierten Fallsammlung für forensische Bildgebung – WiFas"
+- title: "Erstellung und Etablierung einer wissensbasierten Fallsammlung für forensische Bildgebung – WiFas"  
   authors: 
-  - Sarah Heinze
-  - Steffen Grunert
-  - Silke Grabherr
-  - Dirk Labudde
+  - Heinze, Sarah 
+  - Grunert, Steffen 
+  - Grabherr, Silke 
+  - Labudde, Dirk
   type: article
   year: 2020
   place: Rechtsmedizin
@@ -678,14 +657,14 @@ twentytwenty:
 
 - title: "The structural basis of the genetic code: amino acid recognition by aminoacyl-tRNA synthetases"
   authors: 
-  - Florian Kaiser
-  - Sarah Krautwurst
-  - Sebastian Salentin
-  - Joachim Haupt
-  - Christoph Leberecht
-  - Sebastian Bittrich
-  - Dirk Labudde
-  - Michael Schroeder
+  - Kaiser, Florian 
+  - Krautwurst, Sarah 
+  - Salentin, Sebastian 
+  - Haupt, V. Joachim 
+  - Leberecht, Christoph 
+  - Bittrich, Sebastian 
+  - Labudde, Dirk 
+  - Schroeder, Michael
   type: article
   year: 2020
   place: Scientific reports
@@ -693,10 +672,10 @@ twentytwenty:
 
 - title: "Measuring Competence: Improvements to Determine the Degree of Opinion Leadership in Social Networks"
   authors: 
-  - Michael Spranger
-  - Kai-Jannis Hanke
-  - Florian Heinke
-  - Dirk Labudde
+  - Spranger, Michael 
+  - Hanke, Kai-Jannis 
+  - Heinke, Florian 
+  - Labudde, Dirk
   type: article
   year: 2020
   place: International Journal on Advances in Internet Technology
@@ -705,17 +684,17 @@ twentytwenty:
 twentynineteen:
 - title: "Multi-Label Classification of Blurbs with SVM Classifier Chains"
   authors: 
-  - Franz Bellmann
-  - Lea Bunzel
-  - Christoph Demus
-  - Lisa Fellendorf
-  - Olivia Gräupner
-  - Qiuyi Hu
-  - Tamara Lange
-  - Alica Stuhr
-  - Jian Xi
-  - Dirk Labudde
-  - Michael Spranger
+  - Bellmann, Franz 
+  - Bunzel, Lea 
+  - Demus, Christoph 
+  - Fellendorf, Lisa 
+  - Gräupner, Olivia 
+  - Hu, Qiuyi 
+  - Lange, Tamara 
+  - Stuhr, Alica 
+  - Xi, Jian 
+  - Labudde, Dirk 
+  - Spranger, Michael
   type: article
   year: 2019
   place: Proceedings of the 15th Conference
@@ -723,65 +702,65 @@ twentynineteen:
 
 - title: "Simulation und Visualisierung der primären Hormonantwort renaler Hauptzellen"
   authors: 
-  - Felix Erichson
-  - Christoph Leberecht
-  - Dirk Labudde
+  - Erichson, Felix 
+  - Leberecht, Christoph 
+  - Labudde, Dirk
   type: article
   year: 2019
-  place: Sackmann, Rix et al. (Hg.) 2019 - 20. Nachwuchswissenschaftlerkonferenz
+  place: Sackmann, Rix et al. (Hg.) 2019 – 20. Nachwuchswissenschaftlerkonferenz
   url: https://docplayer.org/203802416-Book-of-abstracts-merseburger-hochschulschriften-interdisziplinaeres-denken-forschen-handeln-20-nachwuchswissenschaftlerkonferenz.html
 
 - title: "Der FungiAssistent2"
   authors: 
-  - Silke Groß
-  - Steffen Grunert
-  - Dirk Labudde
+  - Groß, Silke 
+  - Grunert, Steffen 
+  - Labudde, Dirk
   type: article
   year: 2019
-  place: Sackmann, Rix et al. (Hg.) 2019 - 20. Nachwuchswissenschaftlerkonferenz
+  place: Sackmann, Rix et al. (Hg.) 2019 – 20. Nachwuchswissenschaftlerkonferenz
   url: https://docplayer.org/203802416-Book-of-abstracts-merseburger-hochschulschriften-interdisziplinaeres-denken-forschen-handeln-20-nachwuchswissenschaftlerkonferenz.html
-  
+
 - title: "BoneBase - Entwicklung eines Informationssystems für die anthropologische Arbeit mit Skeletten"
   authors: 
-  - Marie-Luise Heuschkel
-  - Saskia Jeraufke
-  - Sven Becker
-  - Elisa Israel
-  - Dirk Labudde
+  - Heuschkel, Marie-Luise 
+  - Jeraufke, Saskia 
+  - Becker, Sven 
+  - Israel, Elisa 
+  - Labudde, Dirk
   type: article
   year: 2019
-  place: Sackmann, Rix et al. (Hg.) 2019 - 20. Nachwuchswissenschaftlerkonferenz
+  place: Sackmann, Rix et al. (Hg.) 2019 – 20. Nachwuchswissenschaftlerkonferenz
   url: https://docplayer.org/203802416-Book-of-abstracts-merseburger-hochschulschriften-interdisziplinaeres-denken-forschen-handeln-20-nachwuchswissenschaftlerkonferenz.html
 
 - title: "Aufnahmestandards für die digitale Dokumentation"
   authors: 
-  - Elisa Israel
+  - Israel, Elisa
   type: article
   year: 2019
-  place: Sackmann, Rix et al. (Hg.) 2019 - 20. Nachwuchswissenschaftlerkonferenz
+  place: Sackmann, Rix et al. (Hg.) 2019 – 20. Nachwuchswissenschaftlerkonferenz
   url: https://docplayer.org/203802416-Book-of-abstracts-merseburger-hochschulschriften-interdisziplinaeres-denken-forschen-handeln-20-nachwuchswissenschaftlerkonferenz.html
 
 - title: "Forensisch-anthropologische Bestimmung des Individualalters"
   authors: 
-  - Saskia Jeraufke
-  - Florian Heinke
-  - Stefan Schildbach
-  - Karlheinz Thiele
-  - Jan Dreßler
-  - Dirk Labudde
+  - Jeraufke, Saskia 
+  - Heinke, Florian 
+  - Schildbach, Stefan 
+  - Thiele, Karlheinz 
+  - Dreßler, Jan 
+  - Labudde, Dirk
   type: article
   year: 2019
-  place: Sackmann, Rix et al. (Hg.) 2019 - 20. Nachwuchswissenschaftlerkonferenz
+  place: Sackmann, Rix et al. (Hg.) 2019 – 20. Nachwuchswissenschaftlerkonferenz
   url: https://docplayer.org/203802416-Book-of-abstracts-merseburger-hochschulschriften-interdisziplinaeres-denken-forschen-handeln-20-nachwuchswissenschaftlerkonferenz.html
 
 - title: "FoSIL - Offensive language classification of German tweets combining SVMs and deep learning techniques"
   authors: 
-  - Florian Schmid
-  - Justine Thielemann
-  - Anna Mantwill
-  - Jian Xi
-  - Dirk Labudde
-  - Michael Spranger
+  - Schmid, Florian 
+  - Thielemann, Justine 
+  - Mantwill, Anna 
+  - Xi, Jian 
+  - Labudde, Dirk 
+  - Spranger, Michael
   type: article
   year: 2019
   place: Proceedings of the 15th Conference
@@ -789,12 +768,12 @@ twentynineteen:
 
 - title: "Application of an interpretable classification model on Early Folding Residues during protein folding"
   authors: 
-  - Sebastian Bittrich
-  - Marika Kaden
-  - Christoph Leberecht
-  - Florian Kaiser
-  - Thomas Villmann
-  - Dirk Labudde
+  - Bittrich, Sebastian 
+  - Kaden, Marika 
+  - Leberecht, Christoph 
+  - Kaiser, Florian 
+  - Villmann, Thomas 
+  - Labudde, Dirk
   type: article
   year: 2019
   place: BioData mining
@@ -802,9 +781,9 @@ twentynineteen:
 
 - title: "StructureDistiller: Structural relevance scoring identifies the most informative entries of a contact map"
   authors: 
-  - Sebastian Bittrich
-  - Michael Schroeder
-  - Dirk Labudde
+  - Bittrich, Sebastian 
+  - Schroeder, Michael 
+  - Labudde, Dirk
   type: article
   year: 2019
   place: Scientific reports
@@ -812,14 +791,14 @@ twentynineteen:
 
 - title: "Theoretische Grundlagen der forensischen Bildgebung"
   authors: 
-  - Alexander Bornik
-  - Sarah Heinze
-  - Lorenzo Campana
-  - Thomas Rost
-  - Holger Wittig
-  - Dirk Labudde
-  - Pia Genet
-  - Silke Grabherr
+  - Bornik, Alexander 
+  - Heinze, Sarah 
+  - Campana, Lorenzo 
+  - Rost, Thomas 
+  - Wittig, Holger 
+  - Labudde, Dirk 
+  - Genet, Pia 
+  - Grabherr, Silke
   type: article
   year: 2019
   place: Rechtsmedizin
@@ -827,13 +806,13 @@ twentynineteen:
 
 - title: "Anthropology, Anthropology, Osteology and Digitization. Developing a Digital “Bones Library” for Anthropological Analyses and The Digitization of Cultural Heritage Objects"
   authors: 
-  - Marie-Luise Heuschkel
-  - Saskia Jeraufke
-  - Sven Becker
-  - Christina Lucas
-  - Marleen Mohaupt
-  - Dirk Labudde
-  - Toralf Kirsten
+  - Heuschkel, Marie-Luise 
+  - Jeraufke, Saskia 
+  - Becker, Sven 
+  - Lucas, Christina 
+  - Mohaupt, Marleen 
+  - Labudde, Dirk 
+  - Kirsten, Toralf
   type: article
   year: 2019
   place: 13th Meeting of the Society of Anthropology
@@ -841,8 +820,8 @@ twentynineteen:
 
 - title: "Unsupervised Discovery of Geometrically Common Structural Motifs and Long-Range Contacts in Protein 3D Structures"
   authors: 
-  - Florian Kaiser
-  - Dirk Labudde
+  - Kaiser, Florian 
+  - Labudde, Dirk
   type: article
   year: 2019
   place: IEEE/ACM transactions on computational biology and bioinformatics
@@ -850,13 +829,13 @@ twentynineteen:
 
 - title: "Structural change in GadD2 of Listeria monocytogenes field isolates supports nisin resistance"
   authors: 
-  - Maik Szendy
-  - Stefan Kalkhof
-  - Sebastian Bittrich
-  - Florian Kaiser
-  - Christoph Leberecht
-  - Dirk Labudde
-  - Matthias Noll
+  - Szendy, Maik 
+  - Kalkhof, Stefan 
+  - Bittrich, Sebastian 
+  - Kaiser, Florian 
+  - Leberecht, Christoph 
+  - Labudde, Dirk 
+  - Noll, Matthias
   type: article
   year: 2019
   place: International journal of food microbiology
@@ -865,7 +844,7 @@ twentynineteen:
 twentyeighteen:
 - title: "Sicherheit ist die Abwesenheit von Kriminalität - eine Hypothese"
   authors: 
-  - Dirk Labudde
+  - Labudde, Dirk
   type: article
   year: 2018
   place: Beyerer, Winzer (Hg.) 2018 – Beiträge zu einer Systemtheorie Sicherheit
@@ -873,8 +852,8 @@ twentyeighteen:
 
 - title: "Bioinformatische Grundlagen"
   authors: 
-  - Dirk Labudde
-  - Marleen Mohaupt
+  - Labudde, Dirk 
+  - Mohaupt, Marleen
   type: book chapter
   year: 2018
   place: Labudde, Mohaupt (Hg.) 2018 – Bioinformatik im Handlungsfeld der Forensik
@@ -882,8 +861,8 @@ twentyeighteen:
 
 - title: "Biologische Spuren – Grundlagen"
   authors: 
-  - Dirk Labudde
-  - Marleen Mohaupt
+  - Labudde, Dirk 
+  - Mohaupt, Marleen
   type: book chapter
   year: 2018
   place: Labudde, Mohaupt (Hg.) 2018 – Bioinformatik im Handlungsfeld der Forensik
@@ -891,8 +870,8 @@ twentyeighteen:
 
 - title: "Blut und dessen Farbstoffe in der Forensik"
   authors: 
-  - Dirk Labudde
-  - Marleen Mohaupt
+  - Labudde, Dirk 
+  - Mohaupt, Marleen
   type: book chapter
   year: 2018
   place: Labudde, Mohaupt (Hg.) 2018 – Bioinformatik im Handlungsfeld der Forensik
@@ -900,8 +879,8 @@ twentyeighteen:
 
 - title: "Datenbanken in den Life Sciences und der Forensik"
   authors: 
-  - Dirk Labudde
-  - Marleen Mohaupt
+  - Labudde, Dirk 
+  - Mohaupt, Marleen
   type: book chapter
   year: 2018
   place: Labudde, Mohaupt (Hg.) 2018 – Bioinformatik im Handlungsfeld der Forensik
@@ -909,8 +888,8 @@ twentyeighteen:
 
 - title: "Fehlende Fingerabdrücke und genetische Defekte"
   authors: 
-  - Dirk Labudde
-  - Marleen Mohaupt
+  - Labudde, Dirk 
+  - Mohaupt, Marleen
   type: book chapter
   year: 2018
   place: Labudde, Mohaupt (Hg.) 2018 – Bioinformatik im Handlungsfeld der Forensik
@@ -918,8 +897,8 @@ twentyeighteen:
 
 - title: "Fingerabdruck"
   authors: 
-  - Dirk Labudde
-  - Marleen Mohaupt
+  - Labudde, Dirk 
+  - Mohaupt, Marleen
   type: book chapter
   year: 2018
   place: Labudde, Mohaupt (Hg.) 2018 – Bioinformatik im Handlungsfeld der Forensik
@@ -927,8 +906,8 @@ twentyeighteen:
 
 - title: "Genetischer Fingerabdruck – Charakteristik und Methoden"
   authors: 
-  - Dirk Labudde
-  - Marleen Mohaupt
+  - Labudde, Dirk 
+  - Mohaupt, Marleen
   type: book chapter
   year: 2018
   place: Labudde, Mohaupt (Hg.) 2018 – Bioinformatik im Handlungsfeld der Forensik
@@ -936,8 +915,8 @@ twentyeighteen:
 
 - title: "Haut und Anzeichen für Gewalteinwirkung"
   authors: 
-  - Dirk Labudde
-  - Marleen Mohaupt
+  - Labudde, Dirk 
+  - Mohaupt, Marleen
   type: book chapter
   year: 2018
   place: Labudde, Mohaupt (Hg.) 2018 – Bioinformatik im Handlungsfeld der Forensik
@@ -945,8 +924,8 @@ twentyeighteen:
 
 - title: "Tägliche Fallarbeit und der Mensch als Spurenträger"
   authors: 
-  - Dirk Labudde
-  - Marleen Mohaupt
+  - Labudde, Dirk 
+  - Mohaupt, Marleen
   type: book chapter
   year: 2018
   place: Labudde, Mohaupt (Hg.) 2018 – Bioinformatik im Handlungsfeld der Forensik
@@ -954,8 +933,8 @@ twentyeighteen:
 
 - title: "Bioinformatik im Handlungsfeld der Forensik"
   authors: 
-  - Dirk Labudde
-  - Marleen Mohaupt
+  - Labudde, Dirk 
+  - Mohaupt, Marleen
   type: book
   year: 2018
   place: Labudde, Mohaupt (Hg.) 2018 – Bioinformatik im Handlungsfeld der Forensik
@@ -963,11 +942,11 @@ twentyeighteen:
 
 - title: "A Comprehensive Framework for High Resolution Image-based 3D Modeling and Documentation of Crime Scenes and Disaster Sites"
   authors: 
-  - Sven Becker
-  - Michael Spranger
-  - Florian Heinke
-  - Steffen Grunert
-  - Dirk Labudde
+  - Becker, Sven 
+  - Spranger, Michael 
+  - Heinke, Florian 
+  - Grunert, Steffen 
+  - Labudde, Dirk
   type: article
   year: 2018
   place: International Journal on Advances in Systems and Measurements
@@ -975,8 +954,8 @@ twentyeighteen:
 
 - title: "Detailed Analysis of 17β-Estradiol-Aptamer Interactions: A Molecular Dynamics Simulation Study"
   authors: 
-  - Alexander Eisold
-  - Dirk Labudde
+  - Eisold, Alexander 
+  - Labudde, Dirk
   type: article
   year: 2018
   place: Molecules (Basel, Switzerland)
@@ -984,14 +963,14 @@ twentyeighteen:
 
 - title: "Backbone Brackets and Arginine Tweezers delineate Class I and Class II aminoacyl tRNA synthetases"
   authors: 
-  - Florian Kaiser
-  - Sebastian Bittrich
-  - Sebastian Salentin
-  - Christoph Leberecht
-  - Jochaim V. Haupt
-  - Sarah Krautwurst
-  - Michael Schroeder
-  - Dirk Labudde
+  - Kaiser, Florian 
+  - Bittrich, Sebastian 
+  - Salentin, Sebastian 
+  - Leberecht, Christoph 
+  - Haupt, V. Joachim 
+  - Krautwurst, Sarah 
+  - Schroeder, Michael 
+  - Labudde, Dirk
   type: article
   year: 2018
   place: PLoS computational biology
@@ -999,11 +978,11 @@ twentyeighteen:
 
 - title: "Opinion Leaders in Star-Like Social Networks: A simple Case?"
   authors: 
-  - Michael Spranger
-  - Florian Heinke
-  - Hanna Siewerts
-  - Joshua Hampl
-  - Dirk Labudde
+  - Spranger, Michael 
+  - Heinke, Florian 
+  - Siewerts, Hanna 
+  - Hampl, Joshua 
+  - Labudde, Dirk
   type: article
   year: 2018
   place: The 8th. International Conference on Advances in Information Mining and Management (IMMM)
@@ -1011,13 +990,13 @@ twentyeighteen:
 
 - title: "Pyridine Nucleotide Coenzyme Specificity of p-Hydroxybenzoate Hydroxylase and Related Flavoprotein Monooxygenases"
   authors: 
-  - Adrie H. Westphal
-  - Dirk Tischler
-  - Florian Heinke
-  - Sarah Hofmann
-  - Janosch A. D. Gröning
-  - Dirk Labudde
-  - Willem J. H. van Berkel
+  - Westphal, Adrie H. 
+  - Tischler, Dirk 
+  - Heinke, Florian 
+  - Hofmann, Sarah 
+  - Gröning, Janosch A. D. 
+  - Labudde, Dirk 
+  - van Berkel, Willem J. H.
   type: article
   year: 2018
   place: Frontiers in microbiology
@@ -1025,9 +1004,9 @@ twentyeighteen:
 
 - title: "CNN-Based Offensive Language Detection"
   authors: 
-  - Jian Xi
-  - Michael Spranger
-  - Dirk Labudde
+  - Xi, Jian 
+  - Spranger, Michael 
+  - Labudde, Dirk
   type: article
   year: 2018
   place: Proceedings of the GermEval 2018 Workshop - 14th Conference on Natural Language Processing (KONVENS)
@@ -1035,10 +1014,10 @@ twentyeighteen:
 
 - title: "Towards an Automated System for Music Event Detection"
   authors: 
-  - Jian Xi
-  - Michael Spranger
-  - Hanna Siewerts
-  - Dirk Labudde
+  - Xi, Jian 
+  - Spranger, Michael 
+  - Siewerts, Hanna 
+  - Labudde, Dirk
   type: article
   year: 2018
   place: The 12th. International Conference on Advances in Semantic Processing (SEMAPRO)
@@ -1047,11 +1026,11 @@ twentyeighteen:
 twentyseventeen:
 - title: "The Infiltration Game: Artificial Immune System for the Exploitation of Crime Relevant Information in Social Networks"
   authors: 
-  - Michael Spranger
-  - Sven Becker
-  - Florian Heinke
-  - Hanna Siewerts
-  - Dirk Labudde
+  - Spranger, Michael 
+  - Becker, Sven 
+  - Heinke, Florian 
+  - Siewerts, Hanna 
+  - Labudde, Dirk
   type: article
   year: 2017
   place: IMMM 2017
@@ -1059,7 +1038,7 @@ twentyseventeen:
 
 - title: "Digitale Forensik zwischen (Online-)Durchsuchung, Beschlagnahme und Datenschutz"
   authors: 
-  - Frank Czerner
+  - Czerner, Frank
   type: book chapter
   year: 2017
   place: Labudde, Spranger (Hg.) 2017 – Forensik in der digitalen Welt
@@ -1067,9 +1046,9 @@ twentyseventeen:
 
 - title: "Methoden des maschinellen Lernens und der Computational Intelligence zur Auswertung heterogener Daten in der digitalen Forensik"
   authors: 
-  - Tina Geweniger
-  - Marika Kaden
-  - Thomas Villmann
+  - Geweniger, Tina 
+  - Kaden, Marika 
+  - Villmann, Thomas
   type: book chapter
   year: 2017
   place: Labudde, Spranger (Hg.) 2017 – Forensik in der digitalen Welt
@@ -1077,11 +1056,11 @@ twentyseventeen:
 
 - title: "Novel Computational Techniques for Thin-Layer Chromatography (TLC) Profiling and TLC Profile Similarity Scoring"
   authors: 
-  - Florian Heinke
-  - Rico Beier
-  - Tommy Bergmann
-  - Heiko Mixtacki
-  - Dirk Labudde
+  - Heinke, Florian 
+  - Beier, Rico 
+  - Bergmann, Tommy 
+  - Mixtacki, Heiko 
+  - Labudde, Dirk
   type: book chapter
   year: 2017
   place: Kozielski, Mrozek et al. (Hg.) 2017 – Beyond databases
@@ -1089,7 +1068,7 @@ twentyseventeen:
 
 - title: "Malware Forensics"
   authors: 
-  - Christian Hummert
+  - Hummert, Christian
   type: book chapter
   year: 2017
   place: Labudde, Spranger (Hg.) 2017 – Forensik in der digitalen Welt
@@ -1097,7 +1076,7 @@ twentyseventeen:
 
 - title: "Biometrie und die Analyse digitalisierter Spuren"
   authors: 
-  - Dirk Labudde
+  - Labudde, Dirk
   type: book chapter
   year: 2017
   place: Labudde, Spranger (Hg.) 2017 – Forensik in der digitalen Welt
@@ -1105,9 +1084,9 @@ twentyseventeen:
 
 - title: "Einführung"
   authors: 
-  - Dirk Labudde
-  - Frank Czerner
-  - Michael Spranger
+  - Labudde, Dirk 
+  - Czerner, Frank 
+  - Spranger, Michael
   type: book chapter
   year: 2017
   place: Labudde, Spranger (Hg.) 2017 – Forensik in der digitalen Welt
@@ -1115,7 +1094,7 @@ twentyseventeen:
 
 - title: "Audioforensik"
   authors: 
-  - Hartmut Luge
+  - Luge, Hartmut
   type: book chapter
   year: 2017
   place: Labudde, Spranger (Hg.) 2017 – Forensik in der digitalen Welt
@@ -1123,7 +1102,7 @@ twentyseventeen:
 
 - title: "Digitaler Tatort, Sicherung und Verfolgung digitaler Spuren"
   authors: 
-  - Dirk Pawlaszczyk
+  - Pawlaszczyk, Dirk
   type: book chapter
   year: 2017
   place: Labudde, Spranger (Hg.) 2017 – Forensik in der digitalen Welt
@@ -1131,9 +1110,9 @@ twentyseventeen:
 
 - title: "DNA-Phänotypisierung"
   authors: 
-  - Anne-Marie Pflugbeil
-  - Karlheinz Thiele
-  - Dirk Labudde
+  - Pflugbeil, Anne-Marie 
+  - Thiele, Karlheinz 
+  - Labudde, Dirk
   type: book chapter
   year: 2017
   place: Labudde, Spranger (Hg.) 2017 – Forensik in der digitalen Welt
@@ -1141,8 +1120,8 @@ twentyseventeen:
 
 - title: "Textforensik"
   authors: 
-  - Michael Spranger
-  - Dirk Labudde
+  - Spranger, Michael 
+  - Labudde, Dirk
   type: book chapter
   year: 2017
   place: Labudde, Spranger (Hg.) 2017 – Forensik in der digitalen Welt
@@ -1150,8 +1129,8 @@ twentyseventeen:
 
 - title: "Forensik in der digitalen Welt"
   authors: 
-  - Dirk Labudde
-  - Michael Spranger
+  - Labudde, Dirk 
+  - Spranger, Michael
   type: book
   year: 2017
   place: Labudde, Spranger (Hg.) 2017 – Forensik in der digitalen Welt
@@ -1159,9 +1138,9 @@ twentyseventeen:
 
 - title: "Towards substrate-independent age estimation of blood stains based on dimensionality reduction and k-nearest neighbor classification of absorbance spectroscopic data"
   authors: 
-  - Tommy Bergmann
-  - Florian Heinke
-  - Dirk Labudde
+  - Bergmann, Tommy 
+  - Heinke, Florian 
+  - Labudde, Dirk
   type: article
   year: 2017
   place: Forensic science international
@@ -1169,11 +1148,11 @@ twentyseventeen:
 
 - title: "GenoProof Mixture 3—New software and process to resolve complex DNA mixtures"
   authors: 
-  - Frank M. Götz
-  - Holger Schönborn
-  - Viktoria Borsdorf
-  - Anne-Marie Pflugbeil
-  - Dirk Labudde
+  - Götz, Frank M. 
+  - Schönborn, Holger 
+  - Borsdorf, Viktoria 
+  - Pflugbeil, Anne-Marie 
+  - Labudde, Dirk
   type: article
   year: 2017
   place: "Forensic Science International: Genetics Supplement Series"
@@ -1181,9 +1160,9 @@ twentyseventeen:
 
 - title: "Simulation of diffusion using a modular cell dynamic simulation system"
   authors:
-  - Christoph Leberecht
-  - Florian Heinke
-  - Dirk Labudde
+  - Leberecht, Christoph 
+  - Heinke, Florian 
+  - Labudde, Dirk
   type: article
   year: 2017
   place: In silico biology
@@ -1191,11 +1170,11 @@ twentyseventeen:
 
 - title: "SoNA: A Knowledge-based Social Network Analysis Framework for Predictive Policing"
   authors: 
-  - Michael Spranger
-  - Hanna Siewerts
-  - Joshua Hampl
-  - Florian Heinke
-  - Dirk Labudde
+  - Spranger, Michael 
+  - Siewerts, Hanna 
+  - Hampl, Joshua 
+  - Heinke, Florian 
+  - Labudde, Dirk
   type: article
   year: 2017
   place: International Journal on Advances in Intelligent Systems
@@ -1203,12 +1182,12 @@ twentyseventeen:
 
 - title: "Loss of heterozygosity in FANCG, FANCF and BRIP1 from head and neck squamous cell carcinoma of the oral cavity"
   authors: 
-  - Christin Türke
-  - Susanne Horn
-  - Carola Petto
-  - Dirk Labudde
-  - Günter Lauer
-  - Gretel Wittenburg
+  - Türke, Christin 
+  - Horn, Susanne 
+  - Petto, Carola 
+  - Labudde, Dirk 
+  - Lauer, Günter 
+  - Wittenburg, Gretel
   type: article
   year: 2017
   place: International journal of oncology
@@ -1216,8 +1195,8 @@ twentyseventeen:
 
 - title: "Computergestützte Gesichtsweichteil- und Tatortrekonstruktion"
   authors: 
-  - Sven Becker
-  - Dirk Labudde
+  - Becker, Sven 
+  - Labudde, Dirk
   type: book chapter
   year: 2017
   place: Labudde, Spranger (Hg.) 2017 – Forensik in der digitalen Welt
@@ -1225,14 +1204,14 @@ twentyseventeen:
 
 - title: "Analysis of X-Ray Images of Femora for Age at Death Estimation of Skeletal Individuals"
   authors: 
-  - Saskia Jeraufke
-  - Anne-Marie Pflugbeil
-  - Sven Becker
-  - Stefan Schildbach
-  - Dirk Labudde
-  - Horst Bruchhaus
-  - Karlheinz Thiele
-  - Jan Dressler
+  - Jeraufke, Saskia 
+  - Pflugbeil, Anne-Marie 
+  - Becker, Sven 
+  - Schildbach, Stefan 
+  - Labudde, Dirk 
+  - Bruchhaus, Horst 
+  - Thiele, Karlheinz 
+  - Dressler, Jan
   type: article
   year: 2016
   place: 2016 International Conference 2016
@@ -1241,10 +1220,10 @@ twentyseventeen:
 twentysixteen:
 - title: "Gesichtsweichteilrekonstruktion mithilfe einer Open-Source-Software"
   authors: 
-  - Sven Becker
-  - Jan Dreßler
-  - Karlheinz Thiele
-  - Dirk Labudde
+  - Becker, Sven 
+  - Dreßler, Jan 
+  - Thiele, Karlheinz 
+  - Labudde, Dirk
   type: article
   year: 2016
   place: Rechtsmedizin
@@ -1252,8 +1231,8 @@ twentysixteen:
 
 - title: "Numeric promoter description - A comparative view on concepts and general application"
   authors: 
-  - Rico Beier
-  - Dirk Labudde
+  - Beier, Rico 
+  - Labudde, Dirk
   type: article
   year: 2016
   place: Journal of molecular graphics & modelling
@@ -1261,10 +1240,10 @@ twentysixteen:
 
 - title: "SequenceCEROSENE: a computational method and web server to visualize spatial residue neighborhoods at the sequence level"
   authors: 
-  - Florian Heinke
-  - Sebastian Bittrich
-  - Florian Kaiser
-  - Dirk Labudde
+  - Heinke, Florian 
+  - Bittrich, Sebastian 
+  - Kaiser, Florian 
+  - Labudde, Dirk
   type: article
   year: 2016
   place: BioData mining
@@ -1272,10 +1251,10 @@ twentysixteen:
 
 - title: "Fit3D: a web application for highly accurate screening of spatial residue patterns in protein structure data"
   authors: 
-  - Florian Kaiser
-  - Alexander Eisold
-  - Sebastian Bittrich
-  - Dirk Labudde
+  - Kaiser, Florian 
+  - Eisold, Alexander 
+  - Bittrich, Sebastian 
+  - Labudde, Dirk
   type: article
   year: 2016
   place: Bioinformatics (Oxford, England)
@@ -1283,12 +1262,12 @@ twentysixteen:
 
 - title: "PIPINO: A Software Package to Facilitate the Identification of Protein-Protein Interactions from Affinity Purification Mass Spectrometry Data"
   authors: 
-  - Stefan Kalkhof
-  - Stefan Schildbach
-  - Conny Blumert
-  - Friedemann Horn
-  - Martin von Bergen
-  - Dirk Labudde
+  - Kalkhof, Stefan 
+  - Schildbach, Stefan 
+  - Blumert, Conny 
+  - Horn, Friedemann 
+  - Bergen, Martin von 
+  - Labudde, Dirk
   type: article
   year: 2016
   place: BioMed research international
@@ -1296,12 +1275,12 @@ twentysixteen:
 
 - title: "CAD to VR – A Methodology for the Automated Conversion of Kinematic CAD Models to Virtual Reality"
   authors: 
-  - Mario Lorenz
-  - Michael Spranger
-  - Tino Riedel
-  - Franziska Pürzel
-  - Volker Wittstock
-  - Philipp Klimant
+  - Lorenz, Mario 
+  - Spranger, Michael 
+  - Riedel, Tino 
+  - Pürzel, Franziska 
+  - Wittstock, Volker 
+  - Klimant, Philipp
   type: article
   year: 2016
   place: Procedia CIRP
@@ -1309,13 +1288,13 @@ twentysixteen:
 
 - title: "OEZY: Optimising E n ZY me selection for best performing terminal restriction fragment length polymorphism analysis using ARB"
   authors: 
-  - Martin Mühling
-  - Rico Beier
-  - Patricia Müller
-  - Patrick Petzsch
-  - Anna Drechsel
-  - Michael Schlömann
-  - Dirk Labudde
+  - Mühling, Martin 
+  - Beier, Rico 
+  - Müller, Patricia 
+  - Petzsch, Patrick 
+  - Drechsel, Anna 
+  - Schlömann, Michael 
+  - Labudde, Dirk
   type: article
   year: 2016
   place: Methods Ecol Evol (Methods in Ecology and Evolution)
@@ -1323,11 +1302,11 @@ twentysixteen:
 
 - title: "MoNA: Automated Identification of Evidence in Forensic Short Messages"
   authors: 
-  - Michael Spranger
-  - Florian Heinke
-  - Luisa Appelt
-  - Marcus Puder
-  - Dirk Labudde
+  - Spranger, Michael 
+  - Heinke, Florian 
+  - Appelt, Luisa 
+  - Puder, Marcus 
+  - Labudde, Dirk
   type: article
   year: 2016
   place: International Journal On Advances in Security
@@ -1335,10 +1314,10 @@ twentysixteen:
 
 - title: "Towards Drone-assisted large-scale Disaster Response and Recovery"
   authors: 
-  - Michael Spranger
-  - Florian Heinke
-  - Sven Becker
-  - Dirk Labudde
+  - Spranger, Michael 
+  - Heinke, Florian 
+  - Becker, Sven 
+  - Labudde, Dirk
   type: article
   year: 2016
   place: 1st. International Conference on Advances in Computation, Communications and Services (ACCSE)
@@ -1347,10 +1326,10 @@ twentysixteen:
 twentyfithteen:
 - title: "Towards Predictive Policing: Knowledge-based Monitoring of Social Networks"
   authors: 
-  - Michael Spranger
-  - Florian Heinke
-  - Steffen Grunert
-  - Dirk Labudde
+  - Spranger, Michael 
+  - Heinke, Florian 
+  - Grunert, Steffen 
+  - Labudde, Dirk
   type: article
   year: 2015
   place: The Fifth International Conference on Advances in Information Mining and Management (IMMM 2015)
@@ -1358,8 +1337,8 @@ twentyfithteen:
 
 - title: "Evolutionary Influenced Interaction Pattern as Indicator for the Investigation of Natural Variants Causing Nephrogenic Diabetes Insipidus"
   authors: 
-  - Steffen Grunert
-  - Dirk Labudde
+  - Grunert, Steffen 
+  - Labudde, Dirk
   type: article
   year: 2015
   place: Computational and mathematical methods in medicine
@@ -1367,8 +1346,8 @@ twentyfithteen:
 
 - title: "The observation of evolutionary interaction pattern pairs in membrane proteins"
   authors: 
-  - Steffen Grunert
-  - Dirk Labudde
+  - Grunert, Steffen 
+  - Labudde, Dirk
   type: article
   year: 2015
   place: BMC structural biology
@@ -1376,14 +1355,14 @@ twentyfithteen:
 
 - title: "Geschlechterverteilung eines Grabungsfunds aus der römischen Kaiser- und Völkerwanderungszeit"
   authors: 
-  - M. Harthun
-  - Anne-Marie Pflugbeil
-  - Nadine Friedewald
-  - Dirk Labudde
-  - J. Edelmann
-  - H. Bruchhaus
-  - J. Bruchhaus
-  - K. Thiele
+  - Harthun, M. 
+  - Pflugbeil, Anne-Marie 
+  - Friedewald, Nadine
+  - Labudde, Dirk 
+  - Edelmann, J. 
+  - Bruchhaus, H. 
+  - Bruchhaus, J. 
+  - Thiele, K.
   type: article
   year: 2015
   place: Rechtsmedizin
@@ -1391,9 +1370,9 @@ twentyfithteen:
 
 - title: "A Novel Algorithm for Enhanced Structural Motif Matching in Proteins"
   authors: 
-  - Florian Kaiser
-  - Alexander Eisold
-  - Dirk Labudde
+  - Kaiser, Florian 
+  - Eisold, Alexander 
+  - Labudde, Dirk
   type: article
   year: 2015
   place: "Journal of computational biology : a journal of computational molecular cell biology"
@@ -1401,14 +1380,14 @@ twentyfithteen:
 
 - title: "Initial experience in the application of the PowerQuant™ system and the Investigator ® ESSplex SE QS kit for aDNA analysis"
   authors: 
-  - Anne-Marie Pflugbeil
-  - Silke Groß
-  - Florian Heinke
-  - Horst Bruchhaus
-  - J. Edelmann
-  - Dirk Labudde
-  - Jan Dressler
-  - Karlheinz Thiele
+  - Pflugbeil, Anne-Marie 
+  - Groß, Silke 
+  - Heinke, Florian 
+  - Bruchhaus, Horst 
+  - Edelmann, J. 
+  - Labudde, Dirk 
+  - Dressler, Jan 
+  - Thiele, Karlheinz
   type: article
   year: 2015
   place: "Forensic Science International: Genetics Supplement Series"
@@ -1416,12 +1395,12 @@ twentyfithteen:
 
 - title: "Optimization strategies for DNA investigations of highly degraded corpses"
   authors: 
-  - Anne-Marie Pflugbeil
-  - M. Harthun
-  - Dirk Labudde
-  - J. Edelmann
-  - Jan Dreßler
-  - Karlhenz Thiele
+  - Pflugbeil, Anne-Marie 
+  - Harthun, M. 
+  - Labudde, Dirk 
+  - Edelmann, J. 
+  - Dreßler, Jan 
+  - Thiele, Karlhenz
   type: article
   year: 2015
   place: Rechtsmedizin
@@ -1430,8 +1409,8 @@ twentyfithteen:
 twentyfourteen:
 - title: "Semantic Tools for Forensics: Towards Finding Evidence in Short Messages"
   authors: 
-  - Michael Spranger
-  - Dirk Labudde
+  - Spranger, Michael 
+  - Labudde, Dirk
   type: article
   year: 2014
   place: The Fourth International Conference on Advances in Information Mining and Management
@@ -1439,9 +1418,9 @@ twentyfourteen:
 
 - title: "New strategies for evaluation and analysis of SELEX experiments"
   authors: 
-  - Rico Beier
-  - Elke Boschke
-  - Dirk Labudde
+  - Beier, Rico 
+  - Boschke, Elke 
+  - Labudde, Dirk
   type: article
   year: 2014
   place: BioMed research international
@@ -1449,13 +1428,13 @@ twentyfourteen:
 
 - title: "Selection of a DNA aptamer against norovirus capsid protein VP1"
   authors: 
-  - Rico Beier
-  - Claudia Pahlke
-  - Philipp Quenzel
-  - Anja Henseleit
-  - Elke Boschke
-  - Gianaurelio Cuniberti
-  - Dirk Labudde
+  - Beier, Rico 
+  - Pahlke, Claudia 
+  - Quenzel, Philipp 
+  - Henseleit, Anja 
+  - Boschke, Elke 
+  - Cuniberti, Gianaurelio 
+  - Labudde, Dirk
   type: article
   year: 2014
   place: FEMS microbiology letters
@@ -1463,8 +1442,8 @@ twentyfourteen:
 
 - title: "Establishing a Question Answering System for Forensic Texts"
   authors: 
-  - Michael Spranger
-  - Dirk Labudde
+  - Spranger, Michael 
+  - Labudde, Dirk
   type: article
   year: 2014
   place: Procedia - Social and Behavioral Sciences
@@ -1472,8 +1451,8 @@ twentyfourteen:
 
 - title: "Towards Establishing an Expert System for Forensic Text Analysis"
   authors: 
-  - Michael Spranger
-  - Dirk Labudde
+  - Spranger, Michael 
+  - Labudde, Dirk
   type: article
   year: 2014
   place: International Journal on Advances in Intelligent Systems
@@ -1481,11 +1460,11 @@ twentyfourteen:
 
 - title: "Scaffold preferences of mesenchymal stromal cells and adipose-derived stem cells from green fluorescent protein transgenic mice influence the tissue engineering of bone"
   authors: 
-  - Gretel Wittenburg
-  - Viktoria Flade
-  - Annette I. Garbe
-  - Günter Lauer
-  - Dirk Labudde
+  - Wittenburg, Gretel 
+  - Flade, Viktoria 
+  - Garbe, Annette I. 
+  - Lauer, Günter 
+  - Labudde, Dirk
   type: article
   year: 2014
   place: The British journal of oral & maxillofacial surgery
@@ -1493,11 +1472,11 @@ twentyfourteen:
 
 - title: "Nanoscale topographic changes on sterilized glass surfaces affect cell adhesion and spreading"
   authors: 
-  - Gretel Wittenburg
-  - Günter Lauer
-  - Steffen Oswald
-  - Dirk Labudde
-  - Clemens M. Franz
+  - Wittenburg, Gretel 
+  - Lauer, Günter 
+  - Oswald, Steffen 
+  - Labudde, Dirk 
+  - Franz, Clemens M.
   type: article
   year: 2014
   place: Journal of biomedical materials research. Part A
@@ -1506,8 +1485,8 @@ twentyfourteen:
 twentythirdteen:
 - title: "Semantic Tools for Forensics: Approaches in Forensic Text Analysis"
   authors: 
-  - Michael Spranger
-  - Dirk Labudde
+  - Spranger, Michael 
+  - Labudde, Dirk
   type: article
   year: 2013
   place: The Third International Conference on Advances in Information Mining and Management (IMMM 2013)
@@ -1515,9 +1494,9 @@ twentythirdteen:
 
 - title: "Structure Topology Prediction of Discriminative Sequence Motifs in Membrane Proteins with Domains of Unknown Functions"
   authors: 
-  - Steffen Grunert
-  - Florian Heinke
-  - Dirk Labudde
+  - Grunert, Steffen 
+  - Heinke, Florian 
+  - Labudde, Dirk
   type: article
   year: 2013
   place: Structural Biology
@@ -1525,8 +1504,8 @@ twentythirdteen:
 
 - title: "Graph representation of high-dimensional alpha-helical membrane protein data"
   authors: 
-  - Steffen Grunert
-  - Dirk Labudde
+  - Grunert, Steffen 
+  - Labudde, Dirk
   type: article
   year: 2013
   place: BioData mining
@@ -1534,10 +1513,10 @@ twentythirdteen:
 
 - title: "eProS-a database and toolbox for investigating protein sequence-structure-function relationships through energy profiles"
   authors: 
-  - Florian Heinke
-  - Stefan Schildbach
-  - Daniel Stockmann
-  - Dirk Labudde
+  - Heinke, Florian 
+  - Schildbach, Stefan 
+  - Stockmann, Daniel 
+  - Labudde, Dirk
   type: article
   year: 2013
   place: Nucleic acids research
@@ -1546,11 +1525,11 @@ twentythirdteen:
 twentytwelve:
 - title: "Semantic Tools for Forensics: A Highly Adaptable Framework"
   authors: 
-  - Michael Spranger
-  - Stefan Schildbach
-  - Florian Heinke
-  - Steffen Grunert
-  - Dirk Labudde
+  - Spranger, Michael 
+  - Schildbach, Stefan 
+  - Heinke, Florian 
+  - Grunert, Steffen 
+  - Labudde, Dirk
   type: article
   year: 2012
   place: The Second International Conference on Advances in Information Mining and Management
@@ -1558,8 +1537,8 @@ twentytwelve:
 
 - title: "Membrane protein stability analyses by means of protein energy profiles in case of nephrogenic diabetes insipidus"
   authors: 
-  - Florian Heinke
-  - Dirk Labudde
+  - Heinke, Florian 
+  - Labudde, Dirk
   type: article
   year: 2012
   place: Computational and mathematical methods in medicine
