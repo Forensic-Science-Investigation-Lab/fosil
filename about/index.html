@@ -26,17 +26,17 @@ accessibility-info:
 <div class="card-deck">
     <div class="card">
     <div class="card-body">
-       <h4 class="card-title text-center">{{ site.data.stats.publikationen.number}}+ <br><small class="text-muted">Publikationen</small></h4>
+       <h4 class="card-title text-center">{{ site.data.stats.publikationen.number}} <br><small class="text-muted">Publikationen</small></h4>
     </div>
   </div> 
   <div class="card">
     <div class="card-body">
-       <h4 class="card-title text-center">{{ site.data.stats.projekte.number}}+ <br><small class="text-muted">Projekte</small></h4>
+       <h4 class="card-title text-center">{{ site.data.stats.projekte.number}} <br><small class="text-muted">Projekte</small></h4>
     </div>
   </div>
   <div class="card">
     <div class="card-body">
-      <h4 class="card-title text-center">{{ site.data.stats.mitarbeitende.number}}+ <br><small class="text-muted">Mitglieder</small></h4>
+      <h4 class="card-title text-center">{{ site.data.stats.mitarbeitende.number}} <br><small class="text-muted">Mitarbeiterinnen und Mitarbeiter</small></h4>
     </div>
   </div>
 </div>
@@ -60,9 +60,27 @@ accessibility-info:
 <!-- this captures the list of team member names from site.team-members -->
 {% capture member-name-list %}{{ site.team-members | map: 'username' | split: ',' }}{% endcapture %}
 
-<h4 class="mt-5">Publikationen und Präsentationen</h4>
+<h4 class="mt-5">Publikationen</h4>
 <!-- the content in this section comes from _data/publications.yml -->
 <!-- to edit content in this section, edit _data/publications.yml -->
+
+<h5 class="mt-3">2023</h5>
+<div class="row justify-content-start">
+    <div class="col-md-10 col-sm-12">
+        {% for pub in site.data.publications.twentytwentythree %}
+            {% include pubcard.html %}
+    {% endfor %}
+    </div>
+</div>
+
+<h5 class="mt-3">2022</h5>
+<div class="row justify-content-start">
+    <div class="col-md-10 col-sm-12">
+        {% for pub in site.data.publications.twentytwentytwo %}
+            {% include pubcard.html %}
+    {% endfor %}
+    </div>
+</div>
 
 <h5 class="mt-3">2021</h5>
 <div class="row justify-content-start">
@@ -113,6 +131,42 @@ accessibility-info:
 <div class="row justify-content-start">
     <div class="col-md-10 col-sm-12">
         {% for pub in site.data.publications.twentysixteen %}
+            {% include pubcard.html %}
+    {% endfor %}
+    </div>
+</div>
+
+<h5 class="mt-3">2015</h5>
+<div class="row justify-content-start">
+    <div class="col-md-10 col-sm-12">
+        {% for pub in site.data.publications.twentyfithteen %}
+            {% include pubcard.html %}
+    {% endfor %}
+    </div>
+</div>
+
+<h5 class="mt-3">2014</h5>
+<div class="row justify-content-start">
+    <div class="col-md-10 col-sm-12">
+        {% for pub in site.data.publications.twentyfourteen %}
+            {% include pubcard.html %}
+    {% endfor %}
+    </div>
+</div>
+
+<h5 class="mt-3">2013</h5>
+<div class="row justify-content-start">
+    <div class="col-md-10 col-sm-12">
+        {% for pub in site.data.publications.twentythirdteen %}
+            {% include pubcard.html %}
+    {% endfor %}
+    </div>
+</div>
+
+<h5 class="mt-3">2012</h5>
+<div class="row justify-content-start">
+    <div class="col-md-10 col-sm-12">
+        {% for pub in site.data.publications.twentytwelve %}
             {% include pubcard.html %}
     {% endfor %}
     </div>

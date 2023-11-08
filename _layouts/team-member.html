@@ -114,21 +114,33 @@ layout: default
                 <div class="row">
 <!-- Publications and Presentations -->
                     <!-- Gather publication and presentation authors -->
+                        {% assign twentytwentythreeAuthors = site.data.publications.twentytwentythree | map: 'authors' | join: ", " %}  
+                        {% assign twentytwentytwoAuthors = site.data.publications.twentytwentytwo | map: 'authors' | join: ", " %}
                         {% assign twentytwentyoneAuthors = site.data.publications.twentytwentyone | map: 'authors' | join: ", " %}
                         {% assign twentytwentyAuthors = site.data.publications.twentytwenty | map: 'authors'  | join: ', ' %}
                         {% assign twentynineteenAuthors = site.data.publications.twentynineteen | map: 'authors'  | join: ', ' %}
                         {% assign twentyeighteenAuthors = site.data.publications.twentyeighteen | map: 'authors'  | join: ', ' %}
                         {% assign twentyseventeenAuthors = site.data.publications.twentyseventeen | map: 'authors'  | join: ', ' %}
                         {% assign twentysixteenAuthors = site.data.publications.twentysixteen | map: 'authors'  | join: ', ' %}
+                        {% assign twentyfithteenAuthors = site.data.publications.twentyfithteen | map: 'authors'  | join: ', ' %}
+                        {% assign twentyfourteenAuthors = site.data.publications.twentyfourteen | map: 'authors'  | join: ', ' %}
+                        {% assign twentythirdteenAuthors = site.data.publications.twentythirdteen | map: 'authors'  | join: ', ' %}
+                        {% assign twentytwelveAuthors = site.data.publications.twentytwelve | map: 'authors'  | join: ', ' %}
                     <!-- end gather -->
                     <!-- check to see if current user is an author -->
-                        {% if twentytwentyoneAuthors contains page.username or twentytwentyAuthors contains page.username or twentynineteenAuthors contains page.username or twentyeighteenAuthors contains page.username or twentyseventeenAuthors contains page.username or twentysixteenAuthors contains page.username %}
+                        {% if twentytwentythreeAuthors contains page.username or twentytwentytwoAuthors contains page.username or twentytwentyoneAuthors contains page.username or twentytwentyAuthors contains page.username or twentynineteenAuthors contains page.username or twentyeighteenAuthors contains page.username or twentyseventeenAuthors contains page.username or twentysixteenAuthors contains page.username or twentyfithteenAuthors contains page.username or twentyfourteenAuthors contains page.username or twentythirdteenAuthors contains page.username or twentytwelveAuthors contains page.username %}
                             {% assign isAnAuthor = true %}
                         {% endif %}
                     <!-- Create pub and pres list for authors -->
                     {% if isAnAuthor == true %}
-                        <h3 class="mt-5">Publications &amp; Presentations</h3>
+                        <h3 class="mt-5">Publikationen</h3>
                         <ul class="fa-ul">
+                            {% for pub in site.data.publications.twentytwentythree %}
+                                        {% include pub-list-item.html %}
+                            {% endfor %}
+                            {% for pub in site.data.publications.twentytwentytwo %}
+                                        {% include pub-list-item.html %}
+                            {% endfor %}
                             {% for pub in site.data.publications.twentytwentyone %}
                                         {% include pub-list-item.html %}
                             {% endfor %}
@@ -145,6 +157,20 @@ layout: default
                                         {% include pub-list-item.html %}
                             {% endfor %}
                             {% for pub in site.data.publications.twentysixteen %}
+                                        {% include pub-list-item.html %}
+                            {% endfor %}
+                            {% for pub in site.data.publications.twentyfithteen %}
+                                        {% include pub-list-item.html %}
+                            {% endfor %}{% for pub in site.data.publications.twentysixteen %}
+                                        {% include pub-list-item.html %}
+                            {% endfor %}
+                            {% for pub in site.data.publications.twentyfourteen %}
+                                        {% include pub-list-item.html %}
+                            {% endfor %}
+                            {% for pub in site.data.publications.twentythirdteen %}
+                                        {% include pub-list-item.html %}
+                            {% endfor %}
+                            {% for pub in site.data.publications.twentytwelve %}
                                         {% include pub-list-item.html %}
                             {% endfor %}
                         </ul>
