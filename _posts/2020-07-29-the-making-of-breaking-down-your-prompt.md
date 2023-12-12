@@ -17,7 +17,7 @@ accessibility-info:
 
 ## Genesis
 
-The aim of this project was to adapt a previously created WI+RE resource on breaking down your writing assignment, created by <a href="{{ site.url}}/about/creative-team/doug/" target="_blank">Doug</a> with the help of Powell Library Cluster Embedded Inquiry Specialists.
+The aim of this project was to adapt a previously created WI+RE resource on breaking down your writing assignment, created by <a href="{{ site.url}}/about/team/doug/" target="_blank">Doug</a> with the help of Powell Library Cluster Embedded Inquiry Specialists.
 
 <figure class="figure border border-primary shadow mt-3">
   <img src="{{ '/assets/images/the-making-of-breaking-down-your-prompt/Breaking-down-your-writing-assignment-original-handout.jpeg' | relative_url }}" class="figure-img img-fluid rounded" alt="">

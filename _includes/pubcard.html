@@ -6,7 +6,7 @@
                         {% if member-name-list contains authorname %}
                             {% for team-member in site.team-members %}
                                 {%- if authorname == team-member.username -%}
-                                    <a href="{{ team-member.title | slugify | prepend: '/about/creative-team/' | relative_url }}">{{ team-member.displayname }}</a>
+                                    <a href="{{ team-member.title | slugify | prepend: '/about/team/' | relative_url }}">{{ team-member.displayname }}</a>
                                 {%- endif -%}
                             {% endfor %}{% if forloop.last == false %},{% else %}{% endif %}
                         {% else %}

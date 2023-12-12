@@ -39,7 +39,7 @@ collections:
         permalink: /handouts/:title/
     team-members:
         output: true
-        permalink: /about/creative-team/:title/
+        permalink: /about/team/:title/
     embeds:
         output: true
         permalink: /embeds/:path/
