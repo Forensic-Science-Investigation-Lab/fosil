@@ -169,7 +169,7 @@ And more! To check out the code that runs the WI+RE site, visit our [code reposi
     <img class="mx-auto img-fluid" src="https://uclalibrary.github.io/research-tips/assets/images/team/royson.jpg" alt="Royson Lin in a bookstore" >
 </div>
 
-It seems like only yesterday that [Royson Lin](https://uclalibrary.github.io/research-tips/about/creative-team/royson/) joined the WI+RE Creative Team. Graduating this winter quarter with a major in Cognitive Science, Royson helped WI+RE on a number of projects, including a recently published [Google Scholar Tutorial](https://uclalibrary.github.io/research-tips/google-scholar/), which has already earned a 5-star review on MERLOT. Royson finished up his time with WI+RE by creating an awesome [study tips playlist](https://uclalibrary.github.io/research-tips/sandbox/resource-playlist-study-tips/) which outlines top tips on learning and memory from the field of cognitive science. It is well worth a read!
+It seems like only yesterday that [Royson Lin](https://uclalibrary.github.io/research-tips/about/team/royson/) joined the WI+RE Creative Team. Graduating this winter quarter with a major in Cognitive Science, Royson helped WI+RE on a number of projects, including a recently published [Google Scholar Tutorial](https://uclalibrary.github.io/research-tips/google-scholar/), which has already earned a 5-star review on MERLOT. Royson finished up his time with WI+RE by creating an awesome [study tips playlist](https://uclalibrary.github.io/research-tips/sandbox/resource-playlist-study-tips/) which outlines top tips on learning and memory from the field of cognitive science. It is well worth a read!
 
 We wish Royson the best and look forward to hearing where he goes next with his creativity and design skills!
 

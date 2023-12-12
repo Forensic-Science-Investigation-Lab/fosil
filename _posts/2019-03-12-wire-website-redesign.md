@@ -33,7 +33,7 @@ As we got started prototyping the website redesign, the WI+RE team was also work
   <footer class="blockquote-footer mt-0 text-right px-5"><cite title="Source Title">High-Impact Educational Practices: What They Are, Who Has Access to Them, and Why They Matter, by George D. Kuh (AAC&U, 2008). <a href="https://www.aacu.org/sites/default/files/files/LEAP/hip_tables.pdf" target="_blank">Excerpt from AAC&amp;U</a></cite></footer>
 </blockquote>
 
-So, we started tinkering with the idea of portfolio-like profile pages for the Creative Team. This tied in nicely with the idea of intergrating our experimental sandbox directly into the site redesign - allowing WI+RE to share both published work and the behind-the-scenes prototyping and design that guides our process. This dual focus on showcasing finished work and relfecting on the process was the spark for building out our <a href="{{ '/about/creative-team' | relative_url }}" target="_blank">new portfolio pages </a> and WI+RE's <a href="{{ '/sandbox' | relative_url }}" target="_blank">Sandbox</a>.
+So, we started tinkering with the idea of portfolio-like profile pages for the Creative Team. This tied in nicely with the idea of intergrating our experimental sandbox directly into the site redesign - allowing WI+RE to share both published work and the behind-the-scenes prototyping and design that guides our process. This dual focus on showcasing finished work and relfecting on the process was the spark for building out our <a href="{{ '/about/team' | relative_url }}" target="_blank">new portfolio pages </a> and WI+RE's <a href="{{ '/sandbox' | relative_url }}" target="_blank">Sandbox</a>.
 
 At the same time, we were inspired by discussions with academic librarian and WI+RE contributor Marisa Méndez-Brady and WI+RE co-founder Renee Romero to think about how the new site could celebrate the many contributions of our community members to each project. 
 
@@ -84,7 +84,7 @@ As mentioned, Marisa Méndez-Brady and Renee Romero gave us some very important 
 <!-- this captures the list of team member names from site.team-members -->
 {% capture member-name-list %}{{ site.team-members | map: 'username' | split: ',' }}{% endcapture %}
 
-And, as always, we are ever grateful for the many, many people and campus groups who have contributed to the content on the WI+RE website, including: {% for name in all-authcontrib-sort %}{% if member-name-list contains name %}{% for team-member in site.team-members %}{% if name == team-member.username %}<a href="{{ team-member.title | slugify | prepend: '/about/creative-team/' | absolute_url }}">{{ team-member.displayname }}</a>{% endif %}{% endfor %}{% if forloop.last == false %}, {% endif %}{% else %}{{ name }}{% if forloop.last == false %}, {% endif %}{% endif %}{% endfor %}.
+And, as always, we are ever grateful for the many, many people and campus groups who have contributed to the content on the WI+RE website, including: {% for name in all-authcontrib-sort %}{% if member-name-list contains name %}{% for team-member in site.team-members %}{% if name == team-member.username %}<a href="{{ team-member.title | slugify | prepend: '/about/team/' | absolute_url }}">{{ team-member.displayname }}</a>{% endif %}{% endfor %}{% if forloop.last == false %}, {% endif %}{% else %}{{ name }}{% if forloop.last == false %}, {% endif %}{% endif %}{% endfor %}.
 
 Thank you!
 

@@ -27,7 +27,7 @@ layout: default
                     {% if member-name-list contains authorname %}
                         {% for team-member in site.team-members %}
                             {%- if authorname == team-member.username -%}
-                                <a href="{{ team-member.title | slugify | prepend: '/about/creative-team/' | relative_url }}">{{ team-member.displayname }}</a>
+                                <a href="{{ team-member.title | slugify | prepend: '/about/team/' | relative_url }}">{{ team-member.displayname }}</a>
                             {%- endif -%}
                         {% endfor %}{% if forloop.last == false %},{% endif %}
                     {% else %}
@@ -35,7 +35,7 @@ layout: default
                     {% endif %}
                 {% endfor %}
             {% else %}
-                <a href="{{ '/about/creative-team/' | relative_url }}">{{ site.author }}</a>
+                <a href="{{ '/about/team/' | relative_url }}">{{ site.author }}</a>
             {% endif %}
             <!--on {{ page.date | date: '%B %d, %Y' }}--></span>
             </div>

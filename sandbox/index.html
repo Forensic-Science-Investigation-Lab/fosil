@@ -20,7 +20,7 @@ permalink: /sandbox/
                             {% if member-name-list contains authorname %}
                                 {% for team-member in site.team-members %}
                                     {%- if authorname == team-member.username -%}
-                                        <a href="{{ team-member.title | slugify | prepend: '/about/creative-team/' | relative_url }}">{{ team-member.displayname }}</a>
+                                        <a href="{{ team-member.title | slugify | prepend: '/about/team/' | relative_url }}">{{ team-member.displayname }}</a>
                                     {%- endif -%}
                                 {% endfor %}{% if forloop.last == false %},{% endif %}
                             {% else %}
@@ -28,7 +28,7 @@ permalink: /sandbox/
                             {% endif %}<!--{%- if forloop.last == false -%},{%- endif -%}-->
                         {% endfor %}
                     {% else %}
-                    <a href="{{ '/about/creative-team/' | relative_url }}">{{ site.author }}</a>
+                    <a href="{{ '/about/team/' | relative_url }}">{{ site.author }}</a>
                     {% endif %}
                   </small></p>
           </div>
@@ -67,13 +67,13 @@ permalink: /sandbox/
               {% if post.authors %}
                 {% for authorname in post.authors %}
                     {% if member-name-list contains authorname %}
-                        <a href="{{ authorname | slugify | prepend: '/about/creative-team/' | relative_url }}">{{ authorname }}</a>{% if forloop.last == false %},{% endif %}
+                        <a href="{{ authorname | slugify | prepend: '/about/team/' | relative_url }}">{{ authorname }}</a>{% if forloop.last == false %},{% endif %}
                     {% else %}
                         {{ authorname }}{% if forloop.last == false %},{% endif %}
                     {% endif %}
                 {% endfor %}
               {% else %}
-                <a href="{{ '/about/creative-team/' | relative_url }}">{{ site.author }}</a>
+                <a href="{{ '/about/team/' | relative_url }}">{{ site.author }}</a>
               {% endif %}
               on {{ post.date | date: '%B %d, %Y' }}</li>
         {% endfor %}
@@ -103,13 +103,13 @@ permalink: /sandbox/
               {% if post.authors %}
                 {% for authorname in post.authors %}
                     {% if member-name-list contains authorname %}
-                        <a href="{{ authorname | slugify | prepend: '/about/creative-team/' | relative_url }}">{{ authorname }}</a>{% if forloop.last == false %},{% endif %}
+                        <a href="{{ authorname | slugify | prepend: '/about/team/' | relative_url }}">{{ authorname }}</a>{% if forloop.last == false %},{% endif %}
                     {% else %}
                         {{ authorname }}{% if forloop.last == false %},{% endif %}
                     {% endif %}
                 {% endfor %}
               {% else %}
-                <a href="{{ '/about/creative-team/' | relative_url }}">{{ site.author }}</a>
+                <a href="{{ '/about/team/' | relative_url }}">{{ site.author }}</a>
               {% endif %}
               on {{ post.date | date: '%B %d, %Y' }}</p>
   </article>
