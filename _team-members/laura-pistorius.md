@@ -3,6 +3,7 @@ title:  "Laura Pistorius"
 username: Laura Pistorius
 displayname: Laura Pistorius
 firstname: Laura
+initialfirst: L.
 lastname: Pistorius
 position: Referentin für Cybersicherheit
 start-date: 2000-01-01

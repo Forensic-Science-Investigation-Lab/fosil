@@ -3,6 +3,7 @@ title:  "Marleen Mohaupt"
 username: Marleen Mohaupt
 displayname: Marleen Mohaupt
 firstname: Marleen
+initialfirst: M.
 lastname: Mohaupt
 position: Wissenschaftliche Mitarbeiterin
 start-date: 2000-01-01

@@ -3,6 +3,7 @@ title:  "Lukas Jaeckel"
 username: Lukas Jaeckel
 displayname: Lukas Jaeckel
 firstname: Lukas
+initialfirst: L.
 lastname: Jaeckel
 position: Wissenschaftlicher Mitarbeiter
 start-date: 2000-01-01

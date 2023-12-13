@@ -3,6 +3,7 @@ title:  "Martin Klöden"
 username: Martin Klöden
 displayname: Martin Klöden
 firstname: Martin
+initialfirst: M.
 lastname: Klöden
 position: Referent für Cybersicherheit
 start-date: 2000-01-01

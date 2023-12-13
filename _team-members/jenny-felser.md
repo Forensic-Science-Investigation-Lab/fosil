@@ -3,6 +3,7 @@ title:  "Jenny Felser"
 username: Jenny Felser
 displayname: Jenny Felser
 firstname: Jenny
+initialfirst: J.
 lastname: Felser
 position: Wissenschaftliche Mitarbeiterin
 start-date: 2000-01-01

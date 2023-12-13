@@ -3,6 +3,7 @@ title:  "Michael Spranger"
 username: Michael Spranger
 displayname: Michael Spranger
 firstname: Michael
+initialfirst: M.
 lastname: Spranger
 position: Prof. Dr. rer. nat. 
 start-date: 2000-01-01

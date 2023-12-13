@@ -3,6 +3,7 @@ title:  "Prof. Ronny Bodach"
 username: Ronny Bodach
 displayname: Prof. Ronny Bodach
 firstname: Ronny
+initialfirst: R.
 lastname: Bodach
 position: Prof.
 start-date: 2000-01-01

@@ -3,6 +3,7 @@ title:  "Leander Hoßfeld"
 username: Leander Hoßfeld
 displayname: Leander Hoßfeld
 firstname: Leander
+initialfirst: L.
 lastname: Hoßfeld
 position: Wissenschaftlicher Mitarbeiter
 start-date: 2000-01-01

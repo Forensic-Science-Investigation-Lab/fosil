@@ -3,6 +3,7 @@ title:  "Abigail"
 username: abigail-holder
 displayname: Abigail Holder
 firstname: Abigail
+initialfirst: A.
 lastname: Holder
 position: Learner-Designer
 start-date: 2021-10-26

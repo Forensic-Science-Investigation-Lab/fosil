@@ -3,6 +3,7 @@ title:  "Paul Seidel"
 username: Paul Seidel
 displayname: Paul Seidel
 firstname: Paul
+initialfirst: P.
 lastname: Seidel
 position: Wissenschaftlicher Mitarbeiter
 start-date: 2000-01-01

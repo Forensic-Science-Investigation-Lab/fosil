@@ -3,6 +3,7 @@ title:  "Florian Heinke"
 username: Florian Heinke
 displayname: Florian Heinke
 firstname: Florian
+initialfirst: F.
 lastname: Heinke
 position: Wissenschaftlicher Mitarbeiter
 start-date: 2000-01-01

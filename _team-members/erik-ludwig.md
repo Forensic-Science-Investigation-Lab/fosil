@@ -3,6 +3,7 @@ title:  "Erik Ludwig"
 username: Erik Ludwig
 displayname: Erik Ludwig
 firstname: Erik
+initialfirst: E.
 lastname: Erik
 position: Wissenschaftlicher Mitarbeiter
 start-date: 2000-01-01

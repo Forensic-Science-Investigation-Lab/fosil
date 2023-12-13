@@ -3,6 +3,7 @@ title:  "Michele-Nadine Wagner"
 username: Michele-Nadine Wagner
 displayname: Michele-Nadine Wagner
 firstname: Michele-Nadine
+initialfirst: M.
 lastname: Wagner
 position: Wissenschaftliche Mitarbeiterin
 start-date: 2000-01-01

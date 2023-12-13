@@ -3,6 +3,7 @@ title:  "Leonie Hundt"
 username: Leonie Hundt
 displayname: Leonie Hundt
 firstname: Leonie
+initialfirst: L.
 lastname: Hundt
 position: Teamassistenz 
 start-date: 2023-11-01

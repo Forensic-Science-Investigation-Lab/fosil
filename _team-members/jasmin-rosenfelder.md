@@ -3,6 +3,7 @@ title:  "Jasmin Rosenfelder"
 username: Jasmin Rosenfelder
 displayname: Jasmin Rosenfelder
 firstname: Jasmin
+initialfirst: J.
 lastname: Rosenfelder
 position: Wissenschaftliche Mitarbeiterin
 start-date: 2000-01-01

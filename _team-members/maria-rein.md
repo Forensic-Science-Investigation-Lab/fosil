@@ -3,6 +3,7 @@ title:  "Maria Rein"
 username: Maria Rein
 displayname: Maria Rein
 firstname: Maria
+initialfirst: M.
 lastname: Rein
 position: Projektmanagement
 start-date: 2020-01-01

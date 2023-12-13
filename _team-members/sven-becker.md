@@ -3,6 +3,7 @@ title:  "Sven Becker"
 username: Sven Becker
 displayname: Sven Becker
 firstname: Sven
+initialfirst: S.
 lastname: Becker
 position: Wissenschaftlicher Mitarbeiter
 start-date: 2000-01-01

@@ -3,6 +3,7 @@ title:  "Kristin Beer"
 username: Kristin Beer
 displayname: Kristin Beer
 firstname: Kristin
+initialfirst: K.
 lastname: Beer
 position: Teamassistenz FG Forensik
 start-date: 2000-01-01

@@ -3,6 +3,7 @@ title:  "Nadine Friedewald"
 username: Nadine Friedewald
 displayname: Nadine Friedewald
 firstname: Nadine
+initialfirst: N.
 lastname: Friedewald
 position: Studiengangskoordinatorin 
 start-date: 2000-01-01

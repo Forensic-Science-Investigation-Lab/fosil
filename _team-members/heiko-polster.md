@@ -3,6 +3,7 @@ title:  "Heiko Polster"
 username: Heiko Polster
 displayname: Heiko Polster
 firstname: Heiko
+initialfirst: H.
 lastname: Polster
 position: Referent für Cybersicherheit
 start-date: 2000-01-01

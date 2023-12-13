@@ -3,6 +3,7 @@ title:  "Tim Wetterau"
 username: Tim Wetterau
 displayname: Tim Wetterau
 firstname: Tim
+initialfirst: T.
 lastname: Wetterau
 position: Wissenschaftlicher Mitarbeiter
 start-date: 2000-01-01
