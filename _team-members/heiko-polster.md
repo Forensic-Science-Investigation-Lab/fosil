@@ -4,9 +4,9 @@ username: Heiko Polster
 displayname: Heiko Polster
 firstname: Heiko
 lastname: Polster
-position: Wissenschaftlicher Mitarbeiter
+position: Referent für Cybersicherheit
 start-date: 2000-01-01
-category: Frauenhofer Lernlabor
+category: Fraunhofer Lernlabor für Cybersicherheit
 bio: >- 
     Heiko ist toll.   
 profile: assets/images/team/forscher.png

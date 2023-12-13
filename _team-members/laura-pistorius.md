@@ -4,9 +4,9 @@ username: Laura Pistorius
 displayname: Laura Pistorius
 firstname: Laura
 lastname: Pistorius
-position: Wissenschaftliche Mitarbeiterin
+position: Referentin für Cybersicherheit
 start-date: 2000-01-01
-category: Frauenhofer Lernlabor
+category: Fraunhofer Lernlabor für Cybersicherheit
 bio: >- 
     Laura ist toll.   
 profile: assets/images/team/forscherin.png

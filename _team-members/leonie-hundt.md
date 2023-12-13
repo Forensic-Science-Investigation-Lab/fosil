@@ -4,15 +4,15 @@ username: Leonie Hundt
 displayname: Leonie Hundt
 firstname: Leonie
 lastname: Hundt
-position: Studentische Mitarbeiterin
-start-date: 2000-01-01
+position: Teamassistenz 
+start-date: 2023-11-01
 category: FoSIL
-bio: >- 
-    Leonie ist toll.   
+bio: https://www.linkedin.com/in/leonie-marie-hundt-17bb6123a
+       
 profile: assets/images/team/forscherin.png
 features:
     - feature-title: 
       feature-img: 
-      feature-url: 
+      feature-url: https://www.linkedin.com/in/leonie-marie-hundt-17bb6123a
       feature-note: 
 ---

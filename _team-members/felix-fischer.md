@@ -4,9 +4,9 @@ username: Felix Fischer
 displayname: Felix Fischer
 firstname: Felix
 lastname: Fischer
-position: Wissenschaftlicher Mitarbeiter
+position: Referent für Cybersicherheit
 start-date: 2000-01-01
-category: Frauenhofer Lernlabor
+category: Fraunhofer Lernlabor für Cybersicherheit
 bio: >- 
     Felix ist toll.   
 profile: assets/images/team/forscher.png

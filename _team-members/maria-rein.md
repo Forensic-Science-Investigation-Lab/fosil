@@ -4,15 +4,15 @@ username: Maria Rein
 displayname: Maria Rein
 firstname: Maria
 lastname: Rein
-position: Wissenschaftliche Mitarbeiterin
-start-date: 2000-01-01
-category: Frauenhofer Lernlabor
+position: Projektmanagement
+start-date: 2020-01-01
+category: Fraunhofer Lernlabor für Cybersicherheit
 bio: >- 
-    Maria ist toll.   
-profile: assets/images/team/forscherin.png
+    Ansprechpartnerin Fraunhofer Lernlabor für Cybersicherheit   
+profile: assets/images/team/maria.jpg
 features:
     - feature-title: 
       feature-img: 
-      feature-url: 
+      feature-url: https://www.linkedin.com/in/maria-rein-446729295/
       feature-note: 
 ---

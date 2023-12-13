@@ -45,7 +45,7 @@ collections:
         permalink: /embeds/:path/
     
 # Defaults
-author: "The FoSIL-Team" # a default to place when author field is not specified
+author: "Das FoSIL-Team" # a default to place when author field is not specified
 
 defaults:
   -

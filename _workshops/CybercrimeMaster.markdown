@@ -1,6 +1,6 @@
 ---
-title:  "Allgemeine und Digitale Forensik B.Sc."
-description: "Vollzeit-Studiengang Allgemeine und Digitale Forensik"
+title:  "Cybercrime/Cybersecurity M.Sc."
+description: "Vollzeit-Studiengang Cybercrime/Cybersecurity"
 # todo:: determine publication date
 date:   2019-12-01
 last-updated: 2020-05-22
@@ -8,7 +8,7 @@ contributors:
 awards:
 references:
 thumbnail: /assets/workshops/thumbnails/ResearchJourneyThumbnail.png
-sort-weight: 1
+sort-weight: 2
 Studienziel:
     - Text
 Karriereperpektiven:
@@ -26,5 +26,5 @@ accessibility-info:
     - Text
 tags:
     - Text
-category: Bachelor-Studiengänge
+category: Master-Studiengänge
 ---
