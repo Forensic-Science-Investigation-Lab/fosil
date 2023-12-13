@@ -8,12 +8,13 @@ lastname: Hundt
 position: Teamassistenz 
 start-date: 2023-11-01
 category: FoSIL
-bio: https://www.linkedin.com/in/leonie-marie-hundt-17bb6123a
-       
+bio:        
 profile: assets/images/team/forscherin.png
+linkedin: https://www.linkedin.com/in/leonie-marie-hundt-17bb6123a
+website: https://www.cb.hs-mittweida.de/mitarbeiterinnen-mitarbeiter-in-ihren-fachgruppen/hundt-leonie-marie/
 features:
     - feature-title: 
       feature-img: 
-      feature-url: https://www.linkedin.com/in/leonie-marie-hundt-17bb6123a
+      feature-url: 
       feature-note: 
 ---

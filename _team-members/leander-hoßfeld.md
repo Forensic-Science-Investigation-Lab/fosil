@@ -11,6 +11,7 @@ category: FoSIL
 bio: >- 
     Hossi ist toll.   
 profile: assets/images/team/forscher.png
+website: https://www.cb.hs-mittweida.de/mitarbeiterinnen-mitarbeiter-in-ihren-fachgruppen/hossfeld-leander/
 features:
     - feature-title: 
       feature-img: 

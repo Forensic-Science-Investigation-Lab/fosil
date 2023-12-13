@@ -11,6 +11,8 @@ category: Fraunhofer Lernlabor für Cybersicherheit
 bio: >- 
     Ansprechpartnerin Fraunhofer Lernlabor für Cybersicherheit   
 profile: assets/images/team/maria.jpg
+linkedin: https://www.linkedin.com/in/maria-rein-446729295/
+website: https://www.cb.hs-mittweida.de/mitarbeiterinnen-mitarbeiter-in-ihren-fachgruppen/rein-maria/
 features:
     - feature-title: 
       feature-img: 

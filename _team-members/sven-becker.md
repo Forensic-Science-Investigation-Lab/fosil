@@ -11,6 +11,7 @@ category: FoSIL
 bio: >- 
     Sven ist toll.   
 profile: assets/images/team/forscher.png
+website: https://www.cb.hs-mittweida.de/mitarbeiterinnen-mitarbeiter-in-ihren-fachgruppen/becker-sven/
 features:
     - feature-title: 
       feature-img: 

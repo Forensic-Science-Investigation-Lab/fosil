@@ -11,6 +11,7 @@ category: FoSIL
 bio: >- 
     Paul ist toll.   
 profile: assets/images/team/forscher.png
+website: https://www.cb.hs-mittweida.de/mitarbeiterinnen-mitarbeiter-in-ihren-fachgruppen/seidel-paul/
 features:
     - feature-title: 
       feature-img: 

@@ -11,6 +11,7 @@ category: FoSIL
 bio: >- 
     Marie ist toll.   
 profile: assets/images/team/forscherin.png
+website: https://www.cb.hs-mittweida.de/mitarbeiterinnen-mitarbeiter-in-ihren-fachgruppen/heuschkel-marie-luise/
 features:
     - feature-title: 
       feature-img: 

@@ -7,7 +7,7 @@ last-updated: 2020-05-22
 contributors:
 awards:
 references:
-thumbnail: /assets/workshops/thumbnails/ResearchJourneyThumbnail.png
+thumbnail: /assets/workshops/thumbnails/zertifikat.png
 sort-weight: 1
 Studienziel:
     - Text

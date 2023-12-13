@@ -11,6 +11,7 @@ category: Fraunhofer Lernlabor für Cybersicherheit
 bio: >- 
     Heiko ist toll.   
 profile: assets/images/team/forscher.png
+website: https://www.cb.hs-mittweida.de/mitarbeiterinnen-mitarbeiter-in-ihren-fachgruppen/polster-heiko/
 features:
     - feature-title: 
       feature-img: 

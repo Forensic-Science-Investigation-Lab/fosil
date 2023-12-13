@@ -11,6 +11,7 @@ category: Fraunhofer Lernlabor für Cybersicherheit
 bio: >- 
     Laura ist toll.   
 profile: assets/images/team/forscherin.png
+website: https://www.cb.hs-mittweida.de/mitarbeiterinnen-mitarbeiter-in-ihren-fachgruppen/pistorius-laura/
 features:
     - feature-title: 
       feature-img: 

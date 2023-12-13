@@ -11,6 +11,7 @@ category: FoSIL
 bio: >- 
     Jana ist toll.   
 profile: assets/images/team/forscherin.png
+website: https://www.cb.hs-mittweida.de/mitarbeiterinnen-mitarbeiter-in-ihren-fachgruppen/engelhard-jana/
 features:
     - feature-title: 
       feature-img: 

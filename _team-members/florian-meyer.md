@@ -11,6 +11,7 @@ category: FoSIL
 bio: >- 
     Florian ist toll.   
 profile: assets/images/team/Flo.jpg
+website: https://www.cb.hs-mittweida.de/mitarbeiterinnen-mitarbeiter-in-ihren-fachgruppen/meyer-florian/
 features:
     - feature-title:
       feature-img:

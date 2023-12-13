@@ -11,6 +11,7 @@ category: FoSIL
 bio: >- 
     Tim ist toll.   
 profile: assets/images/team/forscher.png
+website: https://www.cb.hs-mittweida.de/mitarbeiterinnen-mitarbeiter-in-ihren-fachgruppen/wetterau-tim/
 features:
     - feature-title: 
       feature-img: 

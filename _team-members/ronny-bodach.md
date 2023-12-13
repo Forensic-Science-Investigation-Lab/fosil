@@ -11,6 +11,7 @@ category: FoSIL
 bio: >- 
     Ronny ist toll.   
 profile: assets/images/team/forscher.png
+website: https://www.cb.hs-mittweida.de/professoren-innen/forensik/prof-bodach/
 features:
     - feature-title: 
       feature-img: 

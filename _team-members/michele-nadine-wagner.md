@@ -11,6 +11,7 @@ category: FoSIL
 bio: >- 
     Michele ist toll.   
 profile: assets/images/team/forscherin.png
+website: https://www.cb.hs-mittweida.de/mitarbeiterinnen-mitarbeiter-in-ihren-fachgruppen/wagner-michele-nadine/
 features:
     - feature-title: 
       feature-img: 
