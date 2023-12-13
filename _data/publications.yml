@@ -871,87 +871,6 @@ twentyeighteen:
   place: Beyerer, Winzer (Hg.) 2018 – Beiträge zu einer Systemtheorie Sicherheit
   url: https://www.acatech.de/publikation/beitraege-zu-einer-systemtheorie-sicherheit/download-pdf/?lang=de
 
-- title: "Bioinformatische Grundlagen"
-  authors: 
-  - Dirk Labudde
-  - Marleen Mohaupt
-  type: book chapter
-  year: 2018
-  place: Labudde, Mohaupt (Hg.) 2018 – Bioinformatik im Handlungsfeld der Forensik
-  url: https://link.springer.com/chapter/10.1007/978-3-662-57872-8_5
-
-- title: "Biologische Spuren – Grundlagen"
-  authors: 
-  - Dirk Labudde
-  - Marleen Mohaupt
-  type: book chapter
-  year: 2018
-  place: Labudde, Mohaupt (Hg.) 2018 – Bioinformatik im Handlungsfeld der Forensik
-  url: https://link.springer.com/chapter/10.1007/978-3-662-57872-8_2
-
-- title: "Blut und dessen Farbstoffe in der Forensik"
-  authors: 
-  - Dirk Labudde
-  - Marleen Mohaupt
-  type: book chapter
-  year: 2018
-  place: Labudde, Mohaupt (Hg.) 2018 – Bioinformatik im Handlungsfeld der Forensik
-  url: https://link.springer.com/chapter/10.1007/978-3-662-57872-8_3
-
-- title: "Datenbanken in den Life Sciences und der Forensik"
-  authors: 
-  - Dirk Labudde
-  - Marleen Mohaupt
-  type: book chapter
-  year: 2018
-  place: Labudde, Mohaupt (Hg.) 2018 – Bioinformatik im Handlungsfeld der Forensik
-  url: https://link.springer.com/chapter/10.1007/978-3-662-57872-8_6
-
-- title: "Fehlende Fingerabdrücke und genetische Defekte"
-  authors: 
-  - Dirk Labudde
-  - Marleen Mohaupt
-  type: book chapter
-  year: 2018
-  place: Labudde, Mohaupt (Hg.) 2018 – Bioinformatik im Handlungsfeld der Forensik
-  url: https://link.springer.com/chapter/10.1007/978-3-662-57872-8_9
-
-- title: "Fingerabdruck"
-  authors: 
-  - Dirk Labudde
-  - Marleen Mohaupt
-  type: book chapter
-  year: 2018
-  place: Labudde, Mohaupt (Hg.) 2018 – Bioinformatik im Handlungsfeld der Forensik
-  url: https://link.springer.com/chapter/10.1007/978-3-662-57872-8_7
-
-- title: "Genetischer Fingerabdruck – Charakteristik und Methoden"
-  authors: 
-  - Dirk Labudde
-  - Marleen Mohaupt
-  type: book chapter
-  year: 2018
-  place: Labudde, Mohaupt (Hg.) 2018 – Bioinformatik im Handlungsfeld der Forensik
-  url: https://link.springer.com/chapter/10.1007/978-3-662-57872-8_8
-
-- title: "Haut und Anzeichen für Gewalteinwirkung"
-  authors: 
-  - Dirk Labudde
-  - Marleen Mohaupt
-  type: book chapter
-  year: 2018
-  place: Labudde, Mohaupt (Hg.) 2018 – Bioinformatik im Handlungsfeld der Forensik
-  url: https://link.springer.com/chapter/10.1007/978-3-662-57872-8_4
-
-- title: "Tägliche Fallarbeit und der Mensch als Spurenträger"
-  authors: 
-  - Dirk Labudde
-  - Marleen Mohaupt
-  type: book chapter
-  year: 2018
-  place: Labudde, Mohaupt (Hg.) 2018 – Bioinformatik im Handlungsfeld der Forensik
-  url: https://link.springer.com/chapter/10.1007/978-3-662-57872-8_1
-
 - title: "Bioinformatik im Handlungsfeld der Forensik"
   authors: 
   - Dirk Labudde
@@ -1059,7 +978,7 @@ twentyseventeen:
 
 - title: "Digitale Forensik zwischen (Online-)Durchsuchung, Beschlagnahme und Datenschutz"
   authors: 
-  - Frank Czerner
+  - 
   type: book chapter
   year: 2017
   place: Labudde, Spranger (Hg.) 2017 – Forensik in der digitalen Welt
@@ -1087,71 +1006,16 @@ twentyseventeen:
   place: Kozielski, Mrozek et al. (Hg.) 2017 – Beyond databases
   url: https://link.springer.com/chapter/10.1007/978-3-319-58274-0_30
 
-- title: "Malware Forensics"
-  authors: 
-  - Christian Hummert
-  type: book chapter
-  year: 2017
-  place: Labudde, Spranger (Hg.) 2017 – Forensik in der digitalen Welt
-  url: https://link.springer.com/chapter/10.1007/978-3-662-53801-2_7
-
-- title: "Biometrie und die Analyse digitalisierter Spuren"
-  authors: 
-  - Dirk Labudde
-  type: book chapter
-  year: 2017
-  place: Labudde, Spranger (Hg.) 2017 – Forensik in der digitalen Welt
-  url: https://link.springer.com/chapter/10.1007/978-3-662-53801-2_2#citeas
-
-- title: "Einführung"
-  authors: 
-  - Dirk Labudde
-  - Frank Czerner
-  - Michael Spranger
-  type: book chapter
-  year: 2017
-  place: Labudde, Spranger (Hg.) 2017 – Forensik in der digitalen Welt
-  url: https://link.springer.com/chapter/10.1007/978-3-662-53801-2_1
-
-- title: "Audioforensik"
-  authors: 
-  - Hartmut Luge
-  type: book chapter
-  year: 2017
-  place: Labudde, Spranger (Hg.) 2017 – Forensik in der digitalen Welt
-  url: https://link.springer.com/chapter/10.1007/978-3-662-53801-2_8
-
-- title: "Digitaler Tatort, Sicherung und Verfolgung digitaler Spuren"
-  authors: 
-  - Dirk Pawlaszczyk
-  type: book chapter
-  year: 2017
-  place: Labudde, Spranger (Hg.) 2017 – Forensik in der digitalen Welt
-  url: https://link.springer.com/chapter/10.1007/978-3-662-53801-2_5
-
-- title: "DNA-Phänotypisierung"
-  authors: 
-  - Anne-Marie Pflugbeil
-  - Karlheinz Thiele
-  - Dirk Labudde
-  type: book chapter
-  year: 2017
-  place: Labudde, Spranger (Hg.) 2017 – Forensik in der digitalen Welt
-  url: https://link.springer.com/chapter/10.1007/978-3-662-53801-2_4
-
-- title: "Textforensik"
-  authors: 
-  - Michael Spranger
-  - Dirk Labudde
-  type: book chapter
-  year: 2017
-  place: Labudde, Spranger (Hg.) 2017 – Forensik in der digitalen Welt
-  url: https://link.springer.com/chapter/10.1007/978-3-662-53801-2_6
-
 - title: "Forensik in der digitalen Welt"
   authors: 
   - Dirk Labudde
   - Michael Spranger
+  - Dirk Pawlaszczyk
+  - Frank Czerner
+  - Hartmut Luge
+  - Christian Hummert
+  - Anne-Marie Pflugbeil
+  - Karlheinz Thiele
   type: book
   year: 2017
   place: Labudde, Spranger (Hg.) 2017 – Forensik in der digitalen Welt
