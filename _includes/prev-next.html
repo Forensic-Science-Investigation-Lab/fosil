@@ -5,15 +5,15 @@
         {% if page.layout == "team-member" %}
             <div class="col-sm-4">
                 {% if page.previous.url %}
-                    <a class="btn btn-primary btn-block my-1" href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{ page.previous.title }}">&larr; {{ page.previous.firstname }}</a>
+                    <a class="btn btn-primary btn-block my-1" href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{ page.previous.title }}">&larr; {{ page.previous.initialfirst }} {{ page.previous.lastname }}</a>
                 {% endif %}
             </div>
             <div class="col-sm-4">
-                <a class="btn btn-primary btn-block my-1" href="{{ '/about/team' | relative_url }}"><span class="d-none d-md-inline">The </span>WI+RE Team</a>
+                <a class="btn btn-primary btn-block my-1" href="{{ '/about/team' | relative_url }}"><span class="d-none d-md-inline">Das </span>FoSIL Team</a>
             </div>
             <div class="col-sm-4">
                 {% if page.next.url %}
-                    <a class="btn btn-primary btn-block  my-1" href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{ page.next.title }}">{{ page.next.firstname }} &rarr;</a>
+                    <a class="btn btn-primary btn-block  my-1" href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{ page.next.title }}">{{ page.next.initialfirst }} {{ page.next.lastname }} &rarr;</a>
                 {% endif %}
             </div>
         <!-- Sandbox special prev-next -->
