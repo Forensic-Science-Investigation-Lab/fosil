@@ -134,46 +134,69 @@ layout: default
                     <!-- Create pub and pres list for authors -->
                     {% if isAnAuthor == true %}
                         <h3 class="mt-5">Publikationen</h3>
-                        <ul class="fa-ul">
+
+                        <ul class="fa-ul">   
                             {% for pub in site.data.publications.twentytwentythree %}
-                                        {% include pub-list-item.html %}
+                                {% if pub.authors contains page.username %}
+                                    {% include pubcard.html %}
+                                {% endif %}
                             {% endfor %}
-                            {% for pub in site.data.publications.twentytwentytwo %}
-                                        {% include pub-list-item.html %}
+                            {% for pub in site.data.publications.twentytwentyttwo %}
+                                {% if pub.authors contains page.username %}
+                                    {% include pubcard.html %}
+                                {% endif %}
                             {% endfor %}
                             {% for pub in site.data.publications.twentytwentyone %}
-                                        {% include pub-list-item.html %}
+                                {% if pub.authors contains page.username %}
+                                    {% include pubcard.html %}
+                                {% endif %}
                             {% endfor %}
                             {% for pub in site.data.publications.twentytwenty %}
-                                        {% include pub-list-item.html %}
+                                {% if pub.authors contains page.username %}
+                                    {% include pubcard.html %}
+                                {% endif %}
                             {% endfor %}
                             {% for pub in site.data.publications.twentynineteen %}
-                                        {% include pub-list-item.html %}
+                                {% if pub.authors contains page.username %}
+                                    {% include pubcard.html %}
+                                {% endif %}
                             {% endfor %}
                             {% for pub in site.data.publications.twentyeighteen %}
-                                        {% include pub-list-item.html %}
+                                {% if pub.authors contains page.username %}
+                                    {% include pubcard.html %}
+                                {% endif %}
                             {% endfor %}
                             {% for pub in site.data.publications.twentyseventeen %}
-                                        {% include pub-list-item.html %}
+                                {% if pub.authors contains page.username %}
+                                    {% include pubcard.html %}
+                                {% endif %}
                             {% endfor %}
                             {% for pub in site.data.publications.twentysixteen %}
-                                        {% include pub-list-item.html %}
+                                {% if pub.authors contains page.username %}
+                                    {% include pubcard.html %}
+                                {% endif %}
                             {% endfor %}
                             {% for pub in site.data.publications.twentyfithteen %}
-                                        {% include pub-list-item.html %}
-                            {% endfor %}{% for pub in site.data.publications.twentysixteen %}
-                                        {% include pub-list-item.html %}
+                                {% if pub.authors contains page.username %}
+                                    {% include pubcard.html %}
+                                {% endif %}
                             {% endfor %}
                             {% for pub in site.data.publications.twentyfourteen %}
-                                        {% include pub-list-item.html %}
+                                {% if pub.authors contains page.username %}
+                                    {% include pubcard.html %}
+                                {% endif %}
                             {% endfor %}
                             {% for pub in site.data.publications.twentythirdteen %}
-                                        {% include pub-list-item.html %}
+                                {% if pub.authors contains page.username %}
+                                    {% include pubcard.html %}
+                                {% endif %}
                             {% endfor %}
                             {% for pub in site.data.publications.twentytwelve %}
-                                        {% include pub-list-item.html %}
+                                {% if pub.authors contains page.username %}
+                                    {% include pubcard.html %}
+                                {% endif %}
                             {% endfor %}
-                        </ul>
+                            </ul>
                     {% endif %}
                     
                     

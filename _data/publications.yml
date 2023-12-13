@@ -32,7 +32,7 @@ twentytwentythree:
   type: book chapter
   year: 2023
   place: Honekamp, Fähndrich (Hg.) 2023 – Polizei-Informatik 2023
-  url: [Buch]
+  url:
 
 - title: "Analysing Distributions of Feature Similarities in the Context of Digital Anthropometric Pattern Matching Probability"
   authors: 
@@ -84,7 +84,7 @@ twentytwentythree:
   type: book chapter
   year: 2023
   place: Honekamp, Fähndrich (Hg.) 2023 – Polizei-Informatik 2023
-  url: [Buch]
+  url: 
 
 - title: "Einsatz von Algorithmen zur Gesichtserkennung in Kipo-Verfahren"
   authors: 
@@ -93,7 +93,7 @@ twentytwentythree:
   type: book chapter
   year: 2023
   place: Honekamp, Fähndrich (Hg.) 2023 – Polizei-Informatik 2023
-  url: [Buch]
+  url: 
 
 - title: "Möglichkeiten, Grenzen und Konzepte für eine digitalbasierte Täterbewertung im Bereich der §§ 174 – 184"
   authors: 
@@ -173,7 +173,7 @@ twentytwentytwo:
   type: book chapter
   year: 2022
   place: Honekamp, Rittelmeier (Hg.) 2022 – Polizei-Informatik 2022
-  url: [Buch]
+  url: 
 
 - title: "Untersuchung der Eignung von Photogrammetrie und Laserscan zur Digitalisierung in der forensischen Blutspurenmusteranalyse"
   authors: 
@@ -183,7 +183,7 @@ twentytwentytwo:
   type: book chapter
   year: 2022
   place: Honekamp, Rittelmeier (Hg.) 2022 – Polizei-Informatik 2022
-  url: [Buch]
+  url: 
 
 - title: "A Comprehensive Dataset for German Offensive Language and Conversation Analysis"
   authors: 
@@ -221,7 +221,7 @@ twentytwentytwo:
   type: book chapter
   year: 2022
   place: Honekamp, Rittelmeier (Hg.) 2022 – Polizei-Informatik 2022
-  url: [Buch]
+  url: 
 
 - title: "CAN Demonstrator with Intrusion Detection System"
   authors: 
@@ -421,7 +421,7 @@ twentytwentyone:
   type: book chapter
   year: 2021
   place: Honekamp, Povalej et al. (Hg.) 2021 – Polizei-Informatik 2021
-  url: [Buch]
+  url: 
 
 - title: "Ansätze für die Dunkelfeldforschung: Möglichkeiten von Simulationen auf Grundlage der PKS"
   authors: 
@@ -435,7 +435,7 @@ twentytwentyone:
   type: book chapter
   year: 2021
   place: Honekamp, Povalej et al. (Hg.) 2021 – Polizei-Informatik 2021
-  url: [Buch]
+  url: 
 
 - title: "Automated Determination of Fingerprint Ridge Density and Fingerprint Size to Detect Sex Differences"
   authors: 
@@ -509,7 +509,7 @@ twentytwentyone:
   type: book
   year: 2021
   place: Honekamp, Povalej, Rittelmeier, Berner, Fähndrich, Labudde (Hg.) 2021 – Polizei-Informatik 2021
-  url: [Buch]
+  url: 
 
 - title: "Analysis of the influence of EDTA-treated reference samples on forensic bloodstain age estimation"
   authors: 
@@ -586,7 +586,7 @@ twentytwenty:
   type: book chapter
   year: 2020
   place: Honekamp, Rittelmeier et al. (Hg.) 2020 – Polizei-Informatik 2020
-  url: [Buch]
+  url: 
 
 - title: "Vorhersage von Gruppendynamiken auf der Grundlage von Daten aus Sozialen Netzwerken"
   authors: 
@@ -605,7 +605,7 @@ twentytwenty:
   type: book chapter
   year: 2020
   place: FH 2020 – Kriminalistik und Kriminologie
-  url: [Buch]
+  url: 
 
 - title: "Music Event Detection Leveraging Feature Selection based on Ant Colony Optimization"
   authors: 
@@ -626,7 +626,7 @@ twentytwenty:
   type: book
   year: 2020
   place: Honekamp, Rittelmeier, Povalej, Labudde (Hg.) 2021 – Polizei-Informatik 2021
-  url: [Buch]
+  url: 
 
 - title: "Entwicklung eines Blender-Addons zur automatisierten Berechnung der 'Area of Origin' im Rahmen forensischer Blutmusteranalysen"
   authors: 
