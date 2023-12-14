@@ -127,7 +127,7 @@ layout: default
                       </div>
                 {% endif %}
 <!-- Authored and Co-authored projects -->
-            {% capture workshop-author-list %}{{ site.workshops | map: 'authors' | split: ',' }}{% endcapture %}
+            {% capture workshop-author-list %}{{ site.courses | map: 'authors' | split: ',' }}{% endcapture %}
             {% capture tutorial-author-list %}{{ site.tutorials | map: 'authors' | split: ',' }}{% endcapture %}
             {% capture handout-author-list %}{{ site.handouts | map: 'authors' | split: ',' }}{% endcapture %}
             {% capture sandbox-author-list %}{{ site.posts | map: 'authors' | split: ',' }}{% endcapture %}
@@ -234,7 +234,7 @@ layout: default
                         <div class="col-sm-6">
                             <!-- count -->
                                 {% assign counter = 0 %}
-                                {% for workshop in site.workshops %}
+                                {% for workshop in site.courses %}
                                     {% if workshop.authors contains page.username %}
                                         {% assign counter=counter | plus:1 %}
                                     {% endif %}
@@ -242,7 +242,7 @@ layout: default
                             <!-- end count -->
                             <h3 class="mt-5">{{ counter }} Workshop{% if counter > 1 %}s{% endif %}</h3>
                             <ul>
-                                {% for workshop in site.workshops %}
+                                {% for workshop in site.courses %}
                                     {% if workshop.authors contains page.username %}
                                     <li><a href="{{ workshop.url | relative_url}}">{{ workshop.title }}</a>{% if workshop.awards %}{% for award in workshop.awards %}{% include award-namify.html %} <i aria-hidden="true" class="fas fa-award" data-toggle="tooltip" data-placement="right" title="{{ awardName }}"></i><span class="sr-only">{{ awardName }}</span>{% endfor %}{% endif %}</li>
                                     {% endif %}
@@ -316,7 +316,7 @@ layout: default
                 </div>
             </div>
 <!-- Contributions -->
-            {% capture workshop-contributor-list %}{{ site.workshops | map: 'contributors' | split: ',' }}{% endcapture %}
+            {% capture workshop-contributor-list %}{{ site.courses | map: 'contributors' | split: ',' }}{% endcapture %}
             {% capture tutorial-contributor-list %}{{ site.tutorials | map: 'contributors' | split: ',' }}{% endcapture %}
             {% capture handout-contributor-list %}{{ site.handouts | map: 'contributors' | split: ',' }}{% endcapture %}
             {% capture sandbox-contributor-list %}{{ site.posts | map: 'contributors' | split: ',' }}{% endcapture %}
@@ -326,13 +326,13 @@ layout: default
                     {% if workshop-contributor-list contains page.username %}
                         <!-- count -->
                                 {% assign counter = 0 %}
-                                {% for workshop in site.workshops %}
+                                {% for workshop in site.courses %}
                                     {% if workshop.contributors contains page.username %}
                                         {% assign counter=counter | plus:1 %}
                                     {% endif %}
                                 {% endfor %}
                             <!-- end count -->
-                        <p>{{ counter }} Workshops: {% for workshop in site.workshops %}{% if workshop.contributors contains page.username %}<a href="{{ workshop.url | relative_url}}">{{ workshop.title }}</a>{% if workshop.awards %}{% for award in workshop.awards %}{% include award-namify.html %} <i aria-hidden="true" class="fas fa-award" data-toggle="tooltip" data-placement="right" title="{{ awardName }}"></i><span class="sr-only">{{ awardName }}</span>{% endfor %}{% endif %} | {% endif %}{% endfor%}</p>
+                        <p>{{ counter }} Workshops: {% for workshop in site.courses %}{% if workshop.contributors contains page.username %}<a href="{{ workshop.url | relative_url}}">{{ workshop.title }}</a>{% if workshop.awards %}{% for award in workshop.awards %}{% include award-namify.html %} <i aria-hidden="true" class="fas fa-award" data-toggle="tooltip" data-placement="right" title="{{ awardName }}"></i><span class="sr-only">{{ awardName }}</span>{% endfor %}{% endif %} | {% endif %}{% endfor%}</p>
                     {% endif %}
                     {% if tutorial-contributor-list contains page.username %}
                         <!-- count -->

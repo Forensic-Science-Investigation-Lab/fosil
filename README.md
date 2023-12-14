@@ -53,7 +53,6 @@ Why?
 Other `_`underscore folders
 
 * `_data`: this folder contains data that we leverage in other areas of the site, e.g., our statistics data is in the stats.yml file and we keep info about our publications in publications.yml
-* `_embeds` - we haven't been using this as much since H5P came around - but this was a place that allowed us to create "embed-able" versions of our tutorials. Some of these embeds are still in use by people at other institutions so we keep them around.
 * `_sass` - a special folder for files related to the design of the site - we don't edit it much unless we are working on the look and feel of the site.
 
 
