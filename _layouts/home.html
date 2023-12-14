@@ -62,7 +62,7 @@ layout: default
         </div>
         <!-- /.col-lg-4 -->
         <div class="col-lg-4">
-            <a href="{{ '/tutorials' | relative_url }}">
+            <a href="{{ '/about/design-toolkit' | relative_url }}">
                 <button class="btn btn-light h-100">
                     <img src="{{ '/assets/images/icons/study.png' | relative_url }}" alt="Studierende" class="w-50">
                     <h2>Für Studierende</h2>
@@ -127,79 +127,35 @@ layout: default
               <h2>Neuigkeiten</h2>
           </div>
           <div class="card-body">
-    {% for tutorial in site.tutorials %}
-      {% if tutorial.featured %}
-            <li class="media mt-2">
-                        <a href="{{ tutorial.url | relative_url | replace: '//', '/' }}" class="mr-4 d-none d-md-block" style="max-width: 30%;">
-                            {% if tutorial.thumbnail %}
-                                <img src="{{ tutorial.thumbnail | relative_url }}" class="mr-3 img-fluid  d-none d-md-block" style="max-width: 100%;" alt="Tutorial icon">
+    {% for news_site in site.news %}
+        <li class="media mt-2">
+                    <a href="{{ news_site.url | relative_url | replace: '//', '/' }}" class="mr-4 d-none d-md-block" style="max-width: 30%;">
+                        {% if news_site.thumbnail %}
+                            <img src="{{ news_site.thumbnail | relative_url }}" class="mr-3 img-fluid  d-none d-md-block" style="max-width: 100%;" alt="News icon">
+                        {% else %}
+                            <img src="{{ '/assets/images/icons/tutorial-tn.png' | relative_url }}" class="mr-3 img-fluid" style="max-width: 100%;" alt="News icon">
+                        {% endif %}
+                    </a>
+                <div class="media-body">
+                        <h3 class="mt-0 mb-1"><a href="{{ news_site.url | relative_url | replace: '//', '/' }}">{{ news_site.title }}</a></h3>
+                        <p class="post-subtitle text-justify">
+                            {% if news_site.description %}
+                                {{ news_site.description }}
                             {% else %}
-                                <img src="{{ '/assets/images/icons/tutorial-tn.png' | relative_url }}" class="mr-3 img-fluid" style="max-width: 100%;" alt="Tutorial icon">
+                                {{ news_site.excerpt | strip_html | truncatewords: 30 }}
                             {% endif %}
-                        </a>
-                    <div class="media-body">
-                            <h3 class="mt-0 mb-1"><a href="{{ tutorial.url | relative_url | replace: '//', '/' }}">{{ tutorial.title }}</a></h3>
-                            <p class="post-subtitle text-justify">
-                                {% if tutorial.description %}
-                                    {{ tutorial.description }}
-                                {% else %}
-                                    {{ tutorial.excerpt | strip_html | truncatewords: 30 }}
-                                {% endif %}
-                            </p>
-                        <div class="btn-group btn-group-sm float-right" role="group" aria-label="Actions">
-                            <a href="{{ tutorial.url | relative_url | replace: '//', '/' }}" class="btn btn-primary">Tutorial</a>
-                            {% if tutorial.handout %}
-                                <a href="{{ tutorial.handout | relative_url | replace: '//', '/' }}" class="btn btn-primary">Handout</a>
-                            {% endif %}
-                        </div>
+                        </p>
+                    <div class="btn-group btn-group-sm float-right" role="group" aria-label="Actions">
+                        <a href="{{ news_site.url | relative_url | replace: '//', '/' }}" class="btn btn-primary">Mehr</a>
+                        {% if news_site.handout %}
+                            <a href="{{ news_site.handout | relative_url | replace: '//', '/' }}" class="btn btn-primary">Handout</a>
+                        {% endif %}
                     </div>
-                </li>
-                <hr>
-        {% endif %}
+                </div>
+            </li>
+            <hr>
     {%endfor%}
           </div>
       </div>
-
-          
-<!--
-<div class="card shadow mt-2">
-          <div class="card-header">
-              <h2>Featured Workshops</h2>
-          </div>
-          <div class="card-body">
-    {% for workshop in site.workshops %}
-      {% if workshop.featured %}
-            <li class="media mt-2">
-                        <a href="{{ workshop.url | relative_url | replace: '//', '/' }}" class="mr-4 d-none d-md-block" style="max-width: 30%;">
-                            {% if workshop.thumbnail %}
-                                <img src="{{ workshop.thumbnail | relative_url }}" class="mr-3 img-fluid  d-none d-md-block" style="max-width: 100%;" alt="workshop icon">
-                            {% else %}
-                                <img src="{{ '/assets/images/icons/tutorial-tn.png' | relative_url }}" class="mr-3 img-fluid" style="max-width: 100%;" alt="workshop icon">
-                            {% endif %}
-                        </a>
-                    <div class="media-body">
-                            <h3 class="mt-0 mb-1"><a href="{{ workshop.url | relative_url | replace: '//', '/' }}">{{ workshop.title }}</a></h3>
-                            <p class="post-subtitle text-justify">
-                                {% if workshop.description %}
-                                    {{ workshop.description }}
-                                {% else %}
-                                    {{ workshop.excerpt | strip_html | truncatewords: 30 }}
-                                {% endif %}
-                            </p>
-                        <div class="btn-group btn-group-sm float-right" role="group" aria-label="Actions">
-                            <a href="{{ workshop.url | relative_url | replace: '//', '/' }}" class="btn btn-primary">Start the workshop</a>
-                            {% if workshop.handout %}
-                                <a href="{{ workshop.handout | relative_url | replace: '//', '/' }}" class="btn btn-primary">Handout</a>
-                            {% endif %}
-                        </div>
-                    </div>
-                </li>
-                <hr>
-        {% endif %}
-    {%endfor%}
-          </div>
-      </div>
--->
-
 
 </div>

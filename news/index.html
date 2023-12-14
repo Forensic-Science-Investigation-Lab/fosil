@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Tutorials and Videos
-description: Quick and practical research and writing tutorials.
-permalink: /tutorials/
+title: Neuigkeiten
+description:
+permalink: /news/
 background: 
 ---
 
@@ -33,7 +33,7 @@ background:
   <div class="row">
     <div class="col-lg-12 col-md-12 col-xl-12 mx-auto">
 
-        {% assign groups = site.tutorials | group_by: "category" | sort: "sort-weight" %}
+        {% assign groups = site.news | group_by: "category" | sort: "sort-weight" %}
         
         {% for group in groups %}
         {% assign anchorname = group.name | slugify %}
@@ -51,7 +51,7 @@ background:
                 </div>
                 <div class="card-body">
                     {% assign sorted-items = group.items | sort: "sort-weight" %}
-                    {% for tutorial in sorted-items %}
+                    {% for news in sorted-items %}
                     {% assign mod = forloop.index | modulo: 2 %}
         <!--            if in left column-->
                     {% if mod == 1 %}
@@ -60,30 +60,30 @@ background:
                         <div class="col-lg border-sm-bottom {% if mod == 1 %} border-lg-right {% endif %}">
                             <div class="row">
                                 <div class="col-md-3 align-self-center mt-3">
-                                    <a href="{{ tutorial.url | relative_url | replace: '//', '/' }}" class="d-none d-md-block" style="max-width: 100%;">
-                                    {% if tutorial.thumbnail %}
-                                        <img src="{{ tutorial.thumbnail | relative_url }}" class=" img-fluid  d-none d-md-block" style="max-width: 100%;" alt="Tutorial icon">
+                                    <a href="{{ news.url | relative_url | replace: '//', '/' }}" class="d-none d-md-block" style="max-width: 100%;">
+                                    {% if news.thumbnail %}
+                                        <img src="{{ news.thumbnail | relative_url }}" class=" img-fluid  d-none d-md-block" style="max-width: 100%;" alt="news icon">
                                     {% else %}
-                                        <img src="{{ '/assets/images/icons/tutorial-tn.png' | relative_url }}" class="img-fluid" style="max-width: 100%;" alt="Tutorial icon">
+                                        <img src="{{ '/assets/images/icons/tutorial-tn.png' | relative_url }}" class="img-fluid" style="max-width: 100%;" alt="news icon">
                                     {% endif %}
                                 </a>
                                 </div>
                                 <div class="col-md-9 align-self-center mt-3">
-                                    <h3 class="mt-0"><a href="{{ tutorial.url | relative_url | replace: '//', '/' }}">{{ tutorial.title }}</a></h3>
+                                    <h3 class="mt-0"><a href="{{ news.url | relative_url | replace: '//', '/' }}">{{ news.title }}</a></h3>
                                 </div>
                             </div>
                             <p class="post-subtitle text-justify">
-                                        {% if tutorial.description %}
-                                            {{ tutorial.description }}
+                                        {% if news.description %}
+                                            {{ news.description }}
                                         {% else %}
-                                            {{ tutorial.excerpt | strip_html | truncatewords: 30 }}
+                                            {{ news.excerpt | strip_html | truncatewords: 30 }}
                                         {% endif %}
                                     </p>
                                 <!--learning outcome tool tip-->
 <!--
-                                {% if tutorial.Studienziel %}
+                                {% if news.Studienziel %}
                                 {% assign outcomeoutput = "" %}
-                                {% for outcome in tutorial.Studienziel %}
+                                {% for outcome in news.Studienziel %}
                                     {% assign outcomeoutput = outcomeoutput | append: "&#8226;" | append: outcome | append: "&#13;" %}
                                 {% endfor %}
                                 <div class="btn-group btn-group-sm float-left mb-3" role="group" aria-label="Studienziel">
@@ -92,9 +92,9 @@ background:
                                 {% endif %}
 -->
                                 <div class="btn-group btn-group-sm float-right mb-3" role="group" aria-label="Actions">
-                                    <a href="{{ tutorial.url | relative_url | replace: '//', '/' }}" class="btn btn-primary">Tutorial</a>
-                                    {% if tutorial.handout %}
-                                        <a href="{{ tutorial.handout | relative_url }}" class="btn btn-primary">Handout</a>
+                                    <a href="{{ news.url | relative_url | replace: '//', '/' }}" class="btn btn-primary">Mehr</a>
+                                    {% if news.handout %}
+                                        <a href="{{ news.handout | relative_url }}" class="btn btn-primary">Handout</a>
                                     {% endif %}
                                 </div>
                         </div>
