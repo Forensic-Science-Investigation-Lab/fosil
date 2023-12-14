@@ -55,8 +55,31 @@ layout: default
             <!-- do we need to repeat the name?
             <!-- <h2>{{ page.firstname }} <span class="text-muted">{{ page.lastname }}</span></h2>-->
 
-            <div {% if page.bio %}class="lead"{% endif %}>
-                <p>{{ page.bio }}</p>
+            {% if page.research %}
+            <div class="lead">
+                <h4>Forschungsschwerpunkte</h4>
+                <p>{{ page.research }}</p>
+            </div>
+            {% endif %}
+
+            {% if page.lectures %}
+            <div class="lead">
+                <h4>Lehrmodule</h4>
+                <p>{{ page.lectures }}</p>
+            </div>
+            {% endif %}
+
+            {% if page.contact %}
+            <div class="lead">
+                <h4>Erreichbarkeit</h4>
+                <p>{{ page.contact }}</p>
+                {% if page.phone %}
+                    <p><img src="{{ '/assets/images/team/phone.png' | relative_url }}" class="mr-3 img-fluid" style="height: 32px;" alt="Phone">{{ page.phone }}</p>
+                {% endif %}
+                {% if page.mail %}
+                    <p><img src="{{ '/assets/images/team/mail.png' | relative_url }}" class="mr-3 img-fluid" style="height: 32px;" alt="E-Mail"><a href="mailto:{{ page.mail }}">{{ page.mail }}</a></p>
+                {% endif %}
+
                 {% if page.linkedin or page.website %}
                 <div>
                 <ul class="list-inline text-center">
@@ -70,6 +93,8 @@ layout: default
                     </div>
                 {% endif %}
             </div>
+            {% endif %}
+
 <!-- Features -->
             {% if page.features[0]['feature-title'] %}
             <h2 class="mt-5">Featured Projects:</h2>
@@ -126,10 +151,9 @@ layout: default
                         {% assign twentyfourteenAuthors = site.data.publications.twentyfourteen | map: 'authors'  | join: ', ' %}
                         {% assign twentythirdteenAuthors = site.data.publications.twentythirdteen | map: 'authors'  | join: ', ' %}
                         {% assign twentytwelveAuthors = site.data.publications.twentytwelve | map: 'authors'  | join: ', ' %}
-                        {% assign twentyelevenAuthors = site.data.publications.twentyeleven | map: 'authors'  | join: ', ' %}
                     <!-- end gather -->
                     <!-- check to see if current user is an author -->
-                        {% if twentytwentythreeAuthors contains page.username or twentytwentytwoAuthors contains page.username or twentytwentyoneAuthors contains page.username or twentytwentyAuthors contains page.username or twentynineteenAuthors contains page.username or twentyeighteenAuthors contains page.username or twentyseventeenAuthors contains page.username or twentysixteenAuthors contains page.username or twentyfithteenAuthors contains page.username or twentyfourteenAuthors contains page.username or twentythirdteenAuthors contains page.username or twentytwelveAuthors contains page.username or twentyelevenAuthors contains page.username %}
+                        {% if twentytwentythreeAuthors contains page.username or twentytwentytwoAuthors contains page.username or twentytwentyoneAuthors contains page.username or twentytwentyAuthors contains page.username or twentynineteenAuthors contains page.username or twentyeighteenAuthors contains page.username or twentyseventeenAuthors contains page.username or twentysixteenAuthors contains page.username or twentyfithteenAuthors contains page.username or twentyfourteenAuthors contains page.username or twentythirdteenAuthors contains page.username or twentytwelveAuthors contains page.username %}
                             {% assign isAnAuthor = true %}
                         {% endif %}
                     <!-- Create pub and pres list for authors -->
@@ -193,11 +217,6 @@ layout: default
                                 {% endif %}
                             {% endfor %}
                             {% for pub in site.data.publications.twentytwelve %}
-                                {% if pub.authors contains page.username %}
-                                    {% include pubcard.html %}
-                                {% endif %}
-                            {% endfor %}
-                            {% for pub in site.data.publications.twentyeleven %}
                                 {% if pub.authors contains page.username %}
                                     {% include pubcard.html %}
                                 {% endif %}
