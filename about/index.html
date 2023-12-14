@@ -172,6 +172,15 @@ accessibility-info:
     </div>
 </div>
 
+<h5 class="mt-3">2011</h5>
+<div class="row justify-content-start">
+    <div class="col-md-10 col-sm-12">
+        {% for pub in site.data.publications.twentyeleven %}
+            {% include pubcard.html %}
+    {% endfor %}
+    </div>
+</div>
+
 <!--
 <img src="{{ '/assets/images/team/WI+RE-Banner.png' | relative_url }}" alt="Five student designers on the WI+RE team collaborate on a video shoot. Text overlay: WI+RE." class="img-fluid mx-auto align-middle img-thumbnail" />
 -->

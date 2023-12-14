@@ -5,13 +5,14 @@ displayname: Nadine Friedewald
 firstname: Nadine
 initialfirst: N.
 lastname: Friedewald
-position: Studiengangskoordinatorin 
-start-date: 2000-01-01
+position: Studiengangskoordination 
+start-date: 2020-09-01
 category: FoSIL
 bio: >- 
-    Nadine ist toll.   
-profile: assets/images/team/forscherin.png
+    Studiengangskoordination   
+profile: assets/images/team/nadine.jpg
 website: https://www.cb.hs-mittweida.de/mitarbeiterinnen-mitarbeiter-in-ihren-fachgruppen/friedewald-nadine/
+linkedin: https://www.linkedin.com/in/nadine-friedewald-46094516a/ 
 features:
     - feature-title: 
       feature-img: 

@@ -149,6 +149,18 @@ twentytwentythree:
   place: Semantic Web – Interoperability, Usability, Applicability
   url: https://www.semantic-web-journal.net/system/files/swj3553.pdf
 
+- title: "Multi-proximity based embedding scheme for learning vector quantization-based classification of biochemical structured data"
+  authors: 
+  - Katrin Sophie Bohnsack
+  - Julius Voigt
+  - Marika Kaden
+  - Florian Heinke
+  - Thomas Villmann
+  type: article
+  year: 2023
+  place: Neurocomputing
+  url: https://doi.org/10.1016/j.neucom.2023.126632
+
 twentytwentytwo:
 - title: "FoSIL at CheckThat! 2022: Using Human Behaviour-Based Optimization for Text Classification"
   authors: 
@@ -862,6 +874,15 @@ twentynineteen:
   place: International journal of food microbiology
   url: https://www.researchgate.net/publication/333606628_Structural_change_in_GadD2_of_Listeria_monocytogenes_field_isolates_supports_nisin_resistance
 
+  - title: "A Novel Approach for Fast Protein Structure Comparison and Heuristic Structure Database Searching Based on Residue EigenRank Scores"
+  authors: 
+  - Florian Heinke
+  - Lars Hempel
+  - Dirk Labudde
+  type: article
+  year: 2019
+  place: Beyond Databases, Architectures and Structures. Paving the Road to Smart Data Processing and Analysis
+  url: http://dx.doi.org/10.1007/978-3-030-19093-4_18
 twentyeighteen:
 - title: "Sicherheit ist die Abwesenheit von Kriminalität - eine Hypothese"
   authors: 
@@ -1291,6 +1312,16 @@ twentyfithteen:
   place: Rechtsmedizin
   url: https://www.researchgate.net/publication/282307258_Optimization_strategies_for_DNA_investigations_of_highly_degraded_corpses
 
+- title: "Analyse von Kurznachrichten in der polizeilichen Fallarbeit"
+  authors: 
+  - Michael Spranger
+  - Florian Heinke
+  - Dirk Labudde
+  type: article
+  year: 2015
+  place: Der Kriminalist
+  url:
+
 twentyfourteen:
 - title: "Semantic Tools for Forensics: Towards Finding Evidence in Short Messages"
   authors: 
@@ -1407,6 +1438,15 @@ twentythirdteen:
   place: Nucleic acids research
   url: https://academic.oup.com/nar/article/41/D1/D320/1056051
 
+- title: "Functional Analyses of Membrane Protein Mutants involved in Nephrogenic Diabetes insipidus: An Energy-based Approach - In: Research on Diabetes"
+  authors: 
+  - Florian Heinke
+  - Dirk Labudde
+  type: article
+  year: 2013
+  place: Research on Diabetes. Functional Analyses of Membrane Protein Mutants involved in Nephrogenic Diabetes insipidus - An Energy-based Approach
+  url: https://www.researchgate.net/publication/235988615_Functional_Analyses_of_Membrane_Protein_Mutants_involved_in_Nephrogenic_Diabetes_insipidus_An_Energy-based_Approach
+
 twentytwelve:
 - title: "Semantic Tools for Forensics: A Highly Adaptable Framework"
   authors: 
@@ -1428,3 +1468,14 @@ twentytwelve:
   year: 2012
   place: Computational and mathematical methods in medicine
   url: https://www.researchgate.net/publication/223986992_Membrane_Protein_Stability_Analyses_by_Means_of_Protein_Energy_Profiles_in_Case_of_Nephrogenic_Diabetes_Insipidus
+
+twentyeleven:
+- title: "Analysis of Membrane Protein Stability in Diabetes insipidus"
+  authors: 
+  - Florian Heinke
+  - Anne Tuukkanen
+  - Dirk Labudde
+  type: article
+  year: 2011
+  place: Diabetes Insipidus
+  url: http://dx.doi.org/10.5772/22258
