@@ -30,7 +30,7 @@ collections:
     workshops:
         output: true
         permalink: /workshops/:title/
-    tutorials:
+    news:
         output: true
         permalink: /:title/
         sort_by: sort-weight
@@ -72,9 +72,9 @@ defaults:
   -
     scope:
         path: ""
-        type: "tutorials"
+        type: "news"
     values:
-        layout: "tutorial" 
+        layout: "news" 
         background: "/assets/images/backgrounds/network-4851079_1920.jpg"
   -
     scope:

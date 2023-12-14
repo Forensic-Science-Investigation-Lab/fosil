@@ -16,6 +16,21 @@
                     <a class="btn btn-primary btn-block  my-1" href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{ page.next.title }}">{{ page.next.initialfirst }} {{ page.next.lastname }} &rarr;</a>
                 {% endif %}
             </div>
+        <!-- News special prev-next -->
+        {% elsif page.layout == "news" %}
+            <div class="col-sm-4">
+                {% if page.previous.url %}
+                    <a class="btn btn-primary btn-block my-1" href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{ page.previous.title }}">&larr; Vorherige Neuigkeit</a>
+                {% endif %}
+            </div>
+            <div class="col-sm-4">
+                <a class="btn btn-primary btn-block my-1" href="{{ '/news' | relative_url }}"><span class="d-none d-md-inline">Alle Neuigkeiten</a>
+            </div>
+            <div class="col-sm-4">
+                {% if page.next.url %}
+                    <a class="btn btn-primary btn-block  my-1" href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{ page.next.title }}">Darauffolgende Neuigkeit &rarr;</a>
+                {% endif %}
+            </div>
         <!-- Sandbox special prev-next -->
         {% elsif page.layout == "post" %}
                 <div class="col-sm-4">
