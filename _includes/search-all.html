@@ -36,7 +36,7 @@
                                     {% endif %}
                         </td>
                         <td>
-                            <p><strong><a href="{{ item.url | relative_url }}">{{ item.title }}</a> {% if item.awards %}{% for award in item.awards %}{% include award-namify.html %} <i aria-hidden="true" class="fas fa-award" data-toggle="tooltip" data-placement="right" title="{{ awardName }}"></i><span class="sr-only">{{ awardName }}</span>{% endfor %}{% endif %}<small><em> ({{ item.layout | capitalize }})</em></small></strong></p>
+                            <p><strong><a href="{{ item.url | relative_url }}">{{ item.title }}</a> </strong></p>
                         </td>
                         <td style="display: none;">
                                 {% if item.Studienziel %}

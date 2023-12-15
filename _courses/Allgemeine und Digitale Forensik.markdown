@@ -6,7 +6,6 @@ link: https://www.cb.hs-mittweida.de/studienangebote-der-fakultaet/allgemeine-un
 date:   2019-12-01
 last-updated:
 contributors:
-awards:
 references:
 thumbnail: /assets/courses/thumbnails/bachelor.png
 sort-weight: 1
