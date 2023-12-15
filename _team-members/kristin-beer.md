@@ -7,7 +7,7 @@ initialfirst: K.
 lastname: Beer
 position: Teamassistenz
 start-date: 2000-01-01
-category: FoSIL
+category: Teamassistenz und Koordination
 bio: >- 
     Kristin ist toll.   
 profile: assets/images/team/forscherin.png

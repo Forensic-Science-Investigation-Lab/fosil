@@ -7,7 +7,7 @@ initialfirst: J.
 lastname: Felser
 position: Wissenschaftliche Mitarbeiterin
 start-date: 2000-01-01
-category: FoSIL
+category: Forensische Netzwerkforschung und inhaltsbasierte Informationsgewinnung
 bio: >- 
     Jenny ist toll.   
 profile: assets/images/team/forscherin.png

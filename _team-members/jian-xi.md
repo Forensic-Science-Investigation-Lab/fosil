@@ -7,7 +7,7 @@ initialfirst: J.
 lastname: Xi
 position: Wissenschaftlicher Mitarbeiter
 start-date: 2017-11-01
-category: FoSIL
+category: Forensische Netzwerkforschung und inhaltsbasierte Informationsgewinnung
 bio: > 
      - Forensic Text Mining <br>
      - Machine Learning <br>

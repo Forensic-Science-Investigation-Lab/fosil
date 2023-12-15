@@ -7,14 +7,22 @@ initialfirst: L.
 lastname: Jaeckel
 position: Wissenschaftlicher Mitarbeiter
 research: >- 
-    Lukas ist mega toll.  
-lectures: Dumm ausm Fenster schauen
-contact: Nie erreichbar
-phone: +49 3727 58-1153
+    <ul>
+    <li> Forensische Analyse mobiler Kommunikationsdienste
+    <li> Forensische Analyse sozialer Netzwerke
+    <li> Entwicklung forensischer Software
+lectures: >-
+    <ul>
+    <li> Softwareprojekt forensische Werkzeuge
+contact: >-
+    <ul>
+    <li> Raum 8-106
+    <li> Sprechzeiten nach Vereinbarung
+phone: +49 3727 58-2253
 mail: jaeckel1@hs-mittweida.de
-start-date: 2000-01-01
-category: FoSIL 
-profile: assets/images/team/forscher.png
+start-date: 2020-04-01
+category: Forensische Netzwerkforschung und inhaltsbasierte Informationsgewinnung
+profile: assets/images/team/lukas.jpg
 website: https://www.cb.hs-mittweida.de/mitarbeiterinnen-mitarbeiter-in-ihren-fachgruppen/jaeckel-lukas/
 features:
     - feature-title: 

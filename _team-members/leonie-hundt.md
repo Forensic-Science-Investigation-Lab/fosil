@@ -7,7 +7,7 @@ initialfirst: L.
 lastname: Hundt
 position: Teamassistenz 
 start-date: 2023-11-01
-category: FoSIL
+category: Teamassistenz und Koordination
 bio:        
 profile: assets/images/team/forscherin.png
 linkedin: https://www.linkedin.com/in/leonie-marie-hundt-17bb6123a

@@ -7,7 +7,7 @@ initialfirst: M.
 lastname: Spranger
 position: Prof. Dr. rer. nat. 
 start-date: 2000-01-01
-category: FoSIL
+category: Forensische Netzwerkforschung und inhaltsbasierte Informationsgewinnung
 bio: >- 
     Micha ist toll.   
 profile: assets/images/team/forscher.png
