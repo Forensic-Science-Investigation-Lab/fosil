@@ -6,11 +6,14 @@ firstname: Sabine
 initialfirst: S.
 lastname: Richter
 position: Wissenschaftliche Mitarbeiterin
-start-date: 2000-01-01
+start-date: 2021-05-19
 category: FoSIL
-bio: >- 
-    Sabine ist toll.   
-profile: assets/images/team/forscherin.png
+research: >- 
+    Fallarbeit  
+contact: Sprechzeiten auf Anfrage
+phone:
+mail:
+profile: assets/images/team/sabine.jpg
 website: https://www.cb.hs-mittweida.de/mitarbeiterinnen-mitarbeiter-in-ihren-fachgruppen/richter-sabine-ute/
 features:
     - feature-title: 

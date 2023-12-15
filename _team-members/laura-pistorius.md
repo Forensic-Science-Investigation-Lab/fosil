@@ -6,11 +6,23 @@ firstname: Laura
 initialfirst: L.
 lastname: Pistorius
 position: Referentin für Cybersicherheit
-start-date: 2000-01-01
+start-date: 2022-03-01
 category: Fraunhofer Lernlabor für Cybersicherheit
-bio: >- 
-    Laura ist toll.   
-profile: assets/images/team/forscherin.png
+research: >
+    <ul>
+    <li>Cybersicherheit</li>
+    <li>Digitale Forensik</li>
+    </ul>
+lectures: 
+    <ul>
+    <li>Rechtsgrundlagen Allgemein</li>
+    <li>Rechtsgrundlagen Cybercrime</li>
+    <li>Digitale Forensik Grundlagen</li>
+    </ul>
+contact: Sprechzeiten auf Anfrage
+phone:
+mail: 
+profile: assets/images/team/laura.jpg
 website: https://www.cb.hs-mittweida.de/mitarbeiterinnen-mitarbeiter-in-ihren-fachgruppen/pistorius-laura/
 features:
     - feature-title: 

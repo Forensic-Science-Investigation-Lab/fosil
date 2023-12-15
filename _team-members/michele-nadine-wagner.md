@@ -6,11 +6,19 @@ firstname: Michele-Nadine
 initialfirst: M.
 lastname: Wagner
 position: Wissenschaftliche Mitarbeiterin
-start-date: 2000-01-01
+start-date: 2018-08-01
 category: FoSIL
-bio: >- 
-    Michele ist toll.   
-profile: assets/images/team/forscherin.png
+research: >-  
+lectures: 
+    <ul>
+    <li>Allgemeine Forensik I</li>
+    <li>Allgemeine Forensik II</li>
+    <li>Allgemeine Forensik III</li>
+    </ul>
+contact: Sprechzeiten auf Anfrage
+phone:
+mail:  
+profile: assets/images/team/michele.png
 website: https://www.cb.hs-mittweida.de/mitarbeiterinnen-mitarbeiter-in-ihren-fachgruppen/wagner-michele-nadine/
 features:
     - feature-title: 
