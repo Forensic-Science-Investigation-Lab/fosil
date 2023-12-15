@@ -7,7 +7,7 @@ initialfirst: J.
 lastname: Rosenfelder
 position: Wissenschaftliche Mitarbeiterin
 start-date: 2000-01-01
-category: FoSIL
+category: Digitalisierung der forensischen Fallarbeit
 bio: >- 
     Jasmin ist toll.   
 profile: assets/images/team/forscherin.png

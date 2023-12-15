@@ -7,7 +7,7 @@ initialfirst: S.
 lastname: Preuß
 position: Wissenschaftliche Mitarbeiterin
 start-date: 2000-01-01
-category: FoSIL
+category: Digitalisierung der forensischen Fallarbeit
 bio: >- 
     Svenja ist toll.   
 profile: assets/images/team/forscherin.png

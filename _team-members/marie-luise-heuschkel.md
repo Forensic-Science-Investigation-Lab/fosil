@@ -7,7 +7,7 @@ initialfirst: M.
 lastname: Heuschkel
 position: Wissenschaftliche Mitarbeiterin
 start-date: 2000-01-01
-category: FoSIL
+category: Forensische Biologie
 bio: >- 
     Marie ist toll.   
 profile: assets/images/team/forscherin.png

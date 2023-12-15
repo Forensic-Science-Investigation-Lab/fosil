@@ -7,7 +7,7 @@ initialfirst: M.
 lastname: Wagner
 position: Wissenschaftliche Mitarbeiterin
 start-date: 2000-01-01
-category: FoSIL
+category: Forensische Biologie
 bio: >- 
     Michele ist toll.   
 profile: assets/images/team/forscherin.png

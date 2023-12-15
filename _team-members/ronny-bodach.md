@@ -7,7 +7,7 @@ initialfirst: R.
 lastname: Bodach
 position: Prof. Dr. rer. nat.
 start-date: 2019-01-01
-category: FoSIL
+category: IT Sicherheit/Digitale Forensik 
 bio: > 
     - Datenträger- und Dateisystemforensik <br>
     - Endgeräte- und Betriebssystemforensik <br>
