@@ -1,5 +1,5 @@
 ---
-title:  "Prof. Ronny Bodach"
+title:  "Ronny Bodach"
 username: Ronny Bodach
 displayname: Ronny Bodach
 firstname: Ronny
