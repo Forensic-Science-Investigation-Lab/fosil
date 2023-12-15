@@ -5,18 +5,17 @@
                         <div class="input-group md-form form-sm form-1 pl-0 mb-0">
                           <div class="input-group-prepend">
                             <span class="input-group-text" style="background-color: #005587;" id="basic-text1"><i class="fas fa-search text-white" aria-hidden="true"></i></span>
-                            <label for="myInput" class="sr-only">Search for tutorials, workshops, handouts, and more:</label>
+                            <label for="myInput" class="sr-only">Suche nach Neuigkeiten und Mitarbeitende</label>
                           </div>
-                          <input class="form-control form-control-lg input-lg" id="myInput" type="text" aria-label="Search for tutorials and workshops" placeholder="try keywords like reading strategies, literature review, writing, etc...">
+                          <input class="form-control form-control-lg input-lg" id="myInput" type="text" aria-label="Suche nach Neuigkeiten und Mitarbeitende" placeholder="Suche nach Neuigkeiten und Mitarbeitende...">
                         </div>
-                        <small id="emailHelp" class="form-text text-muted input-text">Search tip: Use words from your syllabus or assignment prompt!</small>
                     </div>
 </div>
 
 <!-- list of content in a search table -->
 <!-- -->
 <!-- -->
-<h2>WI+RE Tutorials, Workshops, and Handouts</h2>
+<h2>Neuigkeiten</h2>
  <table class="table table-sm table-responsive-sm">
         <thead>
             <th scope="col" style="display: none;">Thumbnail</th>
@@ -26,7 +25,7 @@
         </thead>
         <tbody id="myTable">
 {% for item in sorted_documents %}
-    {% if item.layout != "embed" and item.layout != "embed-simple" and item.layout != "post" and item.layout != "team-member" %}
+    {% if item.layout == "news" %}
             {% if item.title %}
                 <tr>
                         <td>
@@ -37,7 +36,7 @@
                                     {% endif %}
                         </td>
                         <td>
-                            <p><strong><a href="{{ item.url | relative_url }}">{{ item.title }}</a> {% if item.awards %}{% for award in item.awards %}{% include award-namify.html %} <i aria-hidden="true" class="fas fa-award" data-toggle="tooltip" data-placement="right" title="{{ awardName }}"></i><span class="sr-only">{{ awardName }}</span>{% endfor %}{% endif %}<small><em> ({{ item.layout | capitalize }})</em></small></strong></p>
+                            <p><strong><a href="{{ item.url | relative_url }}">{{ item.title }}</a> </strong></p>
                         </td>
                         <td style="display: none;">
                                 {% if item.Studienziel %}
@@ -65,7 +64,7 @@
 <!-- -->
 <!-- -->
 
-<h2>WI+RE Team</h2>
+<h2>FoSIL Team</h2>
 <table class="table table-sm table-responsive-sm">
         <thead>
             <th scope="col" style="display: none;">Profile Picture</th>
@@ -113,40 +112,5 @@
 {% endfor %}
 </tbody>
 </table>
-<!-- list of sandbox posts -->
-<!-- -->
-<!-- -->
-<h2>WI+RE Sandbox Posts</h2>
-<p><em>For a behind the scenes look at WI+RE's learner-led design process</em></p>
-<table class="table table-sm table-responsive-sm">
-        <thead>
-            <th scope="col" style="display: none;">Title</th>
-            <th scope="col" style="display: none;">Description</th>
-            <th scope="col" style="display: none;">Tags</th> <!-- use tags for common search terms, e.g., "lit review" - column is hidden but matching results will still display -->
-        </thead>
-        <tbody id="myTable">
-{% for item in sorted_documents %}
-    {% if item.layout == "post" %}
-            {% if item.title %}
-                <tr>
-                        <td>
-                            <p><strong><a href="{{ item.url | relative_url }}">{{ item.title }}</a> </strong></p>
-                        </td>
-                        <td style="display: none;">
-                                {% if item.description %}
-                                    {{ item.description }}
-                                    {% else %}
-                                        <small><em>Coming soon!</em></small>
-                                {% endif %}
-                        </td>
-                        <td style="display: none;">
-                            {% if item.tags %}
-                                <p>{{ item.tags | split: ", " }}</p>
-                            {% endif %}
-                        </td>
-                </tr>
-            {% endif %}
-    {% endif %}
-{% endfor %}
 </tbody>
 </table>
