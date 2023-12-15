@@ -24,9 +24,6 @@ permalink: /:collection/:title/
 
 # Collections
 collections:
-    posts:
-        output: true
-        permalink: /sandbox/:title/
     courses:
         output: true
         permalink: /courses/:title/
@@ -34,9 +31,6 @@ collections:
         output: true
         permalink: /:title/
         sort_by: sort-weight
-    handouts:
-        output: true
-        permalink: /handouts/:title/
     team-members:
         output: true
         permalink: /about/team/:title/
@@ -58,7 +52,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      background: "/assets/images/sand.jpg"
+      background: "/assets/images/backgrounds/network-4851079_1920.jpg"
   -
     scope:
         path: ""
