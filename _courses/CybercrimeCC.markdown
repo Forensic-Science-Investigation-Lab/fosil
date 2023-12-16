@@ -8,7 +8,7 @@ last-updated:
 contributors:
 references:
 thumbnail: /assets/courses/thumbnails/bachelor.png
-sort-weight: 2
+sort-weight: 1
 Studienziel:
     - Text
 Karriereperpektiven:

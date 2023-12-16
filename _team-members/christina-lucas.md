@@ -7,7 +7,7 @@ initialfirst: C.
 lastname: Lucas
 position: Wissenschaftliche Mitarbeiterin
 start-date: 2000-01-01
-category: FoSIL
+category: Forensische Biologie
 bio: >- 
     Christina ist toll.   
 profile: assets/images/team/forscherin.png

@@ -7,7 +7,7 @@ initialfirst: F.
 lastname: Heinke
 position: Wissenschaftlicher Mitarbeiter
 start-date: 2000-01-01
-category: FoSIL
+category: Forensische Biologie
 bio: > 
     - Statistische Modellierung und Maschinelles Lernen <br>
     <br>

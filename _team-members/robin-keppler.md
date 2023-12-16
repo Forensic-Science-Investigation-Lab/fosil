@@ -7,7 +7,7 @@ initialfirst: R.
 lastname: Keppler
 position: Teamassistenz
 start-date: 2000-01-01
-category: FoSIL
+category: Teamassistenz und Koordination
 bio: >- 
     Robin ist toll.   
 profile: assets/images/team/forscher.png

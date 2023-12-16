@@ -7,7 +7,7 @@ initialfirst: F.
 lastname: Meyer
 position: Wissenschaftlicher Mitarbeiter
 start-date: 2023-06-01
-category: FoSIL
+category: Forensische Netzwerkforschung und inhaltsbasierte Informationsgewinnung
 bio: >- 
     Florian ist toll.   
 profile: assets/images/team/Flo.jpg

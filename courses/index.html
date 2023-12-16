@@ -33,7 +33,7 @@ background:
   <div class="row">
     <div class="col-lg-12 col-md-12 col-xl-12 mx-auto">
 
-        {% assign groups = site.courses | group_by: "category" | sort: "sort-weight" %}
+        {% assign groups = site.courses | group_by: "category" %} <!--| sort: "sort-weight"-->
         
         {% for group in groups %}
         {% assign anchorname = group.name | slugify %}
@@ -79,20 +79,8 @@ background:
                                             {{ tutorial.excerpt | strip_html | truncatewords: 30 }}
                                         {% endif %}
                                     </p>
-                                <!--learning outcome tool tip-->
-<!--
-                                {% if tutorial.Studienziel %}
-                                {% assign outcomeoutput = "" %}
-                                {% for outcome in tutorial.Studienziel %}
-                                    {% assign outcomeoutput = outcomeoutput | append: "&#8226;" | append: outcome | append: "&#13;" %}
-                                {% endfor %}
-                                <div class="btn-group btn-group-sm float-left mb-3" role="group" aria-label="Studienziel">
-                                    <a href="" data-html="true" class="btn btn-secondary" data-toggle="tooltip" text-align="left" data-placement="top" title="{{ outcomeoutput }}">Studienziel</a>
-                                </div>
-                                {% endif %}
--->
                                 <div class="btn-group btn-group-sm float-right mb-3" role="group" aria-label="Actions">
-                                    <a href="{{ tutorial.link }}" class="btn btn-primary">Infos</a>
+                                    <a href="{{ tutorial.link }}" class="btn btn-primary" target="_blank">Infos</a>
                                 </div>
                         </div>
         <!--            if in right column-->

@@ -7,7 +7,7 @@ initialfirst: N.
 lastname: Friedewald
 position: Studiengangskoordination 
 start-date: 2020-09-01
-category: FoSIL
+category: Teamassistenz und Koordination
 bio: >- 
     Studiengangskoordination   
 profile: assets/images/team/nadine.jpg
