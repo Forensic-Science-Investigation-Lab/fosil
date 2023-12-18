@@ -6,12 +6,12 @@ permalink: /contact/
 background: '/assets/images/backgrounds/network-4851079_1920.jpg'
 ---
 
-### Kontakt für Forschung und Fallarbeit
+### Kontakt Forschung und Fallarbeit
 
 <table border="0">
  <tr>
     <td>
-    <img src="{{ '/assets/images/team/forscherin.png' | relative_url }}" class="img-fluid" style="height: 150px;" alt="Kristin Beer">
+    <img src="{{ '/assets/images/team/kristin.jpg' | relative_url }}" class="img-fluid" style="height: 150px;" alt="Kristin Beer">
     </td>
     <td>
         <ul>
@@ -25,7 +25,7 @@ background: '/assets/images/backgrounds/network-4851079_1920.jpg'
 </table>
 <br>
 
-### Kontakt für das Fraunhofer Lernlabor
+### Kontakt Fraunhofer Lernlabor für Cybersicherheit
 
 <table border="0">
  <tr>
@@ -44,7 +44,7 @@ background: '/assets/images/backgrounds/network-4851079_1920.jpg'
 </table>
 <br>
 
-### Kontakt für Studienangelegenheiten
+### Kontakt Studienangelegenheiten
 
 <table border="0">
  <tr>
