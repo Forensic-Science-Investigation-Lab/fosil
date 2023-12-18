@@ -5,11 +5,15 @@ displayname: Sven Becker
 firstname: Sven
 initialfirst: S.
 lastname: Becker
-position: Wissenschaftlicher Mitarbeiter
+position: Wissenschaftlicher Projektmitarbeiter
 start-date: 2000-01-01
 category: Digitalisierung der forensischen Fallarbeit
-bio: >- 
-    Sven ist toll.   
+contact: >-
+    <ul>
+    <li> Raum 8-101
+    <li> Sprechzeiten nach Vereinbarung
+phone: +49 3727 58-1786
+mail: becker1@hs-mittweida.de
 profile: assets/images/team/forscher.png
 website: https://www.cb.hs-mittweida.de/mitarbeiterinnen-mitarbeiter-in-ihren-fachgruppen/becker-sven/
 features:

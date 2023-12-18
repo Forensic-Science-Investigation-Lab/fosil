@@ -5,7 +5,7 @@ displayname: Ronny Bodach
 firstname: Ronny
 initialfirst: R.
 lastname: Bodach
-position: Prof. Dr. rer. nat.
+position: Professur IT Sicherheit/Digitale Forensik
 start-date: 2019-01-01
 category: IT Sicherheit/Digitale Forensik 
 bio: > 

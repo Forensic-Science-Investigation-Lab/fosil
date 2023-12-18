@@ -5,11 +5,14 @@ displayname: Paul Seidel
 firstname: Paul
 initialfirst: P.
 lastname: Seidel
-position: Wissenschaftlicher Mitarbeiter
+position: Projektmitarbeiter
 start-date: 2000-01-01
-category: FoSIL
-bio: >- 
-    Paul ist toll.   
+category: Digitalisierung der forensischen Fallarbeit
+contact: >-
+    <ul>
+    <li> Raum 8-001
+    <li> Sprechzeiten nach Vereinbarung
+mail: seidel6@hs-mittweida.de
 profile: assets/images/team/forscher.png
 website: https://www.cb.hs-mittweida.de/mitarbeiterinnen-mitarbeiter-in-ihren-fachgruppen/seidel-paul/
 features:

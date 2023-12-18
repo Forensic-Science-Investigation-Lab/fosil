@@ -7,17 +7,20 @@ initialfirst: T.
 lastname: Tommy Bergmann
 position: Wissenschaftlicher Mitarbeiter
 start-date: 2016-01-01
-category: FoSIL
-research: >- 
+category: Forensische Biologie
+research: >-
+    <ul>
+    <li> 
     Forensische Blutspurenmusteranalyse  
 lectures: 
     <ul>
     <li>Betriebssysteme</li>
-    <li>Allgemeine Forensik I</li>
-    <li>Allgemeine Forensik II</li>
-    <li>Allgemeine Forensik III</li>
+    <li>Allgemeine Forensik</li>
     </ul>
-contact: Sprechzeiten auf Anfrage
+contact: >-
+    <ul>
+    <li> Raum 6-132
+    <li> Sprechzeiten nach Vereinbarung
 phone: +49 3727 58 - 1749
 mail: bergmann@hs-mittweida.de  
 profile: assets/images/team/tommy.jpg

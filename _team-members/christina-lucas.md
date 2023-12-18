@@ -8,8 +8,12 @@ lastname: Lucas
 position: Wissenschaftliche Mitarbeiterin
 start-date: 2000-01-01
 category: Forensische Biologie
-bio: >- 
-    Christina ist toll.   
+contact: >-
+    <ul>
+    <li> Raum 6-132
+    <li> Sprechzeiten nach Vereinbarung 
+phone: +49 3727 58-1339 
+mail: lucas@hs-mittweida.de
 profile: assets/images/team/forscherin.png
 website: https://www.cb.hs-mittweida.de/mitarbeiterinnen-mitarbeiter-in-ihren-fachgruppen/lucas-christina/
 features:

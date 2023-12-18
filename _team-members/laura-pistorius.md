@@ -5,7 +5,7 @@ displayname: Laura Pistorius
 firstname: Laura
 initialfirst: L.
 lastname: Pistorius
-position: Referentin für Cybersicherheit
+position: Referentin Cybersicherheit
 start-date: 2022-03-01
 category: Fraunhofer Lernlabor für Cybersicherheit
 research: >

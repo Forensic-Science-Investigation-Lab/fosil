@@ -5,11 +5,15 @@ displayname: Martin Klöden
 firstname: Martin
 initialfirst: M.
 lastname: Klöden
-position: Referent für Cybersicherheit
+position: Referent Cybersicherheit
 start-date: 2000-01-01
 category: Fraunhofer Lernlabor für Cybersicherheit
-bio: >- 
-    Martin ist toll.   
+contact: >-
+    <ul>
+    <li> Raum 8-303
+    <li> Sprechzeiten nach Vereinbarung
+phone: +49 3727 58-1319
+mail: kloeden@hs-mittweida.de
 profile: assets/images/team/forscher.png
 website: https://www.cb.hs-mittweida.de/mitarbeiterinnen-mitarbeiter-in-ihren-fachgruppen/kloeden-martin/
 features:

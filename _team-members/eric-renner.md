@@ -6,12 +6,18 @@ firstname: Eric
 initialfirst: E.
 lastname: Renner
 position: Wissenschaftlicher Mitarbeiter
-start-date: 2023-11-15
-category: FoSIL
-bio: >- 
-    Erich ist toll.   
-profile: assets/images/team/forscher.png
+category: Digitalisierung der forensischen Fallarbeit
+start-date: 2021-07-21
+research: >- 
+    <ul>
+    <li> Forschungsprojekt Cave
+contact: >-
+    <ul>
+    <li> Raum 8-104
+    <li> Sprechzeiten nach Vereinbarung 
+profile: assets/images/team/eric.jpeg
 website: https://www.cb.hs-mittweida.de/mitarbeiterinnen-mitarbeiter-in-ihren-fachgruppen/renner-eric/
+linkedin: https://www.linkedin.com/in/eric-renner-9aaa18199
 features:
     - feature-title: 
       feature-img: 

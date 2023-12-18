@@ -7,12 +7,14 @@ initialfirst: S.
 lastname: Richter
 position: Wissenschaftliche Mitarbeiterin
 start-date: 2021-05-19
-category: FoSIL
+category: Digitalisierung der forensischen Fallarbeit
 research: >- 
-    Fallarbeit  
+    <ul>
+    <li> Promotion zum Thema "Automatisierte Erstellung eines Personspezifischen Rigs für die Identifizierung von Personen in Videomaterial"
+    <li> Fallarbeit
 contact: Sprechzeiten auf Anfrage
 phone:
-mail:
+mail: richter8@hs-mittweida.de 
 profile: assets/images/team/sabine.jpg
 website: https://www.cb.hs-mittweida.de/mitarbeiterinnen-mitarbeiter-in-ihren-fachgruppen/richter-sabine-ute/
 features:

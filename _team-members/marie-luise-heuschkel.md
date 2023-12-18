@@ -5,12 +5,24 @@ displayname: Marie-Luise Heuschkel
 firstname: Marie-Luise
 initialfirst: M.
 lastname: Heuschkel
-position: Wissenschaftliche Mitarbeiterin
+position: Wissenschaftliche Projektmitarbeiterin
 start-date: 2000-01-01
 category: Forensische Biologie
-bio: >- 
-    Marie ist toll.   
-profile: assets/images/team/forscherin.png
+research: >- 
+    <ul>
+    <li> Promotion zum Thema "Verwendung anthropometrischer Körpermuster für die Personenzuordnung mittels digitaler Verfahren."
+    <li> Forenische Anthroplogie
+lectures: >-
+    <ul>
+    <li> Allgemeine Forensik
+    <li> Komplexpraktikum Anthropologie
+contact: >-
+    <ul>
+    <li> Raum 8-104
+    <li> Sprechzeiten nach Vereinbarung
+phone: +49 3727 58-1042
+mail: marie.heuschkel@hs-mittweida.de  
+profile: assets/images/team/marie.jpg
 website: https://www.cb.hs-mittweida.de/mitarbeiterinnen-mitarbeiter-in-ihren-fachgruppen/heuschkel-marie-luise/
 features:
     - feature-title: 

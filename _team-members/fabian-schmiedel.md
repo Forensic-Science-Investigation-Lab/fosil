@@ -6,11 +6,19 @@ firstname: Fabian
 initialfirst: F.
 lastname: Schmiedel
 position: Wissenschaftlicher Mitarbeiter
-start-date: 2000-01-01
-category: FoSIL
-bio: >- 
-    Fabian ist toll.   
-profile: assets/images/team/forscher.png
+start-date: 2021-07-01
+category:  Digitalisierung der forensischen Fallarbeit
+research: >- 
+    <ul>
+    <li> Forschungsprojekt Cave
+    <li> Photogrammetrie
+    <li> Fallarbeit
+contact: >-
+    <ul>
+    <li> Raum 8-104
+    <li> Sprechzeiten nach Vereinbarung
+mail: schmiede@hs-mittweida.de  
+profile: assets/images/team/fabian.jpg
 website: https://www.cb.hs-mittweida.de/mitarbeiterinnen-mitarbeiter-in-ihren-fachgruppen/schmiedel-fabian/
 features:
     - feature-title: 

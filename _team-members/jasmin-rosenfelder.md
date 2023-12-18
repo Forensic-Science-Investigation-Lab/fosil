@@ -5,11 +5,14 @@ displayname: Jasmin Rosenfelder
 firstname: Jasmin
 initialfirst: J.
 lastname: Rosenfelder
-position: Wissenschaftliche Mitarbeiterin
+position: Projektmitarbeiterin
 start-date: 2000-01-01
 category: Digitalisierung der forensischen Fallarbeit
-bio: >- 
-    Jasmin ist toll.   
+contact: >-
+    <ul>
+    <li> Raum 8-001
+    <li> Sprechzeiten nach Vereinbarung
+mail: rosenfel@hs-mittweida.de
 profile: assets/images/team/forscherin.png
 website: https://www.cb.hs-mittweida.de/mitarbeiterinnen-mitarbeiter-in-ihren-fachgruppen/rosenfelder-jasmin/
 features:
