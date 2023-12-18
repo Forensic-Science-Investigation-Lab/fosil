@@ -714,6 +714,18 @@ twentytwenty:
   place: International Journal on Advances in Internet Technology
   url: https://www.researchgate.net/publication/349027775_Measuring_Competence_Improvements_to_Determine_the_Degree_of_Opinion_Leadership_in_Social_Networks
 
+- title: "Towards a better understanding of students in the entry phase of their studies"
+  authors:
+  - Maik Benndorf
+  - Gabriel Kind
+  - Hanna Siewerts
+  - Florian Heinke
+  - Uwe Schneider
+  type: article
+  year: 2020
+  place: Proceedings of the 9th Computer Science Education Research Conference
+  url: https://doi.org/10.1145/3442481.3442499
+
 twentynineteen:
 - title: "Multi-Label Classification of Blurbs with SVM Classifier Chains"
   authors: 
@@ -873,6 +885,39 @@ twentynineteen:
   year: 2019
   place: International journal of food microbiology
   url: https://www.researchgate.net/publication/333606628_Structural_change_in_GadD2_of_Listeria_monocytogenes_field_isolates_supports_nisin_resistance
+
+- title: "Structural change in GadD2 of Listeria monocytogenes field isolates supports nisin resistance"
+  authors: 
+  - Maik Szendy
+  - Stefan Kalkhof
+  - Sebastian Bittrich
+  - Florian Kaiser
+  - Christoph Leberecht
+  - Dirk Labudde
+  - Matthias Noll
+  type: article
+  year: 2019
+  place: International journal of food microbiology
+  url: https://www.researchgate.net/publication/333606628_Structural_change_in_GadD2_of_Listeria_monocytogenes_field_isolates_supports_nisin_resistance
+
+- title: "A Novel Approach for Fast Protein Structure Comparison and Heuristic Structure Database Searching Based on Residue EigenRank Scores"
+  authors: 
+  - Florian Heinke
+  - Lars Hempel
+  - Dirk Labudde
+  type: article
+  year: 2019
+  place: Beyond Databases, Architectures and Structures. Paving the Road to Smart Data Processing and Analysis
+  url: http://dx.doi.org/10.1007/978-3-030-19093-4_18
+
+- title: "Unsupervised Discovery of Geometrically Common Structural Motifs and Long-Range Contacts in Protein 3D Structures"
+  authors: 
+  - Florian Kaiser
+  - Dirk Labudde
+  type: article
+  year: 2019
+  place: IEEE/ACM transactions on computational biology and bioinformatics
+  url: https://doi.org/10.1109/TCBB.2017.2786250
 
 twentyeighteen:
 - title: "Sicherheit ist die Abwesenheit von Kriminalität - eine Hypothese"
@@ -1220,6 +1265,29 @@ twentysixteen:
   place: 1st. International Conference on Advances in Computation, Communications and Services (ACCSE)
   url: https://www.thinkmind.org/index.php?view=instance&instance=ACCSE+2016
 
+- title: "eQuant - A Server for Fast Protein Model Quality Assessment by Integrating High-Dimensional Data and Machine Learning"
+  authors: 
+  - Sebastian Bittrich
+  - Florian Heinke
+  - Dirk Labudde
+  type: article
+  year: 2016
+  place: Beyond Databases, Architectures and Structures. Advanced Technologies for Data Mining and Knowledge Discovery
+  url: http://dx.doi.org/10.1007/978-3-319-34099-9_32
+
+- title: "Evaluation of Descriptor Algorithms of Biological Sequences and Distance Measures for the Intelligent Cluster Index (ICIx)"
+  authors: 
+  - Stefan Schildbach
+  - Florian Heinke
+  - Wolfgang Benn
+  - Dirk Labudde
+  type: article
+  year: 2016
+  place: Beyond Databases, Architectures and Structures. Advanced Technologies for Data Mining and Knowledge Discovery
+  url: http://dx.doi.org/10.1007/978-3-319-34099-9_33
+
+
+
 twentyfithteen:
 - title: "Towards Predictive Policing: Knowledge-based Monitoring of Social Networks"
   authors: 
@@ -1312,6 +1380,17 @@ twentyfithteen:
   year: 2015
   place: Der Kriminalist
   url:
+
+  - title: "AeProS – A Bioinformatics Knowledgebase, Toolbox and Database for Characterizing Protein Function"
+  authors: 
+  - Florian Heinke
+  - Daniel Stockmann
+  - Stefan Schildbach
+  - Dirk Labudde
+  type: article
+  year: 2015
+  place: Beyond Databases, Architectures and Structures
+  url: http://dx.doi.org/10.1007/978-3-319-18422-7_51
 
 twentyfourteen:
 - title: "Semantic Tools for Forensics: Towards Finding Evidence in Short Messages"
@@ -1437,6 +1516,18 @@ twentythirdteen:
   year: 2013
   place: Research on Diabetes. Functional Analyses of Membrane Protein Mutants involved in Nephrogenic Diabetes insipidus - An Energy-based Approach
   url: https://www.researchgate.net/publication/235988615_Functional_Analyses_of_Membrane_Protein_Mutants_involved_in_Nephrogenic_Diabetes_insipidus_An_Energy-based_Approach
+
+- title: "eProS - An online Toolbox, Knowledgebase and Repository for Protein Energy Profiling"
+  authors: 
+  - Florian Heinke
+  - Stefan Schildbach
+  - Daniel Stockmann
+  - Dirk Labudde
+  type: article
+  year: 2013
+  place: International Conference on Applied Informatics
+  url: https://www.researchgate.net/publication/257061532_eProS_-_An_online_Toolbox_Knowledgebase_and_Repository_for_Protein_Energy_Profiling
+
 
 twentytwelve:
 - title: "Semantic Tools for Forensics: A Highly Adaptable Framework"

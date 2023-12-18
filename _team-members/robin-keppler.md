@@ -6,7 +6,7 @@ firstname: Robin
 initialfirst: R.
 lastname: Keppler
 position: Mitarbeiter Fachgruppe Forensik
-start-date: 2000-01-01
+start-date: 2023-10-10
 category: Teamassistenz und Koordination
 contact: >-
     <ul>
@@ -14,8 +14,9 @@ contact: >-
     <li> Sprechzeiten nach Vereinbarung
 phone: +49 3727 58-1422
 mail: keppler@hs-mittweida.de   
-profile: assets/images/team/forscher.png
+profile: assets/images/team/robin.jpg
 website: https://www.cb.hs-mittweida.de/mitarbeiterinnen-mitarbeiter-in-ihren-fachgruppen/keppler-robin/
+linkedin: https://de.linkedin.com/in/robin-keppler-b7a406230
 features:
     - feature-title: 
       feature-img: 
