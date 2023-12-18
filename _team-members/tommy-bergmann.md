@@ -10,7 +10,7 @@ start-date: 2016-01-01
 category: Forensische Biologie
 research: >-
     <ul>
-     <li> Promotion zum Thema "Development of a realistic model of blood aging at the crime scene based on chromatographic and spectroscopic analysis"
+    <li> Promotion zum Thema "Development of a realistic model of blood aging at the crime scene based on chromatographic and spectroscopic analysis"
     <li> Forensische Blutspurenmusteranalyse  
 lectures: 
     <ul>
