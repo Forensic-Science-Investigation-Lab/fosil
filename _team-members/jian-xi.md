@@ -10,7 +10,7 @@ start-date: 2017-11-01
 category: Forensische Netzwerkforschung und inhaltsbasierte Informationsgewinnung
 research: >- 
     <ul>
-    <li> Pomotion zum Thema "Semantic Analysis of Complex Communication Networks in Mobile Forensics"
+    <li> Promotion zum Thema "Semantic Analysis of Complex Communication Networks in Mobile Forensics"
     <li> Forensic Text Mining
     <li> Machine Learning
     <li> Natural Language Processing
