@@ -60,7 +60,7 @@ background:
                         <div class="col-lg border-sm-bottom {% if mod == 1 %} border-lg-right {% endif %}">
                             <div class="row">
                                 <div class="col-md-3 align-self-center mt-3">
-                                    <a href="{{ tutorial.url | relative_url | replace: '//', '/' }}" class="d-none d-md-block" style="max-width: 100%;">
+                                    <a href="{{ tutorial.link }}" class="d-none d-md-block" style="max-width: 100%;" target="_blank">
                                     {% if tutorial.thumbnail %}
                                         <img src="{{ tutorial.thumbnail | relative_url }}" class=" img-fluid  d-none d-md-block" style="max-width: 100%;" alt="Tutorial icon">
                                     {% else %}
@@ -69,7 +69,7 @@ background:
                                 </a>
                                 </div>
                                 <div class="col-md-9 align-self-center mt-3">
-                                    <h3 class="mt-0"><a href="{{ tutorial.url | relative_url | replace: '//', '/' }}">{{ tutorial.title }}</a></h3>
+                                    <h3 class="mt-0"><a href="{{ tutorial.link }}" target="_blank">{{ tutorial.title }}</a></h3>
                                 </div>
                             </div>
                             <p class="post-subtitle text-justify">
