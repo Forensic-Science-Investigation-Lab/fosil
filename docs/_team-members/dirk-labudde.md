@@ -5,9 +5,9 @@ displayname: Dirk Labudde
 firstname: Dirk
 initialfirst: D.
 lastname: Labudde
-position: Professur Forensik/Bioinformatik
+position: Professur Forensik/Bioinformatik <br> Leiter Fachgruppe FoSIL
 start-date: 2016-01-01
-category: Fachgruppensprecher
+category: Professoren
 contact: >-
     <ul>
     <li> Raum 8-105
