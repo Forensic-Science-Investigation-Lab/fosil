@@ -25,7 +25,7 @@ contact: >-
     <li> Sprechzeiten nach Vereinbarung
 phone: +49 3727 58-1562
 mail: heinke@hs-mittweida.de
-profile: assets/images/team/heik.png
+profile: assets/images/team/heinke.png
 website: https://www.cb.hs-mittweida.de/mitarbeiterinnen-mitarbeiter-in-ihren-fachgruppen/heinke-florian/
 linkedin: https://www.researchgate.net/profile/Florian-Heinke
 features:

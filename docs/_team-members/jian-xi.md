@@ -23,7 +23,7 @@ contact: >-
 phone: +49 3727 58-1718
 phone: +49 3727 58-1062
 mail: xi@hs-mittweida.de
-profile: assets/images/team/jian.png
+profile: assets/images/team/xi.png
 website: https://www.cb.hs-mittweida.de/mitarbeiterinnen-mitarbeiter-in-ihren-fachgruppen/xi-jian/
 linkedin: https://www.researchgate.net/profile/Jian-Xi-2
 features:

@@ -22,7 +22,7 @@ bio: >
     - Netzwerkforensik <br>
     <br>
     - Sprechzeiten nach Vereinbarung
-profile: assets/images/team/ronny.png
+profile: assets/images/team/bodach.png
 website: https://www.cb.hs-mittweida.de/professoren-innen/forensik/prof-bodach/
 linkedin: https://de.linkedin.com/in/ronny-bodach-8654a5257/
 features:
