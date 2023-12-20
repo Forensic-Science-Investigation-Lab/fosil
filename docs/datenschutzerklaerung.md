@@ -53,10 +53,18 @@ Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:
 Prof. Dr. rer. nat. Dirk Labudde <br>
 Technikumplatz 17 <br>
 09648 Mittweida <br>
-Germany <br>
+Germany
 
-Telefon: +49 3727 58-1469 <br>
-E-Mail: labudde@hs-mittweida.de
+<script language="JavaScript" type="text/javascript">
+  var part1 = "labudde";
+  var part2 = Math.pow(2,6);
+  var part3 = String.fromCharCode(part2);
+  var part4 = "hs-mittweida.de";
+  var part5 = part1 + String.fromCharCode(part2) + part4;
+  document.write("Telefon: +49 3727 58-1469" + "<br>");
+  document.write("E-Mail: " + "<a href=" + "mai" + "lto" + ":" + part5 + ">" + part1 + part3 + part4 + "</a");
+</script>
+<br>
 
 Verantwortliche Stelle ist die natürliche oder juristische Person, die allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten (z. B. Namen, E-Mail-Adressen o. Ä.) entscheidet.
 
