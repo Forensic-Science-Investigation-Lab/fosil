@@ -11,7 +11,8 @@ category: Professoren
 contact: >-
     <ul>
     <li> Raum 8-106
-    <li> Sprechzeiten Diesntag 16:00 - 17:00 Uhr nach Termin unter https://t1p.de/44j8
+    <li> Sprechzeiten nach Vereinbarung (Moodle): <br>
+    Klicken Sie <u><a href="https://moodle.hs-mittweida.de/course/view.php?id=974" target="_blank">hier</a></u> um jetzt einen Termin zu buchen.
 phone: +49 3727 58-1423
 mail: spranger
 profile: assets/images/team/spranger.png
