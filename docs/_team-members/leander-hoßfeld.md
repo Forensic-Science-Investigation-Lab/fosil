@@ -7,7 +7,7 @@ initialfirst: L.
 lastname: Hoßfeld
 position: Wissenschaftlicher Mitarbeiter
 start-date: 2000-01-01
-category: Lehrkräfte für besondere Aufgaben
+category: Mitarbeiterinnen und Mitarbeiter
 contact: >-
     <ul>
     <li> Raum 6-031

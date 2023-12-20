@@ -7,7 +7,7 @@ initialfirst: F.
 lastname: Heinke
 position: Lehrkraft für besondere Aufgaben
 start-date: 2000-01-01
-category: Lehrkräfte für besondere Aufgaben
+category: Mitarbeiterinnen und Mitarbeiter
 research: >- 
     <ul>
     <li> Statistische Modellierung

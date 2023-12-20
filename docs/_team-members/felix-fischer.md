@@ -7,7 +7,7 @@ initialfirst: F.
 lastname: Fischer
 position: Wissenschaftlicher Projektmitarbeiter
 start-date: 2022-03-01
-category: Digitalisierung der forensischen Fallarbeit
+category: Mitarbeiterinnen und Mitarbeiter
 research: >- 
     <ul>
     <li>IoT

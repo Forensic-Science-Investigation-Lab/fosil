@@ -7,7 +7,7 @@ initialfirst: S.
 lastname: Richter
 position: Wissenschaftliche Mitarbeiterin
 start-date: 2021-05-19
-category: Digitalisierung der forensischen Fallarbeit
+category: Mitarbeiterinnen und Mitarbeiter
 research: >- 
     <ul>
     <li> Promotion zum Thema "Automatisierte Erstellung eines Personspezifischen Rigs für die Identifizierung von Personen in Videomaterial"

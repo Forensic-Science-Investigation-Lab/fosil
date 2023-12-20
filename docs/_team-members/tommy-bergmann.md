@@ -7,7 +7,7 @@ initialfirst: T.
 lastname: Tommy Bergmann
 position: Wissenschaftlicher Mitarbeiter
 start-date: 2016-01-01
-category: Forensische Biologie
+category: Mitarbeiterinnen und Mitarbeiter
 research: >-
     <ul>
     <li> Promotion zum Thema "Development of a realistic model of blood aging at the crime scene based on chromatographic and spectroscopic analysis"

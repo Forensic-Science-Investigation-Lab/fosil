@@ -7,7 +7,7 @@ initialfirst: E.
 lastname: Pistorius
 position: Projektmitarbeiterin
 start-date: 2000-01-01
-category: Digitalisierung der forensischen Fallarbeit
+category: Mitarbeiterinnen und Mitarbeiter
 contact: >-
     <ul>
     <li> Raum 6-031

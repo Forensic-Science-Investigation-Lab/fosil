@@ -7,7 +7,7 @@ initialfirst: J.
 lastname: Felser
 position: Wissenschaftliche Mitarbeiterin
 start-date: 2021-08-01
-category: Forensische Netzwerkforschung und inhaltsbasierte Informationsgewinnung
+category: Mitarbeiterinnen und Mitarbeiter
 research: >- 
     <ul>
     <li>Forensisches Text Mining</li>

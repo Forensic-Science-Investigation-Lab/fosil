@@ -7,7 +7,7 @@ initialfirst: J.
 lastname: Xi
 position: Wissenschaftlicher Mitarbeiter
 start-date: 2017-11-01
-category: Forensische Netzwerkforschung und inhaltsbasierte Informationsgewinnung
+category: Mitarbeiterinnen und Mitarbeiter
 research: >- 
     <ul>
     <li> Promotion zum Thema "Semantic Analysis of Complex Communication Networks in Mobile Forensics"

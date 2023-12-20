@@ -7,7 +7,7 @@ initialfirst: S.
 lastname: Becker
 position: Wissenschaftlicher Projektmitarbeiter
 start-date: 2000-01-01
-category: Digitalisierung der forensischen Fallarbeit
+category: Mitarbeiterinnen und Mitarbeiter
 research: >-
     <ul>
     <li> Promotion zum Thema "Plausibilitätsprüfung frei verfügbarer Physik Engines als Werkzeug anthropometrischer Menschmodellsimulationen zur Aufklärungsunterstützung forensischer Fragestellungen"

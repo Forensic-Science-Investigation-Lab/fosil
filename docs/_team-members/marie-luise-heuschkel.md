@@ -7,7 +7,7 @@ initialfirst: M.
 lastname: Heuschkel
 position: Wissenschaftliche Projektmitarbeiterin
 start-date: 2000-01-01
-category: Forensische Biologie
+category: Mitarbeiterinnen und Mitarbeiter
 research: >- 
     <ul>
     <li> Promotion zum Thema "Verwendung anthropometrischer Körpermuster für die Personenzuordnung mittels digitaler Verfahren."

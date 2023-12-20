@@ -7,7 +7,7 @@ initialfirst: M.
 lastname: Spranger
 position: Professur Forensisches Textmining und Computerlinguistik 
 start-date: 2000-01-01
-category: Forensische Netzwerkforschung und inhaltsbasierte Informationsgewinnung
+category: Professoren
 contact: >-
     <ul>
     <li> Raum 8-106

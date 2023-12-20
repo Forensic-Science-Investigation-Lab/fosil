@@ -7,7 +7,7 @@ initialfirst: R.
 lastname: Bodach
 position: Professur IT Sicherheit/Digitale Forensik
 start-date: 2019-01-01
-category: IT Sicherheit/Digitale Forensik 
+category: Professoren 
 bio: > 
     - Datenträger- und Dateisystemforensik <br>
     - Endgeräte- und Betriebssystemforensik <br>

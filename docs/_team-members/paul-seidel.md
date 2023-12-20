@@ -7,7 +7,7 @@ initialfirst: P.
 lastname: Seidel
 position: Projektmitarbeiter
 start-date: 2000-01-01
-category: Digitalisierung der forensischen Fallarbeit
+category: Mitarbeiterinnen und Mitarbeiter
 contact: >-
     <ul>
     <li> Raum 8-001

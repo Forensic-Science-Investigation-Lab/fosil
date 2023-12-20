@@ -7,7 +7,7 @@ initialfirst: W.
 lastname: Delling
 position: Wissenschaftlicher Mitarbeiter
 start-date: 2023-11-15
-category: Digitalisierung der forensischen Fallarbeit
+category: Mitarbeiterinnen und Mitarbeiter
 contact: >-
     <ul>
     <li> Raum 8-101

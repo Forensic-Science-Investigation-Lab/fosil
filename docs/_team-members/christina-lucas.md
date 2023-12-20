@@ -7,7 +7,7 @@ initialfirst: C.
 lastname: Lucas
 position: Wissenschaftliche Mitarbeiterin
 start-date: 2000-01-01
-category: Forensische Biologie
+category: Mitarbeiterinnen und Mitarbeiter
 contact: >-
     <ul>
     <li> Raum 6-132

@@ -7,7 +7,7 @@ initialfirst: F.
 lastname: Schmiedel
 position: Wissenschaftlicher Mitarbeiter
 start-date: 2021-07-01
-category:  Digitalisierung der forensischen Fallarbeit
+category:  Mitarbeiterinnen und Mitarbeiter
 research: >- 
     <ul>
     <li> Forschungsprojekt Cave

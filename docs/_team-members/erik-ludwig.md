@@ -7,7 +7,7 @@ initialfirst: E.
 lastname: Erik
 position: Lehrkraft für besondere Aufgaben
 start-date: 2000-01-01
-category: Lehrkräfte für besondere Aufgaben
+category: Mitarbeiterinnen und Mitarbeiter
 contact: >-
     <ul>
     <li> Raum 6-118

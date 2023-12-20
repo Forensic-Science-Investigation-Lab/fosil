@@ -21,7 +21,7 @@ contact: >-
 phone: +49 3727 58-2253
 mail: jaeckel1@hs-mittweida.de
 start-date: 2020-04-01
-category: Forensische Netzwerkforschung und inhaltsbasierte Informationsgewinnung
+category: Mitarbeiterinnen und Mitarbeiter
 profile: assets/images/team/lukas.jpg
 website: https://www.cb.hs-mittweida.de/mitarbeiterinnen-mitarbeiter-in-ihren-fachgruppen/jaeckel-lukas/
 features:

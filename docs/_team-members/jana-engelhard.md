@@ -7,7 +7,7 @@ initialfirst: J.
 lastname: Engelhard
 position: Wissenschaftliche Mitarbeiterin
 start-date: 2023-06-01
-category: Digitalisierung der forensischen Fallarbeit
+category: Mitarbeiterinnen und Mitarbeiter
 research: >- 
     <ul>
     <li> IT-Recht

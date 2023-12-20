@@ -7,7 +7,7 @@ initialfirst: F.
 lastname: Meyer
 position: Wissenschaftlicher Mitarbeiter
 start-date: 2023-06-01
-category: Forensische Netzwerkforschung und inhaltsbasierte Informationsgewinnung
+category: Mitarbeiterinnen und Mitarbeiter
 research: >- 
     <ul>
     <li> Promotion zum Thema "Ausbreitung von Hass in sozialen Netzen und die Bestimmung der dynamischen Toxizität"

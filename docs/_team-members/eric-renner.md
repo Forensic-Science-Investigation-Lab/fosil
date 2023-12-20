@@ -6,7 +6,7 @@ firstname: Eric
 initialfirst: E.
 lastname: Renner
 position: Wissenschaftlicher Mitarbeiter
-category: Digitalisierung der forensischen Fallarbeit
+category: Mitarbeiterinnen und Mitarbeiter
 start-date: 2021-07-21
 research: >- 
     <ul>

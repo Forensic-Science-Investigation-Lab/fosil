@@ -7,7 +7,7 @@ initialfirst: M.
 lastname: Wagner
 position: Lehrkraft für besondere Aufgaben
 start-date: 2018-08-01
-category: Lehrkräfte für besondere Aufgaben
+category: Mitarbeiterinnen und Mitarbeiter
 lectures: >-
     <ul>
     <li> Allgemeine Forensik
