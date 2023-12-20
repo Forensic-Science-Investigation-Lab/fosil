@@ -62,7 +62,7 @@ Germany
   var part4 = "hs-mittweida.de";
   var part5 = part1 + String.fromCharCode(part2) + part4;
   document.write("Telefon: +49 3727 58-1469" + "<br>");
-  document.write("E-Mail: " + "<a href=" + "mai" + "lto" + ":" + part5 + ">" + part1 + part3 + part4 + "</a");
+  document.write("E-Mail: " + "<a href=" + "mai" + "lto" + ":" + part5 + ">" + part1 + part3 + part4 + "</a>");
 </script>
 <br>
 

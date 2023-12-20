@@ -17,7 +17,14 @@ background: '/assets/images/backgrounds/network-4851079_1920.jpg'
         <ul>
             <li> Frau <u><a href="{{ '/about/team/kristin-beer/' | relative_url }}">Kristin Beer</a></u> </li>
             <li> Telefon: +49 3727 58-1077 </li>
-            <li> E-Mail: <u><a href="mailto:beer1@hs-mittweida.de">beer1@hs-mittweida.de</a></u> </li>
+            <script language="JavaScript" type="text/javascript">
+            var part1 = "beer";
+            var part2 = Math.pow(2,6);
+            var part3 = String.fromCharCode(part2);
+            var part4 = "hs-mittweida.de";
+            var part5 = part1 + String.fromCharCode(part2) + part4;
+            document.write("<li>" + "E-Mail: " + "<u>" + "<a href=" + "mai" + "lto" + ":" + part5 + ">" + part1 + part3 + part4 + "</a>" + "</u>" + "</li>");
+            </script>
             <li> Haus 8, Raum 8-112 </li>
         </ul>
     </td>
@@ -36,7 +43,14 @@ background: '/assets/images/backgrounds/network-4851079_1920.jpg'
         <ul>
             <li> Frau <u><a href="{{ '/about/team/maria-rein/' | relative_url }}">Maria Rein</a></u> </li>
             <li> Telefon: +49 3727 58-1690 </li>
-            <li> E-Mail: <u><a href="mailto:rein@hs-mittweida.de">rein@hs-mittweida.de</a></u> </li>
+            <script language="JavaScript" type="text/javascript">
+            var part1 = "rein";
+            var part2 = Math.pow(2,6);
+            var part3 = String.fromCharCode(part2);
+            var part4 = "hs-mittweida.de";
+            var part5 = part1 + String.fromCharCode(part2) + part4;
+            document.write("<li>" + "E-Mail: " + "<u>" + "<a href=" + "mai" + "lto" + ":" + part5 + ">" + part1 + part3 + part4 + "</a>" + "</u>" + "</li>");
+            </script>
             <li> Haus 8, Raum 8-303 </li>
         </ul>
     </td>
@@ -55,7 +69,14 @@ background: '/assets/images/backgrounds/network-4851079_1920.jpg'
         <ul>
             <li> Frau <u><a href="{{ '/about/team/nadine-friedewald/' | relative_url }}">Nadine Friedewald</a></u> </li>
             <li> Telefon: +49 3727 58-1788 </li>
-            <li> E-Mail: <u><a href="mailto:friedewa@hs-mittweida.de">friedewa@hs-mittweida.de</a></u> </li>
+            <script language="JavaScript" type="text/javascript">
+            var part1 = "friedewa";
+            var part2 = Math.pow(2,6);
+            var part3 = String.fromCharCode(part2);
+            var part4 = "hs-mittweida.de";
+            var part5 = part1 + String.fromCharCode(part2) + part4;
+            document.write("<li>" + "E-Mail: " + "<u>" + "<a href=" + "mai" + "lto" + ":" + part5 + ">" + part1 + part3 + part4 + "</a>" + "</u>" + "</li>");
+            </script>
             <li> Haus 8, Raum 8-113 </li>
         </ul>
     </td>
