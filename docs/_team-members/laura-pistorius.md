@@ -22,7 +22,7 @@ lectures:
 contact: Sprechzeiten auf Anfrage
 phone:
 mail: 
-profile: assets/images/team/pistorius.png
+profile: assets/images/team/pistorius_l.png
 website: https://www.cb.hs-mittweida.de/mitarbeiterinnen-mitarbeiter-in-ihren-fachgruppen/pistorius-laura/
 features:
     - feature-title: 
