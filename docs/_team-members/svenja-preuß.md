@@ -8,6 +8,9 @@ lastname: Preuß
 position: Referentin IT-Forensik
 start-date: 2000-01-01
 category: Fraunhofer Lernlabor für Cybersicherheit
+research: >- 
+    <ul>
+    <li> Fallarbeit
 contact: >-
     <ul>
     <li> Raum 8-101
