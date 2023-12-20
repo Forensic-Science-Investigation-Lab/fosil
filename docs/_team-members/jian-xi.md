@@ -22,7 +22,7 @@ contact: >-
     <li> Sprechzeiten Dienstag 16:00 - 18:00 Uhr
 phone: +49 3727 58-1718
 phone: +49 3727 58-1062
-mail: xi@hs-mittweida.de
+mail: xi
 profile: assets/images/team/xi.png
 website: https://www.cb.hs-mittweida.de/mitarbeiterinnen-mitarbeiter-in-ihren-fachgruppen/xi-jian/
 linkedin: https://www.researchgate.net/profile/Jian-Xi-2

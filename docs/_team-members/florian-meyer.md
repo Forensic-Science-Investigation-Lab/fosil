@@ -15,7 +15,7 @@ contact: >-
     <ul>
     <li> Raum 8-106
     <li> Sprechzeiten nach Vereinbarung
-mail: meyer8@hs-mittweida.de 
+mail: meyer8
 profile: assets/images/team/meyer.png
 website: https://www.cb.hs-mittweida.de/mitarbeiterinnen-mitarbeiter-in-ihren-fachgruppen/meyer-florian/
 features:

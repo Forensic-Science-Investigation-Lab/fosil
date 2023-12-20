@@ -15,7 +15,7 @@ contact: >-
     <ul>
     <li> Raum 8-101
     <li> Sprechzeiten nach Vereinbarung
-mail: preuss2@hs-mittweida.de 
+mail: preuss2
 profile: assets/images/team/forscherin.png
 website: https://www.cb.hs-mittweida.de/mitarbeiterinnen-mitarbeiter-in-ihren-fachgruppen/preuss-svenja/
 features:

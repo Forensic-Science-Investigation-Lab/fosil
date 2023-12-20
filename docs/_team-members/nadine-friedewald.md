@@ -18,7 +18,7 @@ contact: >-
     <li> Raum 8-113
     <li> Sprechzeiten nach Vereinbarung
 phone: +49 3727 58-1788
-mail: friedewa@hs-mittweida.de 
+mail: friedewa
 profile: assets/images/team/friedewald.png
 website: https://www.cb.hs-mittweida.de/mitarbeiterinnen-mitarbeiter-in-ihren-fachgruppen/friedewald-nadine/
 linkedin: https://www.linkedin.com/in/nadine-friedewald-46094516a/ 

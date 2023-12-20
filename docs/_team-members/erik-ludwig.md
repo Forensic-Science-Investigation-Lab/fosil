@@ -12,7 +12,7 @@ contact: >-
     <ul>
     <li> Raum 6-118
     <li> Sprechzeiten Freitag 16:00 - 17:00 Uhr und nach Vereinbarung 
-mail: ludwig@hs-mittweida.de 
+mail: ludwig
 phone: +49 3727 58-1700 
 profile: assets/images/team/forscher.png
 website: https://www.cb.hs-mittweida.de/mitarbeiterinnen-mitarbeiter-in-ihren-fachgruppen/ludwig-erik/

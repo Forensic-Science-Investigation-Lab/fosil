@@ -18,7 +18,7 @@ contact: >-
     <li> Raum 8-112
     <li> Sprechzeiten nach Vereinbarung
 phone: +49 3727 58-1077
-mail: beer1@hs-mittweida.de  
+mail: beer1
 profile: assets/images/team/beer.png
 website: https://www.cb.hs-mittweida.de/mitarbeiterinnen-mitarbeiter-in-ihren-fachgruppen/beer-kristin/
 features:

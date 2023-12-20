@@ -12,7 +12,7 @@ contact: >-
     <ul>
     <li> Raum 8-001
     <li> Sprechzeiten nach Vereinbarung
-mail: seidel6@hs-mittweida.de
+mail: seidel6
 profile: assets/images/team/forscher.png
 website: https://www.cb.hs-mittweida.de/mitarbeiterinnen-mitarbeiter-in-ihren-fachgruppen/seidel-paul/
 features:

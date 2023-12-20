@@ -20,8 +20,8 @@ lectures:
     <li>Digitale Forensik Grundlagen</li>
     </ul>
 contact: Sprechzeiten auf Anfrage
-phone:
-mail: 
+phone: +49 3727 58-1257
+mail: pistori1
 profile: assets/images/team/pistorius_l.png
 website: https://www.cb.hs-mittweida.de/mitarbeiterinnen-mitarbeiter-in-ihren-fachgruppen/pistorius-laura/
 features:

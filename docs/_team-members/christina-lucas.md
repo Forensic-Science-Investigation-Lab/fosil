@@ -13,7 +13,7 @@ contact: >-
     <li> Raum 6-132
     <li> Sprechzeiten nach Vereinbarung 
 phone: +49 3727 58-1339 
-mail: lucas@hs-mittweida.de
+mail: lucas
 profile: assets/images/team/forscherin.png
 website: https://www.cb.hs-mittweida.de/mitarbeiterinnen-mitarbeiter-in-ihren-fachgruppen/lucas-christina/
 features:

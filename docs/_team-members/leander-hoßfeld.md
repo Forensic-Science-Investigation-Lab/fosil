@@ -13,7 +13,7 @@ contact: >-
     <li> Raum 6-031
     <li> Sprechzeiten nach Vereinbarung
 phone: +49 3727 58-1748
-mail: hossfeld@hs-mittweida.de
+mail: hossfeld
 profile: assets/images/team/forscher.png
 website: https://www.cb.hs-mittweida.de/mitarbeiterinnen-mitarbeiter-in-ihren-fachgruppen/hossfeld-leander/
 features:

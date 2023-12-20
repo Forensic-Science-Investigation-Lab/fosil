@@ -17,7 +17,7 @@ contact: >-
     <ul>
     <li> Raum 8-104
     <li> Sprechzeiten nach Vereinbarung
-mail: schmiede@hs-mittweida.de  
+mail: schmiede
 profile: assets/images/team/schmiedel.png
 website: https://www.cb.hs-mittweida.de/mitarbeiterinnen-mitarbeiter-in-ihren-fachgruppen/schmiedel-fabian/
 features:

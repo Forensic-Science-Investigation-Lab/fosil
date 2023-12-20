@@ -13,7 +13,7 @@ contact: >-
     <li> Raum 8-106
     <li> Sprechzeiten Diesntag 16:00 - 17:00 Uhr nach Termin unter https://t1p.de/44j8
 phone: +49 3727 58-1423
-mail: spranger@hs-mittweida.de 
+mail: spranger
 profile: assets/images/team/spranger.png
 website: https://www.cb.hs-mittweida.de/professoren-innen/forensik/prof-spranger/
 features:

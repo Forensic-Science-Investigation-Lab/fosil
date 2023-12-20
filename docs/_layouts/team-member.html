@@ -77,7 +77,16 @@ layout: default
                     <p><img src="{{ '/assets/images/team/phone.png' | relative_url }}" class="mr-3 img-fluid" style="height: 32px;" alt="Phone">{{ page.phone }}</p>
                 {% endif %}
                 {% if page.mail %}
-                    <p><img src="{{ '/assets/images/team/mail.png' | relative_url }}" class="mr-3 img-fluid" style="height: 32px;" alt="E-Mail"><a href="mailto:{{ page.mail }}">{{ page.mail }}</a></p>
+                    <p><img src="{{ '/assets/images/team/mail.png' | relative_url }}" class="mr-3 img-fluid" style="height: 32px;" alt="E-Mail">
+                    <script language="JavaScript" type="text/javascript">
+                        var part2 = Math.pow(2,6);
+                        var part3 = String.fromCharCode(part2);
+                        var part4 = "hs-mittweida.de";
+                        var part5 = String.fromCharCode(part2) + part4;
+                        document.write("<a href=" + "mai" + "lto" + ":" + "{{ page.mail }}" + part5 + ">" + "{{ page.mail }}" + part3 + part4 + "</a>");
+                        </script>
+                    </p>
+                
                 {% endif %}
 
                 {% if page.linkedin or page.website %}

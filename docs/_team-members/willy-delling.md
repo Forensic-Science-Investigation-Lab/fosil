@@ -13,7 +13,7 @@ contact: >-
     <li> Raum 8-101
     <li> Sprechzeiten nach Vereinbarung
 phone: 
-mail: delling1@hs-mittweida.de
+mail: delling1
 profile: assets/images/team/forscher.png
 website: https://www.cb.hs-mittweida.de/mitarbeiterinnen-mitarbeiter-in-ihren-fachgruppen/delling-willy/
 features:

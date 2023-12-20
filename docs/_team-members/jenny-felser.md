@@ -22,7 +22,7 @@ lectures:
     </ul>
 contact: Sprechzeiten auf Anfrage
 phone: +49 3727 58-1717
-mail: felser@hs-mittweida.de    
+mail: felser
 profile: assets/images/team/felser.png
 website: https://www.cb.hs-mittweida.de/mitarbeiterinnen-mitarbeiter-in-ihren-fachgruppen/felser-jenny/
 features:

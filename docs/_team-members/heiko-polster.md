@@ -13,7 +13,7 @@ contact: >-
     <li> Raum 8-303
     <li> Sprechzeiten nach Vereinbarung
 phone: +49 3727 58-1692
-mail: hpolster@hs-mittweida.de  
+mail: hpolster
 profile: assets/images/team/forscher.png
 website: https://www.cb.hs-mittweida.de/mitarbeiterinnen-mitarbeiter-in-ihren-fachgruppen/polster-heiko/
 features:

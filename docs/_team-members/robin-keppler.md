@@ -13,7 +13,7 @@ contact: >-
     <li> Raum 8-112
     <li> Sprechzeiten nach Vereinbarung
 phone: +49 3727 58-1422
-mail: keppler@hs-mittweida.de   
+mail: keppler
 profile: assets/images/team/keppler.png
 website: https://www.cb.hs-mittweida.de/mitarbeiterinnen-mitarbeiter-in-ihren-fachgruppen/keppler-robin/
 linkedin: https://de.linkedin.com/in/robin-keppler-b7a406230

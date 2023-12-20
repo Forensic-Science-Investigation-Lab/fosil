@@ -13,7 +13,7 @@ contact: >-
     <li> Raum 6-031
     <li> Sprechzeiten nach Vereinbarung
 phone: +49 3727 58-1752
-mail: wetterau@hs-mittweida.de  
+mail: wetterau
 profile: assets/images/team/forscher.png
 website: https://www.cb.hs-mittweida.de/mitarbeiterinnen-mitarbeiter-in-ihren-fachgruppen/wetterau-tim/
 features:

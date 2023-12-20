@@ -16,7 +16,7 @@ contact: >-
     <li> Raum 8-303
     <li> Sprechzeiten nach Vereinbarung
 phone: +49 3727 58-1690
-mail: rein@hs-mittweida.de   
+mail: rein
 profile: assets/images/team/rein.png
 linkedin: https://www.linkedin.com/in/maria-rein-446729295/
 website: https://www.cb.hs-mittweida.de/mitarbeiterinnen-mitarbeiter-in-ihren-fachgruppen/rein-maria/
