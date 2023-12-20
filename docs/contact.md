@@ -11,7 +11,7 @@ background: '/assets/images/backgrounds/network-4851079_1920.jpg'
 <table border="0">
  <tr>
     <td>
-    <img src="{{ '/assets/images/team/kristin.jpg' | relative_url }}" class="img-fluid" style="height: 150px;" alt="Kristin Beer">
+    <img src="{{ '/assets/images/team/beer.png' | relative_url }}" class="img-fluid" style="height: 150px;" alt="Kristin Beer">
     </td>
     <td>
         <ul>
@@ -30,7 +30,7 @@ background: '/assets/images/backgrounds/network-4851079_1920.jpg'
 <table border="0">
  <tr>
     <td>
-    <img src="{{ '/assets/images/team/maria.jpg' | relative_url }}" class="img-fluid" style="height: 150px;" alt="Maria Rein">
+    <img src="{{ '/assets/images/team/rein.png' | relative_url }}" class="img-fluid" style="height: 150px;" alt="Maria Rein">
     </td>
     <td>
         <ul>
@@ -49,7 +49,7 @@ background: '/assets/images/backgrounds/network-4851079_1920.jpg'
 <table border="0">
  <tr>
     <td>
-    <img src="{{ '/assets/images/team/nadine.jpg' | relative_url }}" class="img-fluid" style="height: 150px;" alt="Nadine Friedewald">
+    <img src="{{ '/assets/images/team/friedewald.png' | relative_url }}" class="img-fluid" style="height: 150px;" alt="Nadine Friedewald">
     </td>
     <td>
         <ul>
