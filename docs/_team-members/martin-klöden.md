@@ -13,13 +13,8 @@ contact: >-
     <li> Raum 8-303
     <li> Sprechzeiten nach Vereinbarung
 phone: +49 3727 58-1319
-<<<<<<< HEAD
-mail: kloeden@hs-mittweida.de
-profile: assets/images/team/forscher.jpg
-=======
 mail: kloeden
-profile: assets/images/team/forscher.png
->>>>>>> b1f84fce9035e3d613f25402b57c965049026061
+profile: assets/images/team/forscher.jpg
 website: https://www.cb.hs-mittweida.de/mitarbeiterinnen-mitarbeiter-in-ihren-fachgruppen/kloeden-martin/
 features:
     - feature-title: 
