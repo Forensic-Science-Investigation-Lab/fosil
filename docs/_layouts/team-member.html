@@ -38,23 +38,6 @@ layout: default
 <div class="container">
     <div class="row">
         <div class="col-lg-8 col-md-10 mx-auto">
-            <!-- attempted breadcrumbs did not look nice -->
-            <!--
-            <p>
-                <small>
-                    <nav aria-label="breadcrumb">
-                      <ol class="breadcrumb">
-                        <li class="breadcrumb-item"><a href="#">Home</a></li>
-                        <li class="breadcrumb-item"><a href="#">About</a></li>
-                        <li class="breadcrumb-item"><a href="#">WI+RE Team</a></li>
-                      </ol>
-                    </nav>
-                </small>
-            </p>
-            -->
-            <!-- do we need to repeat the name?
-            <!-- <h2>{{ page.firstname }} <span class="text-muted">{{ page.lastname }}</span></h2>-->
-
             {% if page.research %}
             <div class="lead">
                 <h4>Forschungsschwerpunkte</h4>
@@ -378,9 +361,6 @@ layout: default
                     {% endif %}
                     </small>
             {% endif %}
-            
-            <!-- prev-next buttons -->
-            {% include prev-next.html %}
             
             <!-- page specific content -->
              {{ content }}

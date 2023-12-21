@@ -34,6 +34,9 @@ collections:
     team-members:
         output: true
         permalink: /about/team/:title/
+    theses:
+        output: true
+        permalink: /students/:title/
     
 # Defaults
 author: "Das FoSIL-Team" # a default to place when author field is not specified
@@ -80,6 +83,13 @@ defaults:
         type: "team-members"
     values:
         layout: "team-member" 
+        background: "/assets/images/backgrounds/network-4851079_1920.jpg"
+  -
+    scope:
+        path: ""
+        type: "theses"
+    values:
+        layout: "theses" 
         background: "/assets/images/backgrounds/network-4851079_1920.jpg"
 
 # Build settings
