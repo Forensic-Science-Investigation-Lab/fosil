@@ -16,8 +16,13 @@ contact: >-
     <li> Raum 8-104
     <li> Sprechzeiten nach Vereinbarung
 phone: +49 3727 58-1464
+<<<<<<< HEAD
 mail: wagner1@hs-mittweida.de 
 profile: assets/images/team/wagner.jpg
+=======
+mail: wagner1
+profile: assets/images/team/wagner.png
+>>>>>>> b1f84fce9035e3d613f25402b57c965049026061
 website: https://www.cb.hs-mittweida.de/mitarbeiterinnen-mitarbeiter-in-ihren-fachgruppen/wagner-michele-nadine/
 features:
     - feature-title: 

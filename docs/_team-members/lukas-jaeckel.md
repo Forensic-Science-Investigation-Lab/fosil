@@ -19,7 +19,7 @@ contact: >-
     <li> Raum 8-106
     <li> Sprechzeiten nach Vereinbarung
 phone: +49 3727 58-2253
-mail: jaeckel1@hs-mittweida.de
+mail: jaeckel1
 start-date: 2020-04-01
 category: Mitarbeiterinnen und Mitarbeiter
 profile: assets/images/team/jaeckel.jpg

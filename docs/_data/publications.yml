@@ -1,4 +1,14 @@
 twentytwentythree:
+- title: "Towards Hypothesis-driven Forensic Text Exploration System"
+  authors: 
+  - Jenny Felser
+  - Dirk Labudde
+  - Michael Spranger
+  type: article
+  year: 2023
+  place: IARIA Congress 2023 - International Conference on Technical Advances and Human Consequences
+  url: http://thinkmind.org/index.php?view=article&articleid=iaria_congress_2023_1_100_50098
+
 - title: "Automatische Klassifikation offensiver deutscher Sprache in sozialen Netzwerken"
   authors: 
   - Christoph Demus 

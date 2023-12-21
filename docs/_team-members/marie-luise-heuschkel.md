@@ -21,7 +21,11 @@ contact: >-
     <li> Raum 8-104
     <li> Sprechzeiten nach Vereinbarung
 phone: +49 3727 58-1042
+<<<<<<< HEAD
 mail: marie.heuschkel@hs-mittweida.jpg 
+=======
+mail: marie.heuschkel
+>>>>>>> b1f84fce9035e3d613f25402b57c965049026061
 profile: assets/images/team/heuschkel.png
 website: https://www.cb.hs-mittweida.de/mitarbeiterinnen-mitarbeiter-in-ihren-fachgruppen/heuschkel-marie-luise/
 features:

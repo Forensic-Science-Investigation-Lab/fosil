@@ -26,7 +26,13 @@ accessibility-info:
 <div class="card-deck">
     <div class="card">
     <div class="card-body">
-       <h4 class="card-title text-center">{{ site.data.stats.publikationen.number}} <br><small class="text-muted">Publikationen</small></h4>
+       <h4 class="card-title text-center">{{ site.data.publications.twentytwentythree | concat: site.data.publications.twentytwentytwo
+        | concat: site.data.publications.twentytwentyone | concat: site.data.publications.twentytwenty
+        | concat: site.data.publications.twentynineteen | concat: site.data.publications.twentyeighteen
+        | concat: site.data.publications.twentyseventeen | concat: site.data.publications.twentysixteen
+        | concat: site.data.publications.twentyfithteen | concat: site.data.publications.twentyfourteen
+        | concat: site.data.publications.twentythirdteen | concat: site.data.publications.twentytwelve
+        | concat: site.data.publications.twentyeleven | size }} <br><small class="text-muted">Publikationen</small></h4>
     </div>
   </div> 
   <div class="card">
@@ -36,7 +42,7 @@ accessibility-info:
   </div>
   <div class="card">
     <div class="card-body">
-      <h4 class="card-title text-center">{{ site.data.stats.mitarbeitende.number}} <br><small class="text-muted">Teammitglieder</small></h4>
+      <h4 class="card-title text-center">{{ site.team-members | size }} <br><small class="text-muted">Teammitglieder</small></h4>
     </div>
   </div>
 </div>

@@ -13,8 +13,13 @@ contact: >-
     <li> Raum 8-105
     <li> Sprechzeiten Online Freitag 14:30 Uhr - 16:00 Uhr 
 phone: +49 3727 58-1469
+<<<<<<< HEAD
 mail: labudde@hs-mittweida.de  
 profile: assets/images/team/labudde.jpg
+=======
+mail: labudde
+profile: assets/images/team/labudde.png
+>>>>>>> b1f84fce9035e3d613f25402b57c965049026061
 linkedin: https://www.linkedin.com/in/dirk-labudde-b4145654/
 website: https://www.cb.hs-mittweida.de/professoren-innen/forensik/prof-labudde/
 features:

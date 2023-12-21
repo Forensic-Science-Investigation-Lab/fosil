@@ -15,7 +15,7 @@ research: >-
     <li> Entwicklung und Einsatz (teil-)automatisierter Software im Strafverfahren
 profile: assets/images/team/forscherin.jpg
 website: https://www.cb.hs-mittweida.de/mitarbeiterinnen-mitarbeiter-in-ihren-fachgruppen/engelhard-jana/
-mail: engelha1@hs-mittweida.de
+mail: engelha1
 features:
     - feature-title: 
       feature-img: 
