@@ -13,7 +13,7 @@ research: >-
     <li> IT-Recht
     <li> Datenschutz
     <li> Entwicklung und Einsatz (teil-)automatisierter Software im Strafverfahren
-profile: assets/images/team/forscherin.png
+profile: assets/images/team/forscherin.jpg
 website: https://www.cb.hs-mittweida.de/mitarbeiterinnen-mitarbeiter-in-ihren-fachgruppen/engelhard-jana/
 mail: engelha1@hs-mittweida.de
 features:

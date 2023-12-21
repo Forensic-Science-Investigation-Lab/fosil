@@ -22,7 +22,7 @@ contact: >-
     <li> Sprechzeiten nach Vereinbarung
 phone: +49 3727 58-1789
 mail: fische11@hs-mittweida.de     
-profile: assets/images/team/fischer.png
+profile: assets/images/team/fischer.jpg
 website: https://www.cb.hs-mittweida.de/mitarbeiterinnen-mitarbeiter-in-ihren-fachgruppen/fischer-felix/
 features:
     - feature-title: 

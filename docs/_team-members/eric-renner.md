@@ -16,7 +16,7 @@ contact: >-
     <ul>
     <li> Raum 8-104
     <li> Sprechzeiten nach Vereinbarung 
-profile: assets/images/team/renner.png
+profile: assets/images/team/renner.jpg
 website: https://www.cb.hs-mittweida.de/mitarbeiterinnen-mitarbeiter-in-ihren-fachgruppen/renner-eric/
 linkedin: https://www.linkedin.com/in/eric-renner-9aaa18199
 features:

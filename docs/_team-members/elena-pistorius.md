@@ -16,7 +16,7 @@ contact: >-
     <li> Raum 6-031
     <li> Sprechzeiten nach Vereinbarung 
 mail: pistoriu@hs-mittweida.de   
-profile: assets/images/team/forscherin.png
+profile: assets/images/team/forscherin.jpg
 website: https://www.cb.hs-mittweida.de/mitarbeiterinnen-mitarbeiter-in-ihren-fachgruppen/pistorius-elena/
 features:
     - feature-title: 

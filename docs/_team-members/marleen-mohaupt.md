@@ -14,7 +14,7 @@ contact: >-
     <li> Sprechzeiten Donnerstag 13:00 - 14:00 Uhr in Raum 8-003
 phone: +49 3727 58-1366
 mail: kreuzer@hs-mittweida.de  
-profile: assets/images/team/forscherin.png
+profile: assets/images/team/forscherin.jpg
 website: https://www.cb.hs-mittweida.de/mitarbeiterinnen-mitarbeiter-in-ihren-fachgruppen/mohaupt-marleen/
 features:
     - feature-title: 

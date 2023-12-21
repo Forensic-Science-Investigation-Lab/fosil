@@ -18,7 +18,7 @@ contact: >-
     <li> Sprechzeiten nach Vereinbarung
 phone: +49 3727 58-1372
 mail: hundt1@hs-mittweida.de       
-profile: assets/images/team/forscherin.png
+profile: assets/images/team/forscherin.jpg
 linkedin: https://www.linkedin.com/in/leonie-marie-hundt-17bb6123a
 website: https://www.cb.hs-mittweida.de/mitarbeiterinnen-mitarbeiter-in-ihren-fachgruppen/hundt-leonie-marie/
 features:

@@ -14,7 +14,7 @@ contact: >-
     <li> Sprechzeiten nach Vereinbarung 
 phone: +49 3727 58-1339 
 mail: lucas@hs-mittweida.de
-profile: assets/images/team/forscherin.png
+profile: assets/images/team/forscherin.jpg
 website: https://www.cb.hs-mittweida.de/mitarbeiterinnen-mitarbeiter-in-ihren-fachgruppen/lucas-christina/
 features:
     - feature-title: 

@@ -23,7 +23,7 @@ contact: >-
     <li> Sprechzeiten nach Vereinbarung
 phone: +49 3727 58 - 1749
 mail: bergmann@hs-mittweida.de  
-profile: assets/images/team/bergmann.png
+profile: assets/images/team/bergmann.jpg
 website: https://www.cb.hs-mittweida.de/mitarbeiterinnen-mitarbeiter-in-ihren-fachgruppen/bergmann-tommy/
 linkedin: https://www.researchgate.net/profile/Tommy-Bergmann
 features:

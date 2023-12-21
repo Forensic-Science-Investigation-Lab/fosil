@@ -17,7 +17,7 @@ contact: >-
     <li> Sprechzeiten nach Vereinbarung
 phone: +49 3727 58-1786
 mail: becker1@hs-mittweida.de
-profile: assets/images/team/forscher.png
+profile: assets/images/team/forscher.jpg
 website: https://www.cb.hs-mittweida.de/mitarbeiterinnen-mitarbeiter-in-ihren-fachgruppen/becker-sven/
 features:
     - feature-title: 

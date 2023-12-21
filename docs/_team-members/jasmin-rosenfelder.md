@@ -16,7 +16,7 @@ contact: >-
     <li> Raum 8-001
     <li> Sprechzeiten nach Vereinbarung
 mail: rosenfel@hs-mittweida.de
-profile: assets/images/team/forscherin.png
+profile: assets/images/team/forscherin.jpg
 website: https://www.cb.hs-mittweida.de/mitarbeiterinnen-mitarbeiter-in-ihren-fachgruppen/rosenfelder-jasmin/
 features:
     - feature-title: 
