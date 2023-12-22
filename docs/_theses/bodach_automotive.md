@@ -6,7 +6,5 @@ layout: page
 ## Thema
 Analyse von Automotive-Ethernet-Kommunikation in Zusammenarbeit mit der FSD GmbH Radeberg (vor Ort).
 
-## Voraussetzungen
-
 ## Kontakt
 <u><a href="{{ '/about/team/ronny-bodach/' | relative_url }}">Ronny Bodach</a></u>
