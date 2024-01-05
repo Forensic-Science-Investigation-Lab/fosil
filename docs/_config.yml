@@ -19,6 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Forensic Science Investigation Lab
 baseurl: "/fosil" # the subpath of your site, e.g. /blog
 url: "https://forensic-science-investigation-lab.github.io/fosil/" # the base hostname & protocol for your site, e.g. http://example.com
+favicon-url: "/assets/images/brand/favicon.png"
 instagram_username: forensik.studyweida
 permalink: /:collection/:title/
 
