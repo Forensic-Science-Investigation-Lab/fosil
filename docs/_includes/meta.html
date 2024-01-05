@@ -1,0 +1,37 @@
+<!-- Include Meta Tags Here -->
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no, user-scalable=yes">
+<meta name="keywords" content="{{site.site-keywords}}">
+<title>{{site.title}}{% if page.title %} | {{page.title}}{% endif %}</title>
+
+<!-- Open Graph general (Facebook, Pinterest & Google+) 
+<meta name="og:title" content="{{site.title}}{% if page.title %} | {{page.title}}{% endif %}">
+<meta name="og:description" content="{% unless page.layout == 'post' %}{{site.description}}{% else %}{{page.description}}{% endunless %}">
+<meta name="og:image" content="{% unless page.layout == 'post' %}{{site.site-image}}{% else %}{{page.post-image}}{% endunless %}">
+<meta name="og:image:alt" content="{{site.title}}{% if page.title %} | {{page.title}}{% endif %}">
+<meta name="og:url" content="{{site.url}}{{site.baseurl}}{{page.url}}">
+<meta name="article:author" content="https://www.facebook.com/{{site.facebook_username}}">
+<meta name="og:site_name" content="{{site.title}}{% if page.title %} | {{page.title}}{% endif %}">
+<meta name="og:type" content="website"> -->
+
+<!-- Search Engine -->
+<meta name="description" content="{% if page.description %}{{page.description}}{% else %}{{site.description}}{% endif %}">
+<meta name="image" content="{{site.site-image}}">
+<!-- Schema.org for Google -->
+<meta itemprop="name" content="{{site.title}}{% if page.title %} | {{page.title}}{% endif %}">
+<meta name="author" content="{{site.author}}"/>
+<meta itemprop="description" content="{% if page.description %}{{page.description}}{% else %}{{site.description}}{% endif %}">
+<meta itemprop="image" content="{{site.site-image}}">
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id={{site.google-analytics}}"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+
+    gtag('config', '{{site.google-analytics}}');
+</script>

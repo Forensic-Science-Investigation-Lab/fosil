@@ -19,9 +19,16 @@ description: >- # this means to ignore newlines until "baseurl:"
   Forensic Science Investigation Lab
 baseurl: "/fosil" # the subpath of your site, e.g. /blog
 url: "https://forensic-science-investigation-lab.github.io/fosil/" # the base hostname & protocol for your site, e.g. http://example.com
+# URL of Image of the Site
+site-image: assets/images/brand/Fosil.jpg
+# Keywords of the Site
+site-keywords: FoSIL, Forensic Science Investigation Lab, Forensik, Labudde, Cybersicherheit, Mittweida, Kriminalität, Cybercrime, Forschung, Fallarbeit, Big Data, Hochschule, HSMW 
 favicon-url: "/assets/images/brand/favicon.png"
 instagram_username: forensik.studyweida
 permalink: /:collection/:title/
+
+# Google Analytics
+#google-analytics:
 
 # Collections
 collections:
